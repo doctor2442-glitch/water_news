@@ -1,6 +1,672 @@
 {
  "articles": [
   {
+   "city": "서산시",
+   "date": "2026-11-09",
+   "figures": [
+    "사업비 24억2,500만원",
+    "전면 개량 681m·부분 보수 109곳",
+    "2027.1 설계~2028.12 완공"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "충남",
+   "source": "메가충청뉴스",
+   "summary": "서산시가 운산면 용장리 일대 노후 공공하수관로 정비를 위해 2027년 국·도비 지원 대상에 선정됐다. 24억여 원을 들여 관로 681m를 전면 굴착 개량하고 109곳을 부분 보수해, 2025년 기술진단에서 드러난 불명수 유입과 이음부 이탈·누수를 바로잡는다. 2027년 1월 설계를 시작해 2028년 12월 완공하며, 집중호우 때 침수되던 지역의 배수도 나아질 전망이다.",
+   "tags": [
+    "하수관로",
+    "침수"
+   ],
+   "title": "서산시, 운산면 일원 노후 하수관로 정비 추진",
+   "url": "https://www.megaccnews.com/news/articleView.html?idxno=13831",
+   "id": "megaccnews-13831"
+  },
+  {
+   "title": "서산시, 운산면 노후 하수관로 24억 투입 침수·누수 정비",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzV1B0NzIwLXpoZzNnM2tITXBpN2xLREl3NmN6eG8zdkpOQVJQeHdlYWFOamdSRU9WRlZCUU9lcTJ0bnBzTTliVWg2Q2pQLTEwN2w2RjBPd0pqemdGU01BSTJtOVY?oc=5",
+   "source": "매일일보",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "침수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 2028년까지 24억 투입 운산면 노후 하수관로 정비",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BaXNPS2RrV1Nkam9Ga1psc1g1WVNSaUhyWkhjUnIxNXlEV290RXBlMjlWT3Atd2RjeHRCM252eFBRc1MzMUNtdGdrbTdPVUpJdFhmU0ptSmdYTlFNNndkUURkdy15RU1FLVY1bWx3?oc=5",
+   "source": "www.cctoday.co.kr",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 24억원 들여 운산면 일원 노후 하수관로 정비 추진",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xREJkSHllTVV5dTNoLS05Qkx4Zl9zeXIzYjhidk5vNDQ4Vy1lbEdoSW5oWC1zTFVEeFg4MzMwYVduNTZ3UWhvWTF2YWtRcVlOQkxRUFpkcVBjZ2I2bFg1WDdFZWpmTUhjSmpHeV93?oc=5",
+   "source": "아시아투데이",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "예산군, 삽교지구 하수관로 정비사업 재착공",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZ0x4VktNSWJDcGRXQ294dzhfQjlrT3lrOVpPeGwtU1NrV1J6b0c5LXFRU2VZVlhIcVFwTzdmRFcwUncwNGlxSW5HdE93SGlBT3ZjWldfOGhoNFBoakh1c0w1S1Ezd3c0?oc=5",
+   "source": "충청타임즈",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 운산면 노후 하수관로 대규모 정비",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uXzYyMzVnM3lGTThNYUhNT3lkZmd1eWxnMmdLUVY3R1hVaEtiSEJVRFBRTUJiU1lkemVwcmFCRUJxNE5HcERjVTRlaUVrT1BUX3pkV0x2RjdwZW1jbUs0bHU4SDhGbEVlSjVzdU9R?oc=5",
+   "source": "전국매일신문",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "충남 서산시, 운산면 용장리 노후 하수관로 정비…2028년 완공 목표",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZFJ4OTdaREcxTk5fdjUyZ1V5dzQ4bkpBbmhfNjdMTU9QODJoSE5XWUtpQXZHRGZPcGlJNmoyakhhcGdHUzJMTl9ha2ppRFpTUXI2aFBDdGFHWk5JZWN4OTlFM244cTZHTEprYW5R?oc=5",
+   "source": "뉴스홈(newshome)",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 운산면 노후 하수관로 정비 추진…24억 투입",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfYkhBQnZjNDFEWS1JOG1qbElScm9Cbzl2ZXVXeDMySXZxNzlIbnhsX1psWVhkTmhQWUZULV8yRzFmOGJCWkE?oc=5",
+   "source": "뉴스충청인",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산 운산면 노후 하수관로 대수술, 24억여 원 투입, 침수·누수 문제 잡는다",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZTNXUVk1My1TWm9KNWxpWW5NeUJibHJudUlWTFRsNlBZUkhhWnhnZ05QVzd5X2lDdW5YenZPOFZhSUFVUFdzT2taUURxVmRKV3Vtcm9GLUhrdzdVNnk0endtNW03bzN0aUl4cg?oc=5",
+   "source": "중도일보",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "침수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 운산면 노후 하수관로 2028년까지 정비 추진",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hNEI5LU1YOTAzUGxpcm5yek1COWZ2c1hDNnZaRVdtLXE5RHgycU9JTDVZWVBCYlpRa1c3SHRJRnMwNkNlZTFqVFNKRDMxSzkwaDFNTXMzXzFfVnR0c0Rkbi1vR0xWSUdsMGRPcGx3?oc=5",
+   "source": "충남내포뉴스",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 운산면 용장리 노후 하수관로 정비 추진",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wUEZRVHFPUFNsRzMwNzNfSk9ETFgyaEJreVhiUW4waGcyYU9zMWJmZUFpT05BRWRfZEdnQWgtaEF2R1YtOWkxdjhPZmFKSk9ZbWtjQmlaU09ILUt1ZGpNcTZlanN1eWRpbXhid0RXeW1mOFhH?oc=5",
+   "source": "글로벌뉴스통신GNA",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 운산면 노후 하수관로 대수술 돌입",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzTkZ5WmVCWjZMY2R6ZTRZdURVNG9lQmFGSUU4Sm1tRUNpY19aTUZ6amxpcDQ1WUxBam9KeDVjbG1CV0ZYNlFfQ2U3NThMeGlNYWdObUJleUtmN0drUF90VW1LUGRHeTVQVUHSAW5BVV95cUxNT2F6M3JzNFpfcmlpb29JS0xqTkV2a2NKVXpzOWloTzBQV01aQVZaYmJhVVVxOE1vMGVjdm8zdTdQUmo5S3E0cEt3VEhNQzUzajViWEhpN0R4TlgtcW5QY1VlcDhwMWozM1liQzdkQQ?oc=5",
+   "source": "충청신문",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서산시, 운산면 노후 하수관로 정비 2028년까지 추진",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JemtuUlg4dkJENnJvN0NzRFdPMUFTR2g4b3ZJMmVzd2I1QmpYMlgtRjIxSFpYTVg0bmRvbXJWeXBsMkg3Y01mWWkyMnkxS2lKNzdWRmFubG5TWC0wQ0o0anM5UzJYZDQ3YUJrbVdER0dYZw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "장마 대비 나섰다 맨홀서 참변…28개월 만에 원청·대표 송치",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjVSZ0t6dnA3WHZGbjVvaFZzbTZMcjNkUHFucUJFdXpnWVBjY3NwY3Y0b3otZUF5SHVkbVViakczTmJ0N1ZlNHE3V1lrR1Vrek1OdjJrWXpGVTVlc05KR0Y5QzR1WVFmVFF5TUF6d0RNUWZFTUQ3V0dxMTZiNXllUQ?oc=5",
+   "source": "이데일리",
+   "date": "2026-11-09",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "포항시 하수도 부담금 논란…공무원 불성실 응대 도마",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51THVTakRDam9JR3FFakNiQ3RkN0wwRmxNSHNEa1lUbUlLU2gwb0dKUUJxbnRhYk5yc2lsWTJCajFSb2QxUTFiS3Y0U3owSHY2czFfZ0U3eU9aNWkwa1pqZWFTaWtXR0dDX0ZPYXhB?oc=5",
+   "source": "시사포커스",
+   "date": "2026-11-09",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“파리 지하엔 이런 길이…” 하수도박물관서 500m 하수망 걷기",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TcDA0MVpMTTJFY1hFS2VEZzFqb1p4Y1lYSURGOThwUEVvZ2hfQ2dCV0N2bjZiYm41bXp2WG45UVYzTnh4QVVUVFR1RzVOOFlDWE5PTDV6RWdNOGxObUo3aWRGdGxGdw?oc=5",
+   "source": "비건뉴스",
+   "date": "2026-11-09",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "[뉴스추적플러스 헤드라인 1] 보령시 상업시설 배수설비 자료 비공개… 개인정보 뒤에 가려진 행정처리 실태, 시민은 무엇을 확인할 수 있나",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53eEM4bEIwVFNWZGJBdm55UjlPUkVoQ0daR0NOc245VEFvNC1CWmNIUGdoOFpLdERhaWppSjZiQ2hJZmdKZzhUR1hlRlYxUUk?oc=5",
+   "source": "CCBS뉴스",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "GH, 안양 인덕원사거리 상수도관 공사 ‘통합시행’ 결정",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NTnMzLUhuYmNhVjNLc0tLQ2QzdUFpZEdLblN1VXB5Znd1MUdGMjlPai1rZDA2QXhNYzdSaHptOUdKQl9HN25VV2N4c1RGNF9XVXlDUzk5ZllmTnp1VzhrNXVFaw?oc=5",
+   "source": "국토일보",
+   "date": "2026-11-09",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "경기주택도시공사, 안양 인덕원 광역상수도관 통합 이설…공사기간 58% 단축",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QRlVpLTZuUFB3WGV3MGV2aWlQd0c2QUxfUzk0bVdwYmlZSGFNT18yNWozU3VfUGlIWS1qa1E5bS04Y3RPUjlodS1PM0tYSmoxT1lkbGF0Y1JkdUJBZkVTTQ?oc=5",
+   "source": "메트로신문",
+   "date": "2026-11-09",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시, 겨울철 상수도 급수공사 20일부터 접수 중단",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yckpUaVpIOVhudkhMbWlvZ2t3Ni1SYUhBQnZXLWxiUXJadkdGa1NsbmdWNlhlY1lyZF8zMjZ5V1I3SGVFUmQ0LTZKYm1HZjFubkI5d29KOHpJVm9H?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "GH, 안양 인덕원 상수도관 공사 '통합시행'…도로 차단 기간 58% 단축 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lakdnUjdsV2M2WF9xSTdPQjNFbkhHbklXTTVnUFNqT2pHczJZRnUtMjlKU0pwV3FtMnRfREtWbnFBSFc3S2xNQmVQbFFOc1l3QnEwcmdyeG9qVW5CWXJDWEhrcjJaYkl4bkHSAW9BVV95cUxNLVJraUh1d09kbDl3UWRrbUxjVkhSTHFObHFpMG1jUDExTmRJZ2dpamNNYU81WXpPUG5EalM2V2hPWHo4dUl0SXZmSExCdUpwTzdzXzQ3a1p4YVpWT2swRzBLNG1PWVlKc2NNdUo4ams?oc=5",
+   "source": "머니투데이",
+   "date": "2026-11-09",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시 상수도사업본부, 급수공사 신청 접수 중지…19일까지 신청해야",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBheWVyYWxveHZqVkVDUjhzOHpRQUNIcks1MkFkSHFCeUpwQUN0YTlLdHh3aEhyZ1FJUFQ2dXlpdUNBcG9qM0M2T2lOOTBNQkZsbTJpTk4xSGpyT3Fwc2c3Tmg1eW41UVZyNEJJ?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "경북 의성군, 3년 연속 국비 확보로 상수도 혁신 가속화",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VZTh1QWRIcGhRMlpuZVd0NlBFaHdqTTdLOFluVEFJZFVFdnBFQ25nd3ZXS3NsRWRjbVM1YjJyY0pNaGI0bWswU1RRUGp6MmFsc3dzYTJqb3EzQQ?oc=5",
+   "source": "브릿지경제",
+   "date": "2026-11-09",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "GH, 인덕원 개발·GTX-C 연계 상수도관 공사 통합",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Sd2JKWEc5TktUQVhRU3RMby1HbEhma0R0ellWY2Q4R1RwU1ZVT2ZZUmRTQkNyZk1VZ0JuOXJUY3U5bU9aTjdhdkdRYl9mcHpMWWJiNUh4UXF6Qm9heGVsYzVVSGJTczQ?oc=5",
+   "source": "팍스경제TV",
+   "date": "2026-11-09",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "GH, 안양 인덕원사거리 상수도관 공사 '통합시행' 확정… 도로 차단 58% 단축",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jZmpJemo4cHBJeUxrNC1ZMVpXOE0zR3JjV1hZM3dGWXJ1WHp6VW9FcWVCT3hpQU5wYWJoU2J5dm5iUWpLdEZxMWRVdjhOQkxuRm9xb0o2M1Q4NVQ5RWlCWEx3ZjdCMFNINUE?oc=5",
+   "source": "청년투데이",
+   "date": "2026-11-09",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "의성군, 노후상수도 정비사업 3년 연속 국비 확보, 안정적인 수돗물 공급 기반 강화",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKajRuUlFQMVZ3aHlzS0xTbWdUakxuLW5OUk56M3FzRWpaNWFncl9JMEY3TWlBUWhtUndEWVROaHpwSG0tMTE3VXhmWUxTRkVqWl9WYTVGcUZrdVBqMk1TVXRmcVNobVNSYWgxUVh3?oc=5",
+   "source": "시민행정신문",
+   "date": "2026-11-09",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "GH, 인덕원 상수도관 이설 '통합시행'…사회적 비용 193억 절감",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QS2tIY1ZvYVpXYXl0OUxzXzlSQ3M3SWtQbUFMVW9YUDJFUFYwcVNhcWY4eXM2Ym9XUnZTdFNKSmVUWWY0cEFZazZ3aW4tWVY3ekdOa3JOLWZTYjZjWlRRNtIBeEFVX3lxTE5VLUZYUWJxdHhySEdVYjJMR2luZFc5SlhIWjEwV2FQeGVfejdXVW03bV9ZSkdoSmxoQzhJRE5FOTRRY0piaXMyRlhZTFpKem5WcFpINVJNMWtfOGozNl9yU3pFemZrX3h1bmtjYk9WaENINmVlbnNjYg?oc=5",
+   "source": "뉴시스",
+   "date": "2026-11-09",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시, 동절기 상수도 급수공사 접수 중지",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10WjNkUU9ZNFQ2MDFBVkNac3RjZmlCRFI1T3lWLVZMRkNyQ1JuQlp5WkxYbTJLLUUzd2o2NHU4a2tGcHpXZGhWbVRYZXdCV0dWSXkxV3piejNEaWFCS3NBcXJuYm5ndENEMEl3?oc=5",
+   "source": "서울뉴스통신",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "GH, 인덕원사거리 광역상수도관 이설 공사 '통합시행' 추진",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJQmZ4dXRtNTlhUTd4YjhOVnVqczF6Qm9kNFd5NHU1elBSN2RGWm9LeEhXZUVRNVBOMG9VdWh3Q1JiZVdvREllLWNMMGxlSGdnOXZhT2lzSQ?oc=5",
+   "source": "데일리안",
+   "date": "2026-11-09",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시, 20일부터 3개월간 동절기 상수도 급수공사 신청 중지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yNEZ1alBzR2hnOXBEd3M5SjFfeUw4UDRMMjIyZmZITVJPbGhYMzJLdHpwaXg2UjRyTGxNMHlpazB0eXRmWE5IcEp6ZGxaS1VlN1F4RTA3SldwWTJuR2MxZG00WjZ2emJrR1lOQldn0gFyQVVfeXFMT3FKVnk1X1VJWjljZkN0TTdUTDVwODk2alJtVnE5YVRyOFlwUUJfQzlqcDNFLVJXa1k1RzRVNmcyZjV2aDc2YmdNdWdlTDBTQWthM3BGVWEwdXI5Wm5uRmdwMENLUERLcEhQZGJ4eVJ4TGln?oc=5",
+   "source": "충청리뷰",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시, 20일부터 내년 2월 19일까지 상수도 급수공사 접수 중지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuMjZ0bnZqSlVpbzZVanNTNzlaUWQybUx4MDFyLTNGVTZzYW1QVGFoZm41SkR5VU9jdXYwSGhQVER2S05ycl9IVDAtWGE4b0hNRjNrMnRfRk5wdjBmREVtNV9QX1lpczg?oc=5",
+   "source": "충북뉴스",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시, 동절기 상수도 급수공사 3개월간 접수 중단",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YMzlPSHZwUTNhZG1DY21nd1BZU0UyU2lPbkpGa1pfWWVod1ItVGtWS1BOTmpnc1BLUlFYNUVLdHpLS05faXJxQmhPeFFCdUpXVDBqR21RR0hxMjItUGpoem9nWnQ3Q1pfS3dIMmRFXzNEQQ?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "청주시상수도사업본부, 겨울철 급수공사 신청 중단",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yS3hudk9XMG5pVVVVU21MVzJWVjd2UDdFWUJPZlNPcUxaRlU4Mlp4VHBBLTFPUnpLNy10M3J1RnBSNDg4RHA1NVZYZm5QWldLanhCUkwyZ3gxV3k4TFRiXzFXZVN1R0hkQ0l2Qi1B?oc=5",
+   "source": "국제뉴스",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "호치민시는 교육, 의료, 상수도 시스템 전반에 걸쳐 사이버 보안 훈련을 실시합니다.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDQ0eVI3bGFHYlJvMi1xRjZpN2U2UnJvdVpfQ1BBQzFiekxDZmpVektuM2t2ZU8yR3NVZk9qREVDWFZSaGRYSHVlNlNzOVBOUDdLc1l4Wmd4MWoyTHJmQmIwMXQ2U00tMlpMdEMyU3o5NzJMZWtudVZtNHdLS1pSdWpDckVfaV8tQnR5cDZuaENEX00tTGc?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-11-09",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 노후 상수관 누수 정밀 조사…\"새는 물 찾습니다\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DU3F1VXlweTEtSnlXWmtJSkwyT3lESWlfM0VWazBoNVhvTHNpU0hoUnpISWZ1VWtCa1dPRjJkbTEyVkhNalRxbTVWS2FwOUhwQU1RdlZWcVM1SW_SAWBBVV95cUxQMjRMN29hbFBjTHJXVllPOTg5eFZGTTNZUkptNXJ3ZUVXbG1JYWRDWVVVNUpVMDBSQTVub0lsaG5IbTBoNjJLMkhLNkpJZUNjcS1ObUY4MmgzQVVaZFFrU1c?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-09",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 노후 상수관 누수 확인 시험.. 야간 수돗물 차단 > 뉴스데스크",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XTjZuZy1JekxIdUFPY3NPWEVIRFI4d1pIazdFck5leGxWSGRCY2JGaGZfRTlaTWtpWVc5RW1EemUxdEhOMndjMXpiNDNVYXh5ZVlaVGF0VktHMm5raXc?oc=5",
+   "source": "MBC 강원영동",
+   "date": "2026-11-09",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 조양·청호·대포동 야간 상수관 누수시험…11월 10일부터 4차례",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSWlVPR09JZGF1S2x4aFZpWll3b0plUlBoemNHZUo5VGlaaG9mRDY5MVY0WTdiUGhrSGVDQTdDMUNKb2RUaUNRY1dDSC1vRGpybTNNNkFrcXhWXzhKQnRaNE5McG5NS0t6OUlN?oc=5",
+   "source": "한국사회복지저널",
+   "date": "2026-11-09",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "의성군, 안계정수장 현대화 사업 국비 148억 확보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MRS1yOW54b0ljZU5lc2xPbU9hUUhXZ3dMeEwta08tMWJXNC1GdmF2dEVtQUthenNsbnZOM1FpQldGM0tzNk9LdGJNaGRDclNnZ3NMNmplVzZQMVdXOWI4MmpEd2Y4TWQ3YXhYdw?oc=5",
+   "source": "중도일보",
+   "date": "2026-11-09",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "음성군, 가축분뇨 부숙도 검사 연중 무료 지원",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aRVg0YmJDaFoxSEdkMmNRazdDNWV6TWVhZEN0a0RvUWV2cWRsU2JCUGtmcFVzT1FvTkJWZkF4MTYxX08yTlU3STZwSGdheDJHVVUyc2Y2eG5VcWNWN1oxcdIBYEFVX3lxTE9aRVg0YmJDaFoxSEdkMmNRazdDNWV6TWVhZEN0a0RvUWV2cWRsU2JCUGtmcFVzT1FvTkJWZkF4MTYxX08yTlU3STZwSGdheDJHVVUyc2Y2eG5VcWNWN1oxcQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "지원사업"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "음성군농업기술센터, 축산농가 가축분뇨 부숙도 검사 연중 무료 지원",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96NENlaENWb2todU02WGFNRS1aOURaSHd3Z3dtZnJwVy1ZNjFFbTA1VEdIMjdRVFJOZ1ltcnFwUXo5RlpJU2hobU1Td2tkQ3pMcHN0VldkRWtaOThCMkxOakU1UHJKNTkzNXFsal9R0gFuQVVfeXFMT3o0Q2VoQ1Zva2h1TTZYYU1FLVo5RFpId3dnd21mcnBXLVk2MUVtMDVUR0gyN1FUUk5nWW1ycXBRejlGWklTaGhtTVN3a2RDekxwc3RWV2RFa1o5OEIyTE5qRTVQcko1OTM1cWxqX1E?oc=5",
+   "source": "중부매일",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "지원사업"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "음성군, 축산농가 가축분뇨 부숙도 검사 '연중 무료'",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OX18tMWRHQUgxOGtCcnFUbENaQng3dXR1N2xWTW91ZVVUYXVhekNXLTZHZHRoZkw5NGZXY2xETjMxS2hjdEtaX3FsSjRMcXB5ZU9sZm8yQkp5SmNWbmVzTmd0ckhYaGRaREI2dnFDVGtVeGtSQmZmU9IBeEFVX3lxTE1OX18tMWRHQUgxOGtCcnFUbENaQng3dXR1N2xWTW91ZVVUYXVhekNXLTZHZHRoZkw5NGZXY2xETjMxS2hjdEtaX3FsSjRMcXB5ZU9sZm8yQkp5SmNWbmVzTmd0ckhYaGRaREI2dnFDVGtVeGtSQmZmUw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "음성군, 축산농가 대상 '가축분뇨 부숙도 검사' 연중 무료 지원",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSkdVTFJBbU5GNW9RTFIxbzhOM3FuNzdVY3I0VjVYWjd3djgxd3d5ZHVlNTBUTFVBWjVCblBmY2VmcXRUTDNXRllDVWhYN1dPc01NNldELWVra29pUFpidkFSM25CTjdxMzl2dg?oc=5",
+   "source": "중도일보",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "지원사업"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "음성군농업기술센터, 가축분뇨 부숙도 검사 연중 무료 지원",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfZi1EdVVVamppZUh6dVlaZEhpdE5fYXNVS0hzRnVIb1hQbVRJcllFQ25ILUxZSldkNGIzZks3cDNvNTlCVFpLWi15YktNRDRRcFpjOHpsaHFfdmVnV2Z3dEptNDlfRkFqa19rODdvNlQ3UQ?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-09",
+   "region": "충북",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "지원사업"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“악취 진동” 제주 위미리 해안에 오수 유출…하수관 센서 이상 추정",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UREsyR09UcmNiQ0ZVaGFVUm1Gb3gydjdQNDIwdkx5QmE1TERPWDlqc3ZZVXc3c3lwb0dRYjNjMWhod19JV3NkbXREUzdUbFB0TElzNTJmc0RZSTVqM3FYeF9aMnZ1cGxuUnRZ?oc=5",
+   "source": "제주의소리",
+   "date": "2026-11-09",
+   "region": "제주",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로",
+    "악취"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
    "city": "속초시",
    "date": "2026-11-08",
    "figures": [
@@ -23,64 +689,690 @@
    "id": "ajunews-20261108094133148"
   },
   {
-   "city": "파주시",
-   "date": "2026-10-12",
+   "city": "함양군",
+   "date": "2026-11-08",
    "figures": [
-    "60곳",
-    "50㎥/일 미만",
-    "10.12~11.20"
-   ],
-   "focus": true,
-   "region": "경기",
-   "source": "아시아뉴스통신",
-   "summary": "파주시가 약 40일간 하수처리구역 밖 소규모 시설 60곳을 점검한다. 무단방류, 전원 차단 등 관리기준 위반, 방류수 수질을 확인해 위반 시 고발·과태료를 부과한다.",
-   "tags": [
-    "점검"
-   ],
-   "title": "파주시, '소규모 개인하수처리시설' 집중 지도 점검 실시",
-   "url": "https://www.anewsa.com/detail.php?number=3206574",
-   "id": "anewsa-3206574"
-  },
-  {
-   "city": "군포시",
-   "date": "2026-11-03",
-   "figures": [
-    "21.5km",
-    "총 296억원(국비 178억)",
-    "5개 처리구역",
-    "2028년 준공"
+    "신규 취득 7명",
+    "보유 인력 총 11명",
+    "1급 2·2급 1·3급 8명"
    ],
    "focus": false,
-   "region": "경기",
-   "source": "아시아투데이",
-   "summary": "군포시가 설치 20년이 넘은 하수관로 21.5km를 교체·보수하는 3단계 정비에 나선다. 정밀조사로 파손·균열이 확인된 산본·당정 등 5개 처리구역이 대상이며, 연말 설계를 마치고 내년 착공해 2028년 완공할 계획이다.",
+   "kind": "기사",
+   "region": "경남",
+   "source": "뉴스경남",
+   "summary": "함양군 상하수도사업소 직원 7명이 올해 정수시설운영관리사 1~3급 자격을 새로 땄다. 기존 보유자를 합쳐 자격 인력은 1급 2명, 2급 1명, 3급 8명 등 11명이 됐다. 이 자격은 수도법상 수도사업자가 반드시 배치해야 하는 법정 인력이다.",
    "tags": [
-    "하수관로",
-    "지반침하"
+    "상수도",
+    "수질"
    ],
-   "title": "“싱크홀, 이제 걱정 마세요”…군포시, 노후 하수관로 정비 3단계 추진",
-   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010000866",
-   "id": "asiatoday-20261103010000866"
+   "title": "함양군, 정수시설 운영 전문인력 확충",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=583954",
+   "id": "newsgn-583954"
   },
   {
-   "city": "익산시",
-   "date": "2026-11-04",
-   "figures": [
-    "목표연도 2040년",
-    "침수 시뮬레이션 도입",
-    "부분변경 용역"
-   ],
+   "title": "양양군, 전국 물관리 우수기관 선정…노후 수도관 정비·수질 개선 성과 인정",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DM0dMMkozXzhwR0RXUXMteFB0Ym8zWWxhT1RDUmxXZ0p2M1RRWFZmU1VjR19WaE04c0VvVEg4Tmo1a294RGtDTkdzZGMxR3A0VF9TZmNBTVVjM3hmUTFHbzU2SQ?oc=5",
+   "source": "쿠키뉴스",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
    "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "325억 금산군 하수처리시설 계약 논란…\"심의정보 유출·외압 의혹, 진상 밝혀야\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sNmhKTnRFYVFYX1JsbDB5U0xhSUQ2TlNqVW9veVRoZTJIUHNjWnZSY2RBTUY4NlJqVmVzVnFvTHdqM291MzFaQ0w5VDB6SVFIeWtOb1JZSVNvODhDSkdWd2RzaFVib0hV?oc=5",
+   "source": "한국NGO신문",
+   "date": "2026-11-08",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "익산 영등지구 노후 하수관로 정비 시행… 시민 생활 불편 뚝",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9mVXo0ZU55cHVILTRxTkZMZVQwNHh0WTdxZEJTaC1vbTRha2JWa2ZBRUJIQ3BWcjd1TFNacnVRNGI?oc=5",
+   "source": "전북금강일보",
+   "date": "2026-11-08",
    "region": "전북",
-   "source": "아시아투데이",
-   "summary": "익산시가 목표연도 2040년인 하수도정비기본계획의 부분 변경 용역을 추진한다. 도시개발과 인구 변화를 반영해 처리구역 확대, 노후 관로 개량, 분류식화를 단계별로 계획하고, 침수 시뮬레이션으로 배수 취약 지점을 미리 찾는다.",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
    "tags": [
-    "하수도계획",
-    "침수"
+    "하수관로"
    ],
-   "title": "익산시, 2040년 하수도 정비계획 손질…집중호우 침수 대응 강화",
-   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001492",
-   "id": "asiatoday-20261104010001492"
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "상주 낙동면 3개 마을, 하수관로 정비사업 주민설명회",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54VXM5YzR1N2I3aWQ4RENFOHRjVnB5SHh2TTV4cmlTb2l2NWJrU2J0d0lWTUNKX0FpWV9GakQzZDFYWUVsMGNUWjltNlZEbHhrNUxPdA?oc=5",
+   "source": "세명일보",
+   "date": "2026-11-08",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "익산시, 영등지구 노후 하수관로 정비 완료…11.5㎞ 교체",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETmhMTG54SXl6MzV5M1VUeW9NbHdsOWpuZkFtRV90NXV0ZVNyWHdfbU8waHlITHVMdE9jVlJtY1JBaExCeTJxOXBRTlhNZjY2UHNaTVo0U3dLLVdMM1JnM0pBcTNFdVltbXRVTFhoUlk?oc=5",
+   "source": "신아일보",
+   "date": "2026-11-08",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "[밀물썰물] 미국 하수도 사회주의",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CS2tzQVFDUVZWaHpnYTQxemZJQ0tPSzRGNmtBdC1XMEp2X2l1OUV6czhJQkZFSDNoNm1oeGt4RjhwVzNvYThscFdFZGJPSFhBWGNXcFRWcV9HRXkySlVwQVlLaHpCd3lWWFN1Ykh2WHR1eDA1MTBz?oc=5",
+   "source": "부산일보",
+   "date": "2026-11-08",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "부산글로벌도시재단 “탄자니아에 K-스마트 상수도 지원”",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEdsSkRXU19yc1VTOU1HbFhhamp2bG9idWxOVDJ1ckVzVXBXWjZaS1U0ZlRPVWlpR0JUSy1SRGRsOUc5bzM1S2x0a1ByUloydXltaWl1Nng4bGxpZlRZU0hkUU11dWZEVmV1bTVBS3U1MkxhX0lwR2c3eWJKVGNzd3BINHl4bmpGUUs4d3VoQU1ESWM?oc=5",
+   "source": "국제신문",
+   "date": "2026-11-08",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지원사업",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "포스코, 지곡단지 “수돗물 추가 공급 불가”… 재건축 사업 올스톱",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMzM0Y05qa0Q4ZkkzZ2doeS1laWxJUEpneURuX0hsRXRCcnpOSFZZUnV1NGhlRllOb2k3OUg5aFcwSElEN3JlR0pxYVBqLVJqMWh3OUtScGVvSjB3Q0JXUzVNMUlFbEE?oc=5",
+   "source": "영남경제",
+   "date": "2026-11-08",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“수돗물 미리 받아두세요”…울산 중구 3195세대 10일 밤 단수",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rN3M3eUhMbEhVN3dnSzFWT1I5eEpoaW1ZYnFnQ0hCOURmVktFa3Qwa014SDRWOGM2M2JoRG82TkoweGZNMTBkUzhhbWs1ZVhVWkNKUHdwS0pOMXQwWHRsVXRDYlBqZFZiRXBRWVNR0gFuQVVfeXFMTms3czd5SExsSFU3d2dLMVZPUjl4SmhpbVlicWdDSEI5RGZWS0VrdDBrTXhINFY4YzYzYmhEbzZOSjB4Zk0xMGRTOGFtazVlWFVaQ0pQd3BLSk4xdDBYdGxVdENiUGpkVmJFcFFZU1E?oc=5",
+   "source": "울산매일 - 울산최초, 최고의 조간신문",
+   "date": "2026-11-08",
+   "region": "울산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 10~24일 네 차례 노후 상수관 야간 누수시험 나선다",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tTzJiNldyNEZ2R0VlTnFDR1A4SXJlakwzcm92dC0xWHRXNkNKS3d2Q2dIOVJYRjhQUVFkWlBnT2VlUENEVEVnLVdyNk1Qb1g0QWQ1T2Y5eHZLZ1k?oc=5",
+   "source": "강원일보",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 노후 상수관 야간 누수시험 실시·겨울철 자연재난 사전대비 강화",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00cVdDcThBMHB2bFExRXZaRTBXLV9wZXZiMW1VREdwV3pXbURaUTV4NU1VQ2lnX0FYRmt1NFFEeUNKRkNMTWtncGZZUXN2TkdBcng3V3hIa01DelViQlZaWG1lUDNudDEtQkpOZ0NYZWxLWkdCYmszdDczN0lvWFnSAX9BVV95cUxNNHFXQ3E4QTBwdmxRMUV2WkUwVy1fcGV2YjFtVURHcFd6V21EWlE1eDVNVUNpZ19BWEZrdTRRRHlDSkZDTE1rZ3BmWVFzdk5HQXJ4N1d4SGtNQ3pVYkJWWlhtZVAzbnQxLUJKTmdDWGVsS1pHQmJrM3Q3MzdJb1hZ?oc=5",
+   "source": "뉴데일리",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "새는 물 찾습니다… 속초시, 노후 상수관 야간 누수시험 실시",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmNmdHNuMU1USnNxcWtqZUFGNUVMeE1FNW9FOEVZdW1QeUlvWmFrd01Rb2Y4dlJtN0tqOV9jUFkxT3RCWHdkX3ZkY2dDTjlMcWtXc2dvdEVfaWVjdl9TVTRPdlp6aTlLbjFXNmw4emRPZUZiWk1RcmZsNkRVQmYzbkFBVUhNSnh5eFViSUlqMEdoS3NiVjNVSQ?oc=5",
+   "source": "www.mediatoday.asia",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 노후 상수관 누수 점검 10일부터 실시…일부 지역 단수·수압 저하 예상",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41ei1pTFNIV0hYaXVJY0ZCZ3I3ajdBTF9sR2l4U1A0Ml9HejRjekN2N1JOWjRJZ0NhUTFSajFHNnhJS0prZU9kY1llVVJVZ1hrTXJCblJwQUItOENqdXFRR1lTNW4xd1NpQjA4OE5HdTA?oc=5",
+   "source": "신아일보",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 노후 상수관 야간 누수시험 실시…누수 2,500톤 절감 기대",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbFhiSnF1YU9xZXY5NGdjRXE4LVFjMnJ6QjkyZ01KSldIQVRTVkgtNWtTUmpNeXlUN241UGFFd3JCVU80RWpHWDRqUWNHekpIeXdWQ0JtNGlVaVo5Snk1ZGRHOEVQOVgzZkZ2cjVIRUhwdw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 10일부터 야간 누수 확인...노후 상수관망 정비 사업 일환",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CRnZOT3c4U1ozS0NCZlR6bGlIejVZUjRQSGFDRTZtbVY4VXVyOEMzSWJnWkwyMElHc1JtUGN5b0lSWHlQUHRaTm9xaEtYbmlhRG4zTFF6dEdVQjVs?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 하루 2500톤 '새는 물' 잡는다…노후 상수관망 정비 본격화",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xUkFWWUNCT0h6V1huMDUtLUpVSVU3N1Z3UGp5S1M2a3NwR05QZ1VybVlYTHlQLVVfMi0xYy1nZzg1enRvY0g3dVNtZGhtY2luRmdaUXNXcElQMmpkTnY0Q2lXZ3k?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전북환경운동연합, 전주권 수돗물 이상 관련 용담호 상수원 관리대책 마련 촉구",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fLS1FNHp4b1VkRk1GVUZGZGYyVmNYdFk2WUZtWW01c3BrNmIyVm50TzllekNjYi1WUHNTZ2NWSWo2X3dRRWpROEg3STJ1RUVibkRxenpjN0JMcVlOZ1FtQTFjYkZlUDRLQlJ1aVdZRFbSAXBBVV95cUxPXy0tRTR6eG9VZEZNRlVGRmRmMlZjWHRZNllGbVltNXNwazZiMlZudE85ZXpDY2ItVlBzU2djVklqNl93UUVqUThIN0kydUVFYm5EcXp6YzdCTHFZTmdRbUExY2JGZVA0S0JSdWlXWURW?oc=5",
+   "source": "전라일보",
+   "date": "2026-11-08",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "울산 중구 우정동·교동 3,195세대, 10일 밤 수돗물 단수…생활용수 미리 확보해야",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9faTlPcnFjYVdtU1MxWkM1cjgyMWoyWTVzSE1LbThPVDlfN0diMXh5WW0xUktGalIwYkdYVExKXzlRai1UQ0FWdmFhWm1JU2s3MlhWQWVKeWxOeWliX0lfaVV4c3RZZw?oc=5",
+   "source": "잉크뉴스",
+   "date": "2026-11-08",
+   "region": "울산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전주 수돗물 흙냄새 사태 진정세⋯망간 농도 낮아지며 안정화",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNXlDcTZkd0RRTkpZUmZ0R3VGdmd5ZnNiSXQ5ZGFEbFlNRF9BZVJmeURCdW54NlVFMGZtbGtKY2VyWWJmdmFrM292dDQ0Yjh5STJZaXcxVExKN1lYYnpWcG1CRzNGYXZOTVpj0gFvQVVfeXFMTm45SzNsVGt1eTBLVnA4dk1tYlpSeXRuaTRSUFBsRGtoYXN0bzFuem1NZXp0SDJoRjNobDJydmZmZmVCc0I3S3RNeUJGRXJGcU02VjJGT0RPUFpBNXRfYVhHaWJreXFNZW5DMWxrSzFF?oc=5",
+   "source": "한스경제",
+   "date": "2026-11-08",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "속초시, 새는 수돗물 잡는다… 4차례 야간 누수시험",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CcmtHcTVxZG5IWl9mTWhwcWFjMDUxS0VVMWxaV1F1QmhKTjZpeEVidDZoVGQtMWd4aTVDdjc3eGhwZEswRVgyblQ3UmJldFhvQVNmNncxbXhQa2wxQU5NYkJR?oc=5",
+   "source": "아시아경제",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서울시민 4명 중 3명 수돗물 마신다…만족도, 처음으로 80% 넘어",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ib3J2eVp4WnhsdDd4Y3FzeHBIMGNLUGo3ZEExX0hFcElQcEhpLVNxYk5GQlBHQ2VuQ2Znd3JQLVBFc1k2S1d1UmNwbEpNV1FqXzFUV09n?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-11-08",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "새벽마다 물길 끊는다…속초 전역 누수 잡기 대작전 시작",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xeFY1VDNwMXJHNDg4SXBrakxfTUpodHpMMV9TMmtKbVJsVmg5SUdxYU1xOU9xUFUxNlhVVW9rd3NxS3RLQUE0bW9haUtiUHl1d01GNVNjd3diLVVpM1NyaThiMEROQy1KOXczQmM2Z3FmUQ?oc=5",
+   "source": "http://www.reporternside.com/",
+   "date": "2026-11-08",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "허광행 시의원, 정수장 현대화 사업비 급증·특허공법 공정성 질타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaW8tRHJ6cDlUTzhjVVVJLVBmdHdjUmZwUlZNUEw3RndWdXl3Vk16eUpNQXFhbHZ2dGZKZkhNRDBUajhHdjFSMkNnaS1PWHVCSG43QnlsLVVDa0pHaF9sLUZmU2FzdFpHa2xMZmFmcw?oc=5",
+   "source": "동북일보",
+   "date": "2026-11-08",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "민주당 경남도당, 2차 기초단체장 4곳 단수 공천 발표",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xLWU3eHREYXRvbk5XdDFKTlN2TjdqVVl0NHZ0aUE0N3FHWUhCNENGZDZmNW9wb2RrTGNsZ00wQ25BU2F4MTcwZFcxVktYcVE5Z2VvRFRRUTlBaFRweUUzQ3RhY1rSAWNBVV95cUxNOEpKdDExWWNDNWNZM2premJqVW5ZUG8yaU1fbXNPWWpheDdVTU9INnA4dlR5WjluVklMR2xDTnBCVDItOG1iS0NaZTRma2lwWU1SeUZIanVGM3NsbS0walM2V0E?oc=5",
+   "source": "더팩트",
+   "date": "2026-11-08",
+   "region": "경남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "평택 ‘한화포레나 지제역’ 견본주택 불법 광고물 논란…기존 입주민은 누수 문제 항의 시위",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4VmR3Z0tIRWJfZ3A1UVZ4OW0xTTNjbU1ua0FfWmFlZXBjXzJ5N2Nob0FUWV83MGpFSW5NUkVVZVpscVlndXNhR0RpMnhVUFRIbnB4eGQzTHhPamlHdktv?oc=5",
+   "source": "세계환경신문",
+   "date": "2026-11-08",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "경기도의회 김영희 부위원장, 신설학교 누수 및 화변기 설치 문제 지적하며 교육환경 개선 근본 대책 마련 촉구",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sdDF2TUJyXzhOeWZwcDZNNjFqdVZtcFExZHJRZzFDaGZuZFhnbmtPYmo5V2h6NXVrMGVGRTY1Z0JUTVU5SFVmT0tUMU5sSTh3RHlZR2xObGdzc1ZGMHYwbFEtVUhfNU5aSTdkTmNRLVBYQQ?oc=5",
+   "source": "더코리아",
+   "date": "2026-11-08",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "분양은 ‘그랜드 오프닝’, 입주민은 ‘누수 항의’… 한화포레나 평택지제역 현장에 무슨 일?",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kVnQ5eGpPRm1Ial9xSHF1bnJwdDhtMXBXSkltVjlqalYyZWh4WFUteHk5Z0hzellkNGVLTTZMVmVaWW5HQWVhczdR?oc=5",
+   "source": "뉴스N연합",
+   "date": "2026-11-08",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "가축분뇨를 연료로…포천시, 우분 고체연료화로 자원순환 모델 만든다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Tcnc5bmdKeERPS3pZdXAzbndaWk9CM3g3T3dUNm5NdTl2cUQySlNiak51cURnaHpsX0tmUVEtekF0VERyWlEwZFlDLTg5WXM3c1ZFRFpNSTdZM25lWThqeUk3RW1KS0xWTlA5dkpSbw?oc=5",
+   "source": "중부일보",
+   "date": "2026-11-08",
+   "region": "경기",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "\"가축분뇨가 친환경 비료로\"…농어업특위, 축산자원 고도화 모색",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOWGh6YVJXNG14NU1GdkZHc19HcG1fQTBGekpBLUFtS0VWOTg2Mmtwd0k1b1lnaVpBQ0lGdTdENGdmb0V1QUI4LXF6RzJlRTNKS01ROGVGRlMzMW5kOU1uLU5HYVR6Wm9wcXRZa0oxVU5oMUltemt0VjZZUUJqYTlMTVQtTURVazBNbmg5MldNWEhZSmdSdWVoYWF4VHlYZXo1bkF3c09xQTZDTmdEdGpUTVRVTUNNaUlDUEk5Vm9iNzB1aGpPVTRHLV9IalpXaF9maWgweFpuanNrOVUtZDVOSDl2ekJXazBqZE5NekJlbFAyMjFaTXNpRGh2ZHp3UXNBZ196M1lOOV9nVjlXSmNUNUd2aXFBRWNWdUFyTkl4WE9hWHZRa3FpczlXN2s2Zw?oc=5",
+   "source": "데일리안",
+   "date": "2026-11-08",
+   "region": "전국",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "광주 반도체, 전력·용수부터 정주·연구까지 ‘본격 시동’",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3Z3NuV24yR2NKamxEV1VVbHM5a24yY090MTRUUExYM21YOVltRUJGTElzcEFBdTN6MUZYcTBud3BxV3V2VkdR?oc=5",
+   "source": "무등일보",
+   "date": "2026-11-08",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "호치민시의 하수 처리율은 20% 미만입니다.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55Ym1IQ19EQUdOMVU1Y28wZTl3c1lKaFI2Z2w3ekNPcUw3bnQ3dHlxcWdveHdSdV9jODI4em82NWh5Q1NvYk5UQURRdDl5QU55SGFjdHVnMVNzX2M5VExOQmlRZFpSa19MOEdCVkRvVkJtRjQ1SFJDcDhB?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "까우만강의 수질 개선을 위해 5개의 하수처리장을 건설한다.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUW9PUEpsUmw5bXFFWFdXQkt2aUc2ekZnY0FFa3JMLVpoenotX0hBaGNNNGY0dmNSUERCOThRdTJZdlU4Z050YUFNTkdiN0lkMXFPcWpzREJqejJkYzRlS2dkS2Q4TWRXUzFQdEJzZjBQQXVCbTZGZWhFNTBfQW5VSWlCSkE2Mm54RjB6dVdwSVlSSklFNmtXUmxR?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "익산시, 영등지구 노후 하수관로 11.5㎞ 정비",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4V2h4QlREakpWRHp5ejFVWHc4RXJ2Q2I3eTJVd3IwWUV6bmdIeXZlWFJicHhObG9uTURBUDBQQnlwSXI2T1RkT2hRME8wMkVFZG4yUHBiaWFZbTg3dTZCMEkyNkJ5ZXlfYmQ5alM3YWvSAXBBVV95cUxQOFdoeEJURGpKVkR6eXoxVVh3OEVydkNiN3kyVXdyMFlFem5nSHl2ZVhSYnB4Tmxvbk1EQVAwUEJ5cElyNk9UZE9oUTBPMDJFRWRuMlBwYmlhWW04N3U2QjBJMjZCeWV5X2JkOWpTN2Fr?oc=5",
+   "source": "더최고신문",
+   "date": "2026-11-07",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전남도, 2030년까지 하수도 보급률 90% 목표",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16eU15bXgycmlVckNLeVppRGxyc01ETzZzdmxVTWFTYXNRcXc1VENEYVBMZVdZOTFzNmUwYWZJU0tWak8xX0pheGFDaGlWZEFEdF9PamVZZHlDc0otZGc?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-07",
+   "region": "전남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "포항시 하수도 조례…‘상위법 위반’ 논란",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10TV92MGZ0bl80c2lNV05tZ21rVnhiNG1NRlVmWUJ3ZXgycWJzdjFmRi1ZWDBKREhjVW9oQi1VN0Z6cWlRUTRkMEVzZjNXYl9fQXRKUl9sWl9vVndzc3Y1cEU0SVpNVTFEQkRGOHJkdw?oc=5",
+   "source": "시사포커스",
+   "date": "2026-11-07",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "제도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "한국 상하수도 학계 이끈 박중현 교수 별세",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DY3lHbVlhVm92OGxjaS1jVGpxeUV6Uy1nVk1KZ1hWOFRmMHZsdXRlRW1DbU1hbHpqQXIxdERiNlhyYXVTQ2tqRjZZTl9pNHN1c0NaYkdxckoxbm1tVjVBSDBCTVljRjZfX0NkQjNB?oc=5",
+   "source": "트루스데일리",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "노연수 서울시의원 “상수도 공사 심야소음·도로 안전관리 강화해야”",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GejZTWGJ4cllGdTZCa1ZmaUFhMVh4U0NaMGUxemtSaEEzMmVoc1RacmlWZEVjTmlIM1hiMEV0YXVjckVPQmM0Qm1YbV9GeWNWTmNUQVp2bmZ4QTQxeU5qQk1abVB3U19MVWVHNlFQVTVXc1k?oc=5",
+   "source": "동방일보",
+   "date": "2026-11-07",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전북환경운동연합 \"130만 도민 식수 불안 키우는 전주권 수돗물 '이상 사태' 땜질 처방 아닌, '용담호 상수원 관리 대책' 수립하라\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qc1RKQ0tIYjlOX1Jna3VHMzMxNlJ3VGxBRTdZazF2MlZYY2J3V1U1UEZhbEE5bS1iaU53dVZXSHZuaHBIbjh4WHNva2tzQzNpZHU5bWJEamZQR1dPMkNKcFBJNFFXVDA?oc=5",
+   "source": "전북의소리",
+   "date": "2026-11-07",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "웨스트버지니아 아메리칸 워터, 센트럴 그로브 프로젝트와 제퍼슨 카운티 상수도 시스템 개선 추진 - 뉴스 및 통계",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObkF2bVhQZS1GdDg5UmlKQThmWWRoUE5ycUpOOTdZTENhNUtfd2dvNE5sZjVYTjJ3VzRfV3ZqeXlIamdmNDluMzVvZzl4Q1p0VUVMZ0JOYjlKREQyeVlBNkx2RC1pSnRmTHBXaFM1SkxIS0Q4bW84d2R2eGpBX1A0Z0h2amxPdEotTEJjdDhKUFJpYWZsTTdVVnYwUlhDejhRY3lQZ1E0MmZyVk43UlVLekJhYl9hQzJCeHd1QzRHSTZORmNBWFM2RmRYS1hHNjA?oc=5",
+   "source": "IndexBox",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "하이로, 2026 푸드위크 코리아서 그리스트랩 정화장치 소개... \"수돗물 없이 기름 분해\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuRE5teUZNNGZJZ3FVYXNTTzBCbnRXYWpjNk95eUZSalFFblZQbmtaMlZZenBFZWJoSVZSdmxDWXJHT3czU2dUeDZaNFZ1dzlYT3hxdi1YLUN3azh2ejctN2RKdDhVT2c?oc=5",
+   "source": "에이빙",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "캐나다 | 캐나다 정부 \"정전·단수 대비 3일치 비상식량 준비\" 권고",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sQk1FUTJlRUVYZmpWaFplRG5uU3RPX05BVlppdXlvRDB3STV6Ri1EcTZ3NHJGZndnSGl6VnlFVjcwRVdzZlh2Y2FKeUtJTWZ4a09ERGVSS2prNkFSa0lDVnlJQTFtVk5wVmtudVoxeGU1Zm55bVFV?oc=5",
+   "source": "밴쿠버 중앙일보",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "오늘 저녁(11월 7일)부터 호치민시 9개 동 및 면의 단수 일정이 안내됩니다.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNvekVXMjVaNG85WGdYVXZTMzFYUlBnZEdaSEFtYWdxeEFYZ2hWYnhOVUVPRXZFODFyaVZubmJpdGN5ZG5hT21Hb3Q3NmtkUUJsRlZqSXd0X1lKeU04Nk41ZGk2c01hUG1TNkFrckRFTzRQRFRDSjdqTTRqeEhwSmhB?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "공사 10건 중 6건 지연…강원교육청 ‘혈세 누수’ 도마 위",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqWFh5M285TlVnN19KZVhBREVneEREZEpuSk5valFhMy1Sd3ktRVFHZnJYN2dnRGJPUXJXT2VXNm9UR0laUkp1UXI0c1ZDVFNweGdpbjh3b1NtR2QyU3Zqd0VURXBacVAxQTBZaGhicWxjdw?oc=5",
+   "source": "www.reporternside.com",
+   "date": "2026-11-07",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "[자막뉴스] 골칫거리였던 축산 분뇨와 부산물, 고부가가치 자원으로 탈바꿈한다?",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sSEdOSVBBeWhSZVpuRk1FcTZQenpubVVoNXpVeHNMb1REX2NZV243MDQtT09KYS1uVk84Y0hpZU9kRW9vTVVyQTJKWTZwR2phXzN6QlQyTzJVUUVlNVdSVC0yQUJCcDRNRjFodnZkdkpHa0RaTEHSAXZBVV95cUxPbEhHTklQQXloUmVabkZNRXE2UHp6bm1VaDV6VXhzTG9URF9jWVduNzA0LU9PSmEtblZPOGNIaWVPZEVvb01VckEySlk2cEdqYV8zekJUMk8yVVFFZTVXUlQtMkFCQnA0TUYxaHZ2ZHZKR2tEWkxB?oc=5",
+   "source": "LG헬로비전",
+   "date": "2026-11-07",
+   "region": "부산",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "정부, 2030년 가축분뇨 고체연료 118만 톤 자원화 가능할까?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKaS1neFc3cWVjellwZ0VFMWt2VG1pRmI4emdLWFpoRi1vM2lwNjRHZnVHdVg3OWl5Z0ZGUTYzS3NiYXhjWWltclVTT2dlZkpDdWc?oc=5",
+   "source": "노컷뉴스",
+   "date": "2026-11-07",
+   "region": "전국",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "제주 지하수열 활용 냉난방 확대 추진…데이터센터·양식장·스마트팜 적용 방안 제시",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QVEVIQkdpWFAzaF9lYVVBcnJQbVlEOGVremE1dTRBTmtaMmZrMFhGWXZackc4YU9Kd2lMb1NDVXFDYl81OUVLOHZiOHRySkJ5bmxSQ2JndTBJWENHOFlVYUE1N2w4TDFNYWfSAW5BVV95cUxNcEVUU1ZlXzZfYXd5a1JKWlNkck1MRENSU3RCUC1ZUmdBc1BhOE1scEFyWlVPczV5Sy0yYndleV9ZYjBLeFVaNHBRTTBEeHMzUWpNV2JjTTlncnlqYWN1ek9DNkhIWTFzT3RKQVNTUQ?oc=5",
+   "source": "제주뉴스",
+   "date": "2026-11-07",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
   },
   {
    "city": "익산시",
@@ -105,140 +1397,6 @@
    "id": "asiatoday-20261106010002448"
   },
   {
-   "city": "부산시",
-   "date": "2026-10-11",
-   "figures": [
-    "최악 시 BOD 약 60mg/L→현재 0.6mg/L",
-    "하수도 보급률 99.8%(2005년 말)"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "부산",
-   "source": "부산일보",
-   "summary": "부산 동천 살리기 기획 시리즈로, 일본 후쿠오카의 감조하천이 하수도 정비로 오수 유입을 끊고 쌓인 오니를 걷어내 수질을 회복한 사례를 소개했다. 바닷물 영향을 받는 하류에서도 오염원 차단과 준설로 악취 원인을 없앴다며, 조석 영향이 수질 회복의 결정적 장애는 아니었다고 짚었다.",
-   "tags": [
-    "하수관로",
-    "수질",
-    "악취"
-   ],
-   "title": "[백년하천 동천으로] 오수 유입 막고 오니 걷어낸 ‘감조하천’ 도시 명소로",
-   "url": "https://www.busan.com/view/busan/view.php?code=2026101118211725834",
-   "id": "busan-2026101118211725834"
-  },
-  {
-   "city": "목포시",
-   "date": "2026-10-13",
-   "figures": [
-    "15원→22원/ℓ (2026.12.1, 약 46.7%↑)",
-    "24원/ℓ (2028.1.1)",
-    "누적 약 60% 인상",
-    "2009년 이후 동결"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "전남",
-   "source": "CBC뉴스",
-   "summary": "목포시가 2009년 이후 17년간 동결해 온 분뇨 수집·운반 수수료를 물가·인건비·유류비 상승을 반영해 두 단계로 올린다. 리터당 15원인 수수료를 2026년 12월 1일부터 22원으로, 2028년 1월 1일부터 24원으로 조정한다. 시는 시민 부담을 줄이려고 한 번에 올리지 않고 나눠 인상한다고 설명했다.",
-   "tags": [
-    "분뇨",
-    "요금",
-    "정화조"
-   ],
-   "title": "목포시, 17년 동결 분뇨 수집·운반 수수료 현실화…시민 부담 고려 ‘단계적 인상’",
-   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614940",
-   "id": "cbci-614940"
-  },
-  {
-   "city": "청주시",
-   "date": "2026-10-23",
-   "figures": [
-    "하수도법 제32조제2항 지원 근거",
-    "정화조 폐쇄·관로 연결 비용 전액 개인 부담"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "충북",
-   "source": "시민행정신문",
-   "summary": "김진석 청주시의원이 5분 자유발언에서 공공하수관로가 깔린 지역의 시민이 기존 정화조를 폐쇄하고 관로에 연결하는 비용을 모두 떠안고 있다며 시의 지원 대책을 요구했다. 노후 단독주택의 고령층과 취약가구가 비용 때문에 연결을 미루면서 악취와 벌레 피해를 겪고 있다고 했다. 하수도법 제32조제2항에 지자체 비용 지원 근거가 있는데도 시가 활용하지 않고 있다며 예산·지원기준·대상 범위 마련을 제안했다.",
-   "tags": [
-    "정화조",
-    "편입",
-    "지원사업"
-   ],
-   "title": "청주시의회 김진석 의원, “정화조 폐쇄 비용, 시민에게만 부담시켜서는 안 됩니다.”",
-   "url": "https://www.citizenadmnews.co.kr/news/article.html?no=1463676",
-   "id": "citizenadmnews-1463676"
-  },
-  {
-   "city": "서울시",
-   "date": "2026-11-05",
-   "figures": [
-    "미교체 계량기 약 24만 개",
-    "3년 이상 방치 11만 개+",
-    "누수복구 5,697건 중 97.8% 흙막이 미설치",
-    "연 4만 개 교체 결손"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "서울",
-   "source": "데일리환경",
-   "summary": "최두호 서울시의원은 아리수본부 행정사무감사에서 검정 유효기간이 지난 수도계량기 약 24만 개가 교체되지 않았고, 이 가운데 11만 개 이상은 3년 넘게 방치됐다고 지적했다. 최근 3년간 굴착 깊이 1.5m를 넘은 긴급 누수복구 공사 5,697건의 97.8%가 흙막이 없이 시공됐다며 안전 문제도 제기했다. 아리수본부는 연 24만 개 교체가 한계라 매년 약 4만 개씩 결손이 쌓인다고 설명했고, 인력을 다시 산정하고 6월 개정한 매뉴얼로 흙막이 설치를 의무화했다고 밝혔다.",
-   "tags": [
-    "상수도",
-    "안전사고"
-   ],
-   "title": "유효기간 지난 수도계량기 24만 개 방치… 아리수본부 \"인력 한계 속 안전·효율 해법 찾겠다\"",
-   "url": "https://www.dailyt.co.kr/newsView/dlt202611050037",
-   "id": "dailyt-dlt202611050037"
-  },
-  {
-   "city": "해남군",
-   "date": "2026-10-14",
-   "figures": [
-    "국비 174억원(총 296억원)",
-    "사업 15건(신규 5·계속 10)",
-    "하수관로 50.2㎞",
-    "마을하수처리장 3곳 300㎥/일",
-    "약 1150가구"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "전남",
-   "source": "외교저널",
-   "summary": "해남군이 2027년 신규 5건과 계속 10건 등 하수도 사업 15건에 총 296억원을 투입하며 이 가운데 국비 174억원을 확보했다. 신규사업으로 하수관로 약 50.2㎞, 마을하수처리장 3곳(합계 하루 300㎥)을 설치해 약 1150가구에 하수 처리 혜택을 줄 계획이다. 신규사업은 설계부터 시작해 2030년 완료가 목표다.",
-   "tags": [
-    "하수도계획",
-    "마을하수도",
-    "하수관로"
-   ],
-   "title": "해남군, 2027년 하수도 정비사업 국비 174억원 확보",
-   "url": "https://www.djournal.co.kr/news/article.html?no=125986",
-   "id": "djournal-125986"
-  },
-  {
-   "city": "전국",
-   "date": "2026-10-29",
-   "figures": [
-    "11곳 신규 지정(공모 9·직권 2)",
-    "총사업비 약 5,500억 원",
-    "하수관로 68km 개량",
-    "빗물펌프장 12곳",
-    "2013년 이후 누적 국고 2조2,151억 원"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "전국",
-   "source": "에너지데일리",
-   "summary": "기후에너지환경부가 상습침수지역 11곳을 2026년도 하수도정비 중점관리지역으로 새로 지정했다. 19개 지방정부가 신청한 29곳 중 9곳을 공모로 뽑고, 특별재난지역인 경남 거제시 계룡로·통영시 봉평동 일원 2곳을 직권 지정했다. 하수관로 개량과 빗물펌프장 신·증설에 약 5,500억 원이 들어가며 국고보조율은 광역 30%, 기초 60%다.",
-   "tags": [
-    "하수도계획",
-    "침수"
-   ],
-   "title": "도시침수 상습지역 11곳 추가 지정…5,500억 투입해 하수도 방재능력 강화",
-   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204503",
-   "id": "energydaily-204503"
-  },
-  {
    "city": "청송군",
    "date": "2026-11-06",
    "figures": [
@@ -261,25 +1419,761 @@
    "id": "genews-2026110608230095557"
   },
   {
-   "city": "익산시",
-   "date": "2026-11-04",
+   "city": "서귀포시",
+   "date": "2026-11-06",
    "figures": [
-    "6개 항목 무료 검사",
-    "철·구리·아연 등",
-    "매월 결과 공개"
+    "취수 월 4,900톤→약 1만3천 톤",
+    "오수 179.8톤·폐수 178.3톤/일",
+    "색달처리장 가동률 약 95%"
    ],
    "focus": false,
    "kind": "기사",
-   "region": "전북",
-   "source": "경기뉴스원",
-   "summary": "익산시가 신청한 가정을 공무원이 직접 찾아가 수돗물 수질을 무료로 검사해 주는 제도를 상시 운영한다. 정수장 수질 검사 결과도 매달 시 누리집에 공개한다.",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "시민단체와 정의당·녹색당 제주도당이 옛 탐라대 부지 하원테크노캠퍼스 산업단지의 환경영향평가 부동의를 요구했다. 사업지가 중산간 지하수특별관리구역인데 부지 내 관정 취수허가량을 월 4,900톤에서 약 1만3천 톤으로 늘리려 하고, 하루 생활오수 약 180톤과 공장폐수 약 178톤을 가동률이 95%에 이른 색달공공하수처리장으로 보내는 계획이라는 점이 문제로 지적됐다.",
+   "tags": [
+    "지하수",
+    "하수처리장"
+   ],
+   "title": "\"지하수관리구역에 산업단지 웬 말이냐\"…하원테크노캠퍼스 사업 반발",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601731",
+   "id": "headlinejeju-601731"
+  },
+  {
+   "city": "제주특별자치도",
+   "date": "2026-11-06",
+   "figures": [
+    "20~50㎥/일 시설 약 450곳(68%)",
+    "유예 2026년 말→2028년 말",
+    "선임 비용 월 약 24만원",
+    "11월 10일 정례회"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "한라일보",
+   "summary": "하루 처리용량 20㎥ 이상 50㎥ 미만 소규모 개인하수처리시설(오수처리시설)에 기술관리인을 두게 한 제주도 규제를 2026년 말에서 2028년 말로 2년 더 미루는 하수도 사용 조례 개정안이 도의원 발의로 제출됐다. 이 소규모 시설은 도내 개인하수처리시설의 약 68%(약 450곳)로, 2025년 1월 시행 두 달 만에 인력난·비용(월 약 24만 원) 반발로 중단된 바 있다. 상하수도본부가 건의한 1년보다 긴 유예안으로 10일 개회하는 정례회에서 다뤄지며, 도는 교육 이수자·실무경력자를 자격자로 인정하는 방안을 검토하지만 하수도법이나 제주특별법 개정이 필요하다.",
+   "tags": [
+    "개인오수처리시설",
+    "제도"
+   ],
+   "title": "제주, 개인하수처리시설 규제 강화 유명무실",
+   "url": "http://www.ihalla.com/article.php?aid=1793950315792500073",
+   "id": "ihalla-1793950315792500073"
+  },
+  {
+   "city": "중구",
+   "date": "2026-11-06",
+   "figures": [
+    "3,195세대",
+    "11.10 23:50~11.11 05:00"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "울산",
+   "source": "뉴스1",
+   "summary": "울산시 상수도사업본부는 10일 밤 11시 50분부터 11일 새벽 5시까지 중구 우정동과 교동 일부 3,195세대의 수돗물 공급을 일시 중단한다고 밝혔다. 상수관망을 구역별로 고립해 누수 구간을 진단하는 작업 때문이다.",
    "tags": [
     "상수도",
-    "수질"
+    "단수"
    ],
-   "title": "익산시, 찾아가는 수돗물 안심확인제 상시 운영",
-   "url": "https://www.ggnews1.co.kr/news/article.html?no=653317",
-   "id": "ggnews1-653317"
+   "title": "10~11일 울산 중구 우정동·교동 3195세대 수돗물 단수",
+   "url": "https://www.news1.kr/local/ulsan/6345119",
+   "id": "news1-6345119"
+  },
+  {
+   "city": "서울특별시",
+   "date": "2026-11-06",
+   "figures": [
+    "수의계약 3,388건·약 1,323억원(3년)",
+    "1인 견적 2,899건(85.6%)",
+    "연 2회 이상 계약 업체 199→207→130곳"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "서울",
+   "source": "인천세계타임즈",
+   "summary": "서울시의회 양평호 의원이 11월 4일 서울아리수본부 행정사무감사에서 최근 3년간 산하기관 수의계약 3,388건(약 1,323억 원) 가운데 1인 견적이 2,899건(85.6%)이라며 반복 계약의 공정성을 따졌다. 본부는 전체 계약 기준 1인 견적 비율은 약 34%이고 같은 업체와의 소액 수의계약은 4회를 넘지 않게 관리한다고 답했다. 불용관 철거·누수 예방, 복도식 아파트 계량기 동파 대책도 함께 논의됐다.",
+   "tags": [
+    "상수도",
+    "제도"
+   ],
+   "title": "양평호 시의원, 아리수본부 반복 수의계약 집중점검... 계약 공정성과 상수도시설 안전관리 강화 주문",
+   "url": "https://incheon.thesegye.com/news/view/1065583664054330",
+   "id": "thesegye-1065583664054330"
+  },
+  {
+   "title": "관악구 개인하수처리시설의 청소 및 분뇨처리 관련 조례안 ‘찬·반 격돌’",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CTkZGMkJXWm1Ib1MxQnFmVmt2NS1sZGhmazVHSWlhejdJM3VoR084ZWthR09lUFlNbE5KNGhjalZMLW82TVdyTHp0MlJFOFpJNlVKQ3VRcWRoWFRZR0dDdGtzSlpiTXNqZ2c?oc=5",
+   "source": "관악신문",
+   "date": "2026-11-06",
+   "region": "서울",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "개인하수처리시설",
+    "분뇨",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "경주시, 자체 개발 하수처리 기술 사업화 추진",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QS0dEYWltSm5lWWE4dDlVUHFJa2ppRl9NaU1XUlZQeWlLd2oyUFRJZ000M1MzRVJGQzQyVXNwbVhILWJ5dUR4dXFzUmtlcVI1dDBYazZEbUt5a1d5TVZHaHA3NXRmOVpmdy16UUZFTk1wQlRCM244RUpESTZDLUU?oc=5",
+   "source": "황성신문",
+   "date": "2026-11-06",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“쓰레기·분뇨·하수시설도 있는데 왜 또 덕천인가”…주민들, 정읍시에 ‘공론화’ 요구",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXRUZnM4STNBbE81ZDBHRUJYSTllVzdYd2c2cWpRZjNsb1hZOTJSLVAtODRMX2VwMEZ5RVYwTlhmbGNVdE8xeDJCcDN6bklQNi1rY2dhcEZYNFotNkhnS0lGZ1hEQzhMOFk4MklvQTI1eVZ2eWxaZ2M5RW83QWVva0VBN1VUT1U?oc=5",
+   "source": "전북도민일보",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "오산시, 2027년 국비 324억 원 건의…도로·하수도 확충",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZU10VVAxUUM2bDI2Z19zdUpzM1YyWGdrMGs4UGVhZHZJRzhucU5tc1JkRUx3RDhkaUxNdzU1NEFRX3Y4RXdnZElWenEwSHJGSFJabTNqaVV0OHVZUG9lUTJR?oc=5",
+   "source": "경인미래신문",
+   "date": "2026-11-06",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "[익산소식] 영등지구 노후 하수관로 11.5㎞ 정비",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PR3JNdkRhVlhJbTRUOWZTY0E1TkswcnlBWjgzYlpHMmxXTTBtQm5EWGVNbkxpc3ltSnBWRlIzUERCbGJCLURHZUNXWEE0YnY1cTBER3p3bHZYT21teV91X9IBYEFVX3lxTE5PR3JNdkRhVlhJbTRUOWZTY0E1TkswcnlBWjgzYlpHMmxXTTBtQm5EWGVNbkxpc3ltSnBWRlIzUERCbGJCLURHZUNXWEE0YnY1cTBER3p3bHZYT21teV91Xw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "익산시 영등지구 하수관로 11.5㎞ 정비 마쳐 : 사회",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zVHZtWGd2b3RqYmZrbVU2ZkNOQVd2UkFrTFowMlJGSFRCZFQycnViWmFhYl9iOE1rSEFrS1EyTDJLYmpJeGhiYjJJcw?oc=5",
+   "source": "재경일보",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "거제해양관광개발공사 경영평가 ‘다’, 거제시 하수도 분야 ‘라’ 등급",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBabE95SWF0VUl6VkFnRHR0MzBINGt3WXd1QXRMYVpYTlRfMWxIaVFVNDBMODNpc0JtZ3Rkb0Y2akk4NmlfcENFbkllb1ViZUVFTW1LNHBia1FncktWMlBtZEVB0gFmQVVfeXFMTzlqaWlZakNBcVNla3o2ekVINHlmMkFuNzJCcS1EejQ0TlZZMU82S0NDUm1VcllqTUVOS1RJbU81S21WS0R6SHFpbkpvSlJEOWtJQWRSSGtuM3ZJRnlKUVRxYV85MXpn?oc=5",
+   "source": "거제인터넷신문",
+   "date": "2026-11-06",
+   "region": "경남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "용인 상하수도 요금 12월 인상…월 20톤 가정 2천 원 더 낸다",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VDBUbzdETFllUnBHd1l2bHNTZjJoYVFFZWNIWG94TDNmaWQ4Y2NxM1J2NUVCZzRQcjlRTEpXbFE5NW1HQXlSVFFBUEh6cmlkTnNFYjZFY0ZxT0o5REhSMDdFR0xoZEhpc0d4bg?oc=5",
+   "source": "용인시민신문",
+   "date": "2026-11-06",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전남광주 북구 일대서 상수도 흙탕물 신고 접수",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0czdBNC1HcTZ3aE1UR2FHMnBjTEFkSVhGSWczX3AxT3JZOFJuUlo2OThYeXA4U056MjNoWjF2MFBfTWxBRnBnaGRRRFhWeTktSGhCN04wNnpYdEE?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-06",
+   "region": "전남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "노연수 시의원, \"말 따로 현장 따로\"… 상수도 야간 공사 소음·지반침하 위험에 주민 밤잠 설친다",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pcmF2VXVDcHpIOGRpWFNxVm9RcHFpOHhsMm1ieU1iODhDdjNJSnd2dGRYSXp4WTAxeHZLSWI4N2FCN3dMTzYyT19tSnJrcFhDd1NfMjFxbU9qT3hyVXc?oc=5",
+   "source": "데일리환경",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도",
+    "싱크홀"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "조달청, 상수도관 납품·인증 자료 비공개…의문 증폭",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OODR5bFRaX09BZE9VQ21yWFhZOUV1anZqajlhWEZ0QVpuLXNGUWZjdXVqLVZfRmFranJDbGU4SzNwRUk3V0hGeTVab2dWWkRldmszNkt6LURzc2VyYnlOMnR3?oc=5",
+   "source": "경인미래신문",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "다자녀·기초수급자·장애인 상수도 사용료 감면",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ycFdWTjZjZ0l6bXUtTDNYYmZtaGR6YzA1M2hZclY0UXFlWlZNYUhwUlhlanM3b1FrRmxNUTYxSWloOVFlRm1mMkkzb1g1dWxTaGM2T25NOWdGb2wzMjNIbmtCWDhGcE9rZ3fSAWxBVV95cUxOYlhzVlc5UDRWY2x5b1ZWel9Pbi1jcjhLQzZQWXFHTjR2TENOMFdGQ1JIMGxST2xFWGVvVGJKRVNLRmdXZGVMS2VBNF9IY0cwVUhpWjBWT05IQmFxcXFPZVllMi1LYzhaV0tqQWE?oc=5",
+   "source": "광양만신문",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서울시의회 노연수 의원, 반복되는 심야 소음...상수도 공사 현장 안전 및 소음관리 매뉴얼 강력 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5taC1KT0owRENRRElyZmlMbEsxUXFpZVllUTFyTk1MLU1BWDRNcjRuRG53WU1JMXU5ek1xbTYtQWc2NDM2WDBEdTk1RkpkaGxST2RNVHJiX1U3ckpxZHFNbGZlZw?oc=5",
+   "source": "경남도민뉴스",
+   "date": "2026-11-06",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "울산시, 중구 우정동·교동 지역 3,195세대 수돗물 단수",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VMjNGaVdKUVY3dFJrTXNTTDhmNVVTMHRlLUpXLVVGdDY5dGhfLW5nSVV4TFJLOERGVXVGV2ZfR3A0NXNrVWc4?oc=5",
+   "source": "코리아투데이뉴스",
+   "date": "2026-11-06",
+   "region": "울산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전남광주 두암·중흥동 수돗물서 흙탕물…\"자정께 정상화\"",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByM2owQTVnbHRjLTZJRnhRd3A5TG9oaTg0RVh5cjl5X3R5bzh1T2xhVldScEt6Ml9mWjZ4YXUyWVBRUUJFNHhaU3JSZTRhcUFS0gFUQVVfeXFMUFFxWGFFMXVPeXlXSE1rMFYwclpnU0pFTmRsd3lzakpheThmck40SEVDWDZTU0FjX1dyYk9UaE5xaUx1ZnZ4ZHVCSlBna2lFUWdJQnNf?oc=5",
+   "source": "세계일보",
+   "date": "2026-11-06",
+   "region": "전남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "진안군, 동절기 상수도 급수공사 신청 11월 16일부터 일시 중단",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05N1NzbHVLVU1XU08xanFwT20xT3FYOUJZV3NtYndHUjJPN2UtdDZEY3VMam53Ukphd1VlU2hHSlNsdHZweFMyQzdTRlplZXY0WTF1ZXNQeWh2SFhkUmNkaFBaaWpDczdDTkNTTmtsaWdGUQ?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "진안군, 11월 16일부터 상수도 급수공사 신청 일시 중단…내년 3월 재개",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acE5kX0FHdEozZE16THNtdGItZVlZS2FkTzFSWVVQM3dHY21fa01jMTR4bXdqVlZSVGhNMjgzbm9Sd1pvTnlDSDNlNXFPejNhZ25xTDJJMzBCT3JSMDU5RHp2UUJPejVONGJxcg?oc=5",
+   "source": "한국사회복지저널",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서울시의회 노연수 의원, 상수도 공사 심야 소음 및 도로함몰 문제 지적",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SNUJPWUJxRDRCaEliS0dFYXNiQTVCVVUxMUtoaHhjZ2pIRk8zSHNVOFg3b2JaTjJtdl9qV3VQcDAxSVJPYklRLWI1SGJqblFZdFRnZFNET1ZJSUtvMlBQclRmVDdJNTRoOXZESTEzQUx3Zw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-06",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "함양군, 정수시설운영관리사 7명 추가 배출…수돗물 관리 강화",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uckk0ZXJmYUFlY0RuTUZZTGVySGZka3lwYngtaGM5N1JPd1BxX3Q2RkJlS1o4cVhQUHRCU2pkdGpJYTFLLU43ZEVHSXBJWGpETHhMeXktZ2dMTVk5OU1YSmN3ZU50VC16b2dR0gFvQVVfeXFMTVJKZWY2U0JwbElRVEg4RWd5ZDRKdk5MT2h4cXFBRnpLdHY3ZjMtS3hHTlN3cmVYQmk3SEV3UEx1NlNpcDRnWXRLOXRGTkFqM0RvQVRtRlR3ZHN5Q0RWcTd4REg5ZC1OdElZUEk5NUM0?oc=5",
+   "source": "경남저널",
+   "date": "2026-11-06",
+   "region": "경남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "함양군, 정수시설 운영 전문 인력 확충으로 수돗물 관리 역량 강화",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVQU9qM1FGUXYxWG04a3hNNWdFUENfa2d4cG9FQk04VEVqa3VkZ09FdXg4SDlDQUFrZm1sek9FLWpuMmhEVE9vdVdyN2w5ZnpEOTJ1Y3kweUJKVUtfQ1I0STRkUVQ?oc=5",
+   "source": "국제일보",
+   "date": "2026-11-06",
+   "region": "경남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "군산에서도 수돗물 이상 민원 50여 건 접수",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhenExNDhPVzRNdkFBWDlOd3hXOXQ4OVVRTDViakdiLV9BZU5BT3JtcmM1ZDNiNlE5NzF3U2RnUGEwNUoycG9sOHNzdXYwbHA5SzZBQWtjT2loR1E?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "러 기름탱크 불태우자…우크라 수돗물 끊겼다",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlTlJPRTY2bmFVbzlfOEJEZnJxTTFfbGVIcml6eEhXV1c5R3h0SUVFaVNzZlJ2c3d5S0RNWldIb0Zac2RyTWZRd0pSa3cyeHh2cXh2QVpLMkczYjR6ckE?oc=5",
+   "source": "채널A",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전남광주 북구 곳곳서 흙탕물 콸콸…주민들 수돗물 사용 불편",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZ0xJY0Y1S2VWOWJBUFRtcWtqd19NNkVMTDJvMVNZbmYyTW1NQ3N5X1pvcEdwdmc1dTJQTlJQbzZNWTNYRjhjbkRSclZQYlVDN05uNTJ2aUlHUHJxU0p6d3lJZTZpSXpDV0hDOERkUQ?oc=5",
+   "source": "진일보 | 전남일보",
+   "date": "2026-11-06",
+   "region": "전남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전주 등 4개 시·군 수돗물 필터 변색···환경단체 “용담호 관리 부실”",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldkNOaG8zVU9vWWVtVFFPRmZQdHJ4dEdjR2cyOUVGSXZtM0hBZTBwWHpxZHdRMHRaak83Q09FbGEyTmhyOTNYb2p0TUJEVl9tMG1ScEhIZXFlWkNRTnlB0gFfQVVfeXFMTWV2Q05obzNVT29ZZW1UUU9GZlB0cnh0R2NHZzI5RUZJdm0zSEFlMHBYenFkd1EwdFpqTzdDT0VsYTJOaHI5M1hvanRNQkRWX20wbVJwSEhlcWVaQ1FOeUE?oc=5",
+   "source": "경향신문",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서울시, 서울시민 먹는 물 소비패턴 조사 결과 시민 4명 중 3명이 수돗물 아리수를 먹는 물로 이용",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DaGlhbk5TMTFFc2F1TFM3aDgzVjI0UmUwYmxQNXV5dVpQejVOYmlBX21oOS1vQ2Z1MVlwVDJaZ2hiVFhqT0JKMy1Ham1welBsVy02U3JzQVFVSWVqSWJnLUszSQ?oc=5",
+   "source": "환경포커스",
+   "date": "2026-11-06",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "용담호 수돗물 필터 변색 확산…전북환경연합, 근본 대책 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Xd2N1SlVLdWlzel9YQTVFMks4YzAyNW1XVVFfd3pQOHBEZ2w3NC1WLWhweV82cnp0X0h6NG9jMjMtZkdQTmpyQUNKSVlIZXQ5RzAyeWJGUEFZRlnSAWBBVV95cUxOcHVtTzNlbnVaUTRHRndEY2trbldHakMzNUFTdGZEaTVGaUVYN3dwaXR5VWpUamZaSzc4dnZPc2taY3BwWEdIUTZFaFBQbWZJVWczOWlTN1JkOEFtNzZmZmQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“수돗물 이상 사태 근본 대책 마련해야”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUxhS0N4S3h4UWl0S0VlbW1PYXFUMEhZNDh4WTZvMFRQR2xFY3BlNjRxcEFmNU0yY3pZc29SRTZGejI2R3lvWmM5bU1RU3hKdUcwck5zVU5meGs?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전주시 흙냄새 수돗물 사태 안정기로 접어들어, 망간 농도 기준치 이하",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WYzdxU1gzZkJtNkJ0aURVS004a0pWVWZzRC1UZ3BwX3pLS1dyU2lKRjNrZkZUbjBjek9jTXk4S3ZnQ2dKeXVKMFJ2VGtVU3I4OEs2cFhSTVhoRE9iaEk1MkNyMV92R0gycVdDRTNsUQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "이의안 시의원, 서울 저수조 위생 재질 전환 촉구…시민 수돗물 안전성 강화 필요",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tTlVvLXIzLWFrRTNWY295XzRINS1FYlVQdEUxOE5RQjB4V0g1djMxazFiZHp3QW5TaVRtSUNSaGo0YW0zd2d6VThHZ0JoSXE3VzNCR0xkWkpmTmw4?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-06",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전주 수돗물 변색에 환경단체 \"기준치 이하라도 안심 못 해\"",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IVDBGOVBPeVFiVXJBYjQ0bmFpTXN2b3I1TWFHN2lJeGswR2M4OElQZ2g3UmtHUFFKcmVrX1B2VUJ0V0V4eEVGNEI4azZpbGctX3RVMjA2b3ByVnk3Z2ZGQk1qa2g4ZkNoMG5z?oc=5",
+   "source": "프레시안",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "전주시, 흙냄새 수돗물 망간 함유량 기준치 이하지만 수공에 강력 개선 권고",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3M0o1Zjczbk9TSWM2QjNYdWRKVlpHb3VNaW1YYjFlOUNkWDBOZEdfbW1Cbnlld2tGMkxNUWFCTmhia3J2ak9FNkVzdUw5OTZwRVZaLW5TWQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-11-06",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "정수장 여과 ‘아이블럭’ 성능 개선…태국까지 공략 목표",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZ2FDQ0t3OXJSY3ZxNGZBRFF5bi14eXJ6YnZIZEhxSVVfUkF1c1cwRGxlcUlhbTZad0hfNGw4cm1GTmN6LTl5ME9ZTkk5RTAzQ3fSAVNBVV95cUxOZHdRUmxBWjN4d1l2MnNvY3lNOGY4MW9IUnVfcHp5bWhjUFUtZUlGVG9wUTVUdFdJWVFlTlp4Q3BDWU1nTEM4anpER1hEUkx2OUtWMA?oc=5",
+   "source": "서울경제",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "울산 중구 우정·교동 일부지역, 오는 10일 야간 6시간 일시 단수",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UYWp2SklmTE5FbnYwUmpDMVlWT1oyNzFDNTU2Uy1PYjBVS0w0c25kV0hDS2Fla1ZYNUZsNkxVekxDQ2Q5blV6T0dOWDRQRzlsRGhlMUhYRHBQMmJGdlF1aGdaaHQ0dk5JSG8w?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-11-06",
+   "region": "울산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "경기도의회 김영희 의원, “신설학교까지 누수·화변기 설치… 교육환경 개선 근본대책 마련해야”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zRUVCOTNwRDhtS0FPS3F0YmlfcVh2aEkyQ0huTVJWRHl1VVl3SEhDSGljdV92Y2tNMTE2TkdCcVRqZ0VUWVk4Vk9OcXlNel9DMWUxOVJpV3FJYk9KY0ktUDc0c3NMU3BGYUQ4R05FLVBCd9IBckFVX3lxTE1zRUVCOTNwRDhtS0FPS3F0YmlfcVh2aEkyQ0huTVJWRHl1VVl3SEhDSGljdV92Y2tNMTE2TkdCcVRqZ0VUWVk4Vk9OcXlNel9DMWUxOVJpV3FJYk9KY0ktUDc0c3NMU3BGYUQ4R05FLVBCdw?oc=5",
+   "source": "경인종합일보",
+   "date": "2026-11-06",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "김영희 경기도의회 교육기획위원회 부위원장 “신설학교까지 누수·화변기 설치… 교육환경 개선 근본대책 마련해야”",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRZV9uWGdqUHBvQTItRlhUZjlKX2JKTnJFSnpXcmtDUUF3NlpOUnFsWTN2WlVPRURNX2Q1aUZHemJhWnp1Z2hMUk94cHpPZy1WT0Iw?oc=5",
+   "source": "서울신문",
+   "date": "2026-11-06",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "가축분뇨 처리 부담 줄이고 농가 상생…자원순환 모델 주목 > 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWk1wWHlSZnJzZEVyam8ycHE2NEwzTW51c1dDRkZMZ2lKalQ2V0dhcThVTWMtdlE2bnNPdENwTHZCZDJ3RWdTckwxY0VxVVRxMnk2V3o2SWtVeVdLeGJnY1hpdGVZc2NGa3owaA?oc=5",
+   "source": "지데일리",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "서루주식회사, 지하수 개발 공사 견적 재검토 서비스 시행… 관정 규모부터 시공 방식까지 점검",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fRkEya0MxNmlDdjdjdnVBN2ZCdjc1V1BBaXZDZkdsbUppeEJkY1JqSXZ5SjNXZkQwMEg0dlJ1dDZrX0NlSHFhNUlYVFd6bThqaE16eHdB?oc=5",
+   "source": "피앤피뉴스",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "[지하 기후리포트] 바다가 땅속으로...농업용 지하수 ‘염해 경보’",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55dWRSaHFVWkpiaWNsWUtjVjNjaG44MVE2T3ZEZWQ3TG9peDV1RWNfYlhKQlVCZ1JuY0ZpdV9hNXdCUW9ObUtuTm5uTlhrQ2VkY19DdDVpSnl3cVJSRW1uQ3lWdU1PZ2xIcTFzUGh30gFyQVVfeXFMTkxfMkRmbDg5akllTEw1dHhoWUpiZUczcDhkVEhzaFZZcDdoU1BKbUd3Uk9CNFFjVWY5WG9IWUxpSmJ5UXQ0NzBwdzZfeUlpSG9tUW5WV3ZnRW5CMXNVemVSRmNGclh1R3pXZGxPN2VEc3FB?oc=5",
+   "source": "뉴스펭귄",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "양경호 의원, 친환경 냉난방 기술 도입 지하수열 활용 방안 제시",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Kd2hBUXlnczQ2b0F3a1N3TkZ1LXJ1RkxOWUxIOV9fYzlXLV9QTG9yLUkwY1M3Umt0dEI5bFNiTElBb19xaUQzLWFYbk54Wmcza3c0QnBKbC1wMUE4cnFfd3FqZkR5NE93?oc=5",
+   "source": "제주환경일보",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "반도체에 가뭄까지…수자원공사, 댐·지하수·바닷물로 '물그릇' 키운다",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wYmVLNHVrMGhFalZUNnpmQjJ4MWtFckRicEp2OHdkdV9KMWtJNXctQnNTWGsxbWJiLThoTmdjb296c2JaNmVPeTd3OTNxbklmcXdlSktwRkRfV2x6bHRXb1luQkxhY29xZjdtWHQ2OHZfcUtUV0NR0gF3QVVfeXFMTjBiZUs0dWswaEVqVlQ2emZCMngxa0VyRGJwSnY4d2R1X0oxa0k1dy1Cc1NYazFtYmItOGhOZ2Nvb3pzYlo2ZU95N3c5M3FuSWZxd2VKS3BGRF9XbHpsdFdvWW5CTGFjb3FmN21YdDY4dl9xS1RXQ1E?oc=5",
+   "source": "스트레이트뉴스",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수",
+    "가뭄"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "호남권 반도체 국가산단, 기업 투자조건 조율…전력·용수·교통망 협의",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnMV9rVDIzVmM5aDM0LTE1R1hCU0JDSk9GdHlIWW44WFMyZGs0Sk5hTXFVUFdGaUp3UGdhOWpFeHJMZ0lIX25pb1pYZ2IzY0gtMk9RT2UzTXhfN1VkY3p1aXR0WXUydDBEaDkwa0hB?oc=5",
+   "source": "폴리뉴스 Polinews",
+   "date": "2026-11-06",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“지하수 오염 우려에 제주 군사화” 환경평가 부동의 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XcEhlSnpKWlJxVTZlTzhpNHlhank1c3BwX3k3OFRiV2pZTUtnUlBLc3VPcXpkaEJWbXI3c0FZR21NVHlPaW00ZFRXNlN4eU80blF5SEVwQ1N1XzQ?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-06",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "“지하수 오염·제주 군사화 우려”…하원테크노캠퍼스 부동의 촉구",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqNUI5TW1rRzB6X2t0OVEzVF9leUwtN2xKU2RRMEJFTmgyS0gwancyNUFqQmY2X1Rtd1RzbVZIMUgtdjJzbzhBUzVVczZEbEVHeEp6VjNWTVhEUmJFNFBJM3lyZUljZXB0UlM4?oc=5",
+   "source": "제주의소리",
+   "date": "2026-11-06",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "title": "AIT-E, 제주 열에너지 포럼서 지하수열 활용 '냉각탑 없는 데이터센터' 구축 제안",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KUHpDZ2dzU2xKelVpR1g3VUVxUFlEbUlaUTBiOVBrZjY3RExaQ1ZnTnBXRW5RX2x6M2ZpYmd0OW1GeExGQmw0NmpiaWh3VS1ocDk1eHZfeXlKa0ZEY09SOE5COTNtZnc?oc=5",
+   "source": "팍스경제TV",
+   "date": "2026-11-06",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "지하수"
+   ],
+   "summary": "",
+   "figures": []
+  },
+  {
+   "city": "서울시",
+   "date": "2026-11-05",
+   "figures": [
+    "미교체 계량기 약 24만 개",
+    "3년 이상 방치 11만 개+",
+    "누수복구 5,697건 중 97.8% 흙막이 미설치",
+    "연 4만 개 교체 결손"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "서울",
+   "source": "데일리환경",
+   "summary": "최두호 서울시의원은 아리수본부 행정사무감사에서 검정 유효기간이 지난 수도계량기 약 24만 개가 교체되지 않았고, 이 가운데 11만 개 이상은 3년 넘게 방치됐다고 지적했다. 최근 3년간 굴착 깊이 1.5m를 넘은 긴급 누수복구 공사 5,697건의 97.8%가 흙막이 없이 시공됐다며 안전 문제도 제기했다. 아리수본부는 연 24만 개 교체가 한계라 매년 약 4만 개씩 결손이 쌓인다고 설명했고, 인력을 다시 산정하고 6월 개정한 매뉴얼로 흙막이 설치를 의무화했다고 밝혔다.",
+   "tags": [
+    "상수도",
+    "안전사고"
+   ],
+   "title": "유효기간 지난 수도계량기 24만 개 방치… 아리수본부 \"인력 한계 속 안전·효율 해법 찾겠다\"",
+   "url": "https://www.dailyt.co.kr/newsView/dlt202611050037",
+   "id": "dailyt-dlt202611050037"
   },
   {
    "city": "광주시",
@@ -326,27 +2220,6 @@
    "id": "gjdream-674064"
   },
   {
-   "city": "대구시",
-   "date": "2026-11-04",
-   "figures": [
-    "3단계 실증 9.14~10.16",
-    "유량 41t→33t 조정",
-    "실무그룹 3개 분야"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "대구",
-   "source": "국제뉴스",
-   "summary": "대구시가 11월 4일 취수원 신 대안 자체 지역검증단 3차 회의를 열고 복류수 3단계 실증 결과를 분석했다. 하루 41t 유량에서 BOD·탁도·SS가 Ⅰb등급 수준으로 개선됐으나 TOC가 일부 기간 기준을 넘어 33t으로 줄인 뒤 Ⅰb등급을 유지하고 있다. 수량·운영, 수질·사고대응, 소통·갈등관리 3개 실무그룹도 가동했다.",
-   "tags": [
-    "상수도",
-    "수질"
-   ],
-   "title": "대구광역시, 취수원 신 대안 실증 실험 결과 분석...수질 개선 효과 확인",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742444",
-   "id": "gukjenews-3742444"
-  },
-  {
    "city": "전주시",
    "date": "2026-11-05",
    "figures": [
@@ -389,502 +2262,6 @@
    "id": "hankooki-1422080"
   },
   {
-   "city": "제주시",
-   "date": "2026-06-22",
-   "figures": [
-    "오후 6시 3분 신고",
-    "오후 7시 15분께 복구",
-    "삼도·건입·일도동 일부 단수"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "6월 22일 저녁 제주시 산지천 인근에서 상수도관이 파손되면서 도로가 꺼지고 일부 구간이 물에 잠겼다. 이 사고로 삼도동·건입동·일도동 일부 지역에 수돗물 공급이 끊겼다가 오후 7시 15분께 복구됐다. 상하수도본부는 배관 파손 원인을 조사할 예정이다.",
-   "tags": [
-    "단수",
-    "싱크홀",
-    "상수도"
-   ],
-   "title": "제주, 산지천 인근서 상수도 배관 파손 사고...'단수.싱크홀' 소동",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=594859",
-   "id": "headlinejeju-594859"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-09-15",
-   "figures": [
-    "50㎥/일 미만",
-    "준공 3년 경과",
-    "9.22 신청 마감"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "제주녹색환경지원센터가 처리 성능이 떨어진 소규모 시설의 송풍기·펌프·배관 등 부품 보수·교체비를 지원할 참여 시설을 모집했다. 준공 3년이 지나고 현장 진단에서 성능 저하가 확인된 시설이 대상이다.",
-   "tags": [
-    "지원사업"
-   ],
-   "title": "제주 개인하수처리시설 수질개선 지원 참여시설 모집",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599034",
-   "id": "headlinejeju-599034"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-09-17",
-   "figures": [
-    "2027년부터 상수도 연 8%·하수도 연 20~25% 인상안",
-    "요금현실화율 상수도 58.5%·하수도 32.7%(2025년 말)",
-    "하수도 경영평가 '다' 등급"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "김봉현 도의회 예산결산특별위원장은 요금을 올리기 전에 상하수도 경영부터 개선해야 한다며, 2025년 지방공기업 경영평가에서 하수도사업이 '다' 등급을 받은 점을 지적했다. 2025년 7월 요금 용역은 2027년부터 상수도 연 8%, 하수도 연 20~25% 인상안을 제시했다. 상하수도본부장은 에너지·약품·설비 비용 때문에 절감이 어렵다면서도 의회 우려를 반영해 추진하겠다고 답했다.",
-   "tags": [
-    "요금",
-    "제도"
-   ],
-   "title": "제주도 상하수도 요금 인상 추진에...\"경영평가 개선이 먼저\"",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599172",
-   "id": "headlinejeju-599172"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-12",
-   "figures": [
-    "처리수 하천 방류 1,159.3톤/일",
-    "오수 전량 자체처리 설명과 불일치",
-    "원인자부담금 대상 통보"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "도의회 환경도시위원회 행정사무감사에서 양영식 의원이 한화 애월포레스트 환경영향평가서 초안의 상수도 공급 근거가 부족하다고 지적했다. 사업자는 공청회에서 오수를 전량 자체 처리(대규모 오수처리시설)한다고 설명했지만, 평가서에는 하루 1,159.3톤의 처리수를 하천으로 내보내고 침투형 저류지를 쓰는 것으로 읽히는 내용이 있어 앞뒤가 맞지 않는다는 지적이다. 상하수도본부장은 이 사업을 원인자부담금 대상으로 사업자에게 통보했다고 답했다.",
-   "tags": [
-    "개인오수처리시설",
-    "인허가",
-    "상수도"
-   ],
-   "title": "\"제주 애월포레스트개발사업, 환경영향평가 부실...수만톤 용수공급 어떻게?\"",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600291",
-   "id": "headlinejeju-600291"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-16",
-   "figures": [
-    "애월포레스트 오수 2,626.7톤/일(당초 7,986톤)",
-    "신천목장 855.6톤/일",
-    "대규모 시설 66곳 중 34곳 부실"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "제주녹색당이 한화 애월포레스트(오수 하루 2,626.7톤)와 신천목장 휴양리조트(855.6톤)가 오수를 공공하수도가 아닌 자체 시설로 처리하겠다는 계획을 문제 삼아 환경영향평가 협의 중단과 사업 철회를 요구했다. 애월포레스트의 오수 발생량이 전략환경영향평가 때 하루 7,986톤에서 크게 줄어든 이유를 해명하라고 했고, 민간 사업자의 오수 자체처리를 규제할 방안을 도에 요구했다. 제주시 대규모 개인하수처리시설 점검에서 66곳 중 34곳의 관리 부실이 확인됐다는 점도 근거로 들었다.",
-   "tags": [
-    "개인오수처리시설",
-    "인허가",
-    "오수"
-   ],
-   "title": "\"많은 논란 한화 애월포레스트·신천목장 리조트 사업 철회하라\"",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600584",
-   "id": "headlinejeju-600584"
-  },
-  {
-   "author": "조혜정 제주시 상하수도과",
-   "city": "제주시",
-   "date": "2026-10-19",
-   "figures": [
-    "하수관로 막힘 원인: 음식물·폐유·물티슈",
-    "누수·막힘 신속 신고"
-   ],
-   "focus": false,
-   "kind": "기고",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "필자는 땅속에 있어 잘 보이지 않는 상하수도가 제주의 하천·바다와 지하수를 지키는 기반이라고 강조한다. 행정의 꾸준한 관리와 함께, 시민도 음식물 찌꺼기·폐식용유·물티슈를 하수구에 버리지 않고 막힘을 바로 신고하는 등 참여해야 한다고 주장한다.",
-   "tags": [
-    "기고",
-    "하수관로"
-   ],
-   "title": "깨끗한 물, 건강한 제주...상하수도에서 시작된다",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600679",
-   "id": "headlinejeju-600679"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-24",
-   "figures": [
-    "약 4,700가구",
-    "단수 약 15시간(10.23 11:30~10.24 03:00)",
-    "첫 안내 문자 약 5시간 뒤",
-    "오라정수장 지하수 5공 가동"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "10월 23일 오전 11시30분쯤 용담수원지 취수펌프가 고장 나 용담1·2동 일대 약 4,700가구에 물 공급이 끊겼다. 펌프는 밤 10시30분쯤 고쳐졌지만 공급은 24일 오전 3시쯤에야 완전히 정상화돼 단수가 약 15시간 이어졌고, 일부 가정에서는 탁한 물이 나왔다. 첫 안내 문자가 단수 5시간여 뒤에야 나가고 계량기 등록 건물주에게만 발송돼, 상인과 세입자에게 상황 전파가 늦었다는 비판이 나왔다.",
-   "tags": [
-    "상수도",
-    "단수"
-   ],
-   "title": "'15시간 단수'에 시민 원성 빗발쳤는데…제주시청은 뭘 했나",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600992",
-   "id": "headlinejeju-600992"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-10-26",
-   "figures": [
-    "도지사 사과(10.26)",
-    "수계 전환 방안·대응 매뉴얼 지시",
-    "보상안 미언급"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "위성곤 제주도지사가 10월 26일 주간정책조정회의에서 용담동 단수 사태를 두고 주민에게 사과했다. 재발 방지 대책과 상수도 공급체계 전반의 근본 개선을 지시하고, 독립된 취수원·정수장과 광역 상수망 연계 문제를 짚으며 수계 전환 방안과 대응 매뉴얼을 보고하라고 상하수도본부에 주문했다. 주민 보상 방안은 언급되지 않았다.",
-   "tags": [
-    "상수도",
-    "단수",
-    "제도"
-   ],
-   "title": "위성곤 제주도지사 \"용담동 단수 사태, 주민들께 사과드린다\"",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601058",
-   "id": "headlinejeju-601058"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-10-27",
-   "figures": [
-    "사업비 3억원",
-    "올해 26곳 복구(상반기 21곳·하반기 5곳)",
-    "지난해 15곳 복구",
-    "지하수 의존율 96% 이상"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "제주도가 사업비 3억원을 들여 오염물질이 스며들 수 있는 방치 지하수 관정 26곳을 원상복구한다. 상반기에 21곳(제주시 10곳·서귀포시 11곳)을 마쳤고 하반기에 5곳을 더 정비한다. 소유자 동의를 받은 관정이 대상이며, 행정명령이나 개발 의무가 걸려 있거나 공공용인 관정은 빠진다.",
-   "tags": [
-    "지하수",
-    "수질"
-   ],
-   "title": "제주도 방치 지하수 관정 정비 확대… 올해 26곳 복구",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601135",
-   "id": "headlinejeju-601135"
-  },
-  {
-   "city": "서귀포시",
-   "date": "2026-11-06",
-   "figures": [
-    "취수 월 4,900톤→약 1만3천 톤",
-    "오수 179.8톤·폐수 178.3톤/일",
-    "색달처리장 가동률 약 95%"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "헤드라인제주",
-   "summary": "시민단체와 정의당·녹색당 제주도당이 옛 탐라대 부지 하원테크노캠퍼스 산업단지의 환경영향평가 부동의를 요구했다. 사업지가 중산간 지하수특별관리구역인데 부지 내 관정 취수허가량을 월 4,900톤에서 약 1만3천 톤으로 늘리려 하고, 하루 생활오수 약 180톤과 공장폐수 약 178톤을 가동률이 95%에 이른 색달공공하수처리장으로 보내는 계획이라는 점이 문제로 지적됐다.",
-   "tags": [
-    "지하수",
-    "하수처리장"
-   ],
-   "title": "\"지하수관리구역에 산업단지 웬 말이냐\"…하원테크노캠퍼스 사업 반발",
-   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601731",
-   "id": "headlinejeju-601731"
-  },
-  {
-   "city": "연수구",
-   "date": "2026-10-31",
-   "figures": [
-    "피해 2개 동·약 300~400세대",
-    "10월 30일 밤 9시 최초 발견"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "인천",
-   "source": "경인방송",
-   "summary": "10월 30일 밤 송도국제도시의 한 대단지 아파트 지하주차장으로 오수가 역류해 발목 높이까지 찼고, 다음 날 오전에 다시 역류해 차량 피해와 지하 정전이 생겼다. 10개 동 중 2개 동, 약 300~400세대가 피해를 봤다. 아파트 측은 외부 하수관 막힘을 원인으로 보고 있으나 아직 확인되지 않았으며, 구는 내시경 카메라로 관로를 조사해 파손인지 막힘인지 가린 뒤 준설이나 보수를 할 계획이다.",
-   "tags": [
-    "오수",
-    "유출",
-    "하수관로"
-   ],
-   "title": "[단독] 송도 아파트 지하주차장에 오수 역류...차량 피해·정전까지",
-   "url": "https://news.ifm.kr/news/articleView.html?idxno=483141",
-   "id": "ifm-483141"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-05-13",
-   "figures": [
-    "대상 450여 개(전체의 3%, 처리용량의 18%)",
-    "50㎥ 미만 소규모 시설 비중 68%",
-    "20㎥ 시설 선임 비용 월 약 24만원",
-    "과태료 100만원 이하",
-    "유예 기한 2027년 말 검토"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "한라일보",
-   "summary": "제주도 상하수도본부가 1일 처리용량 20㎥ 이상 50㎥ 미만 개인하수처리시설에 적용할 기술관리인 선임 의무를 2026년 말에서 2027년 말로 1년 더 늦추는 방안을 도 본청과 협의하기로 했다. 이 규제는 2023년 하수도 사용조례 개정으로 도입돼 2025년 1월 시행됐지만, 인력난과 비용을 이유로 소유자들이 반발하자 두 달 만에 2026년 말까지 유예됐다. 선임하지 않으면 100만원 이하 과태료 대상이다. 하수도법상 자격 요건을 갖춘 인력이 도내에 없다는 점도 유예 이유로, 본부는 지정기관 교육을 이수하거나 실무경력이 1년 이상이면 자격을 인정하는 특례를 하수도법이나 제주특별법 개정으로 추진할 계획이다.",
-   "tags": [
-    "개인오수처리시설",
-    "제도"
-   ],
-   "title": "제주, 개인하수처리시설 규제 강화 또다시 유예",
-   "url": "http://www.ihalla.com/article.php?aid=1778631245785776073",
-   "id": "ihalla-1778631245785776073"
-  },
-  {
-   "city": "제주특별자치도",
-   "date": "2026-11-06",
-   "figures": [
-    "20~50㎥/일 시설 약 450곳(68%)",
-    "유예 2026년 말→2028년 말",
-    "선임 비용 월 약 24만원",
-    "11월 10일 정례회"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "한라일보",
-   "summary": "하루 처리용량 20㎥ 이상 50㎥ 미만 소규모 개인하수처리시설(오수처리시설)에 기술관리인을 두게 한 제주도 규제를 2026년 말에서 2028년 말로 2년 더 미루는 하수도 사용 조례 개정안이 도의원 발의로 제출됐다. 이 소규모 시설은 도내 개인하수처리시설의 약 68%(약 450곳)로, 2025년 1월 시행 두 달 만에 인력난·비용(월 약 24만 원) 반발로 중단된 바 있다. 상하수도본부가 건의한 1년보다 긴 유예안으로 10일 개회하는 정례회에서 다뤄지며, 도는 교육 이수자·실무경력자를 자격자로 인정하는 방안을 검토하지만 하수도법이나 제주특별법 개정이 필요하다.",
-   "tags": [
-    "개인오수처리시설",
-    "제도"
-   ],
-   "title": "제주, 개인하수처리시설 규제 강화 유명무실",
-   "url": "http://www.ihalla.com/article.php?aid=1793950315792500073",
-   "id": "ihalla-1793950315792500073"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-14",
-   "figures": [
-    "오수 약 2,627톤/일 자체처리",
-    "용수 4,328톤/일 중 공공 2,988톤",
-    "숙박 1,060실·125만㎡·1조7천억원"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주투데이",
-   "summary": "도의회 문화관광체육위원회 행정사무감사에서 제주도가 6월 약속한 애월포레스트 관계부서 워킹그룹이 석 달 넘게 한 번도 열리지 않은 사실이 드러났다. 숙박시설 1,060실 규모 사업의 하루 용수 수요는 약 4,328톤인데 공공용수 공급 계획은 약 2,988톤이며, 의원들은 실제 공급 가능성을 입증하라고 요구했다. 하루 약 2,627톤의 오수는 공공하수처리구역 밖에서 자체 처리해 조경용수·연못에 전량 재이용한다는 계획이어서 외부 방류·지하 침투 여부를 분명히 하라는 요구가 나왔다.",
-   "tags": [
-    "개인오수처리시설",
-    "인허가",
-    "지하수"
-   ],
-   "title": "“애월포레스트 논란 검증 약속 … 3개월째 손 놓은 제주도”",
-   "url": "https://www.ijejutoday.com/news/articleView.html?idxno=403393",
-   "id": "ijejutoday-403393"
-  },
-  {
-   "city": "계양구",
-   "date": "2026-10-30",
-   "figures": [
-    "총사업비 1,168억원",
-    "7월 신청·10월 지정"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "인천",
-   "source": "인천뉴스",
-   "summary": "2025년 집중호우로 침수됐던 인천 계양구 작전구역이 기후에너지환경부 하수도정비 중점관리지역으로 지정돼 국비를 받을 근거가 생겼다. 총사업비는 1,168억 원이며, 그동안 부평구 쪽으로 내보내던 빗물을 계양구 안에서 처리하도록 배수체계를 바꾸고 빗물펌프장 설치와 하수도 정비를 단계적으로 진행한다. 세부 일정은 국비 확보와 설계용역을 거쳐 확정한다.",
-   "tags": [
-    "하수도계획",
-    "침수"
-   ],
-   "title": "계양구, 작전동 침수 예방에 1,168억 투입 … 하수도 정비 본격화",
-   "url": "http://www.incheonnews.com/news/articleView.html?idxno=442464",
-   "id": "incheonnews-442464"
-  },
-  {
-   "city": "울산시",
-   "date": "2026-10-27",
-   "figures": [
-    "예산 1,600억 원(전년 대비 5%↑)",
-    "30년 이상 노후관 918km(24%)",
-    "노후관 정비·세척 196억 원",
-    "급수 확대 470세대·74억 원"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "울산",
-   "source": "울산매일",
-   "summary": "울산시가 2027년 상수도사업특별회계를 역대 최대인 1,600억 원으로 편성했다. 전체 상수도관 3,815km 중 30년 넘은 918km(24%)를 정비하기 위해 노후관 정비·세척에 196억 원을 배정했고, 2027~2032년 520억 원 규모 국비 정비도 추진한다. 울주군 4개 지역 470세대 급수 확대와 회야정수장 단계 정비, AI 상수체계 기본계획 용역도 포함됐다.",
-   "tags": [
-    "상수도"
-   ],
-   "title": "울산 상수도관 4개 중 1개 30년 넘었다…내년 1600억 들여 본격 정비",
-   "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1069711",
-   "id": "iusm-1069711"
-  },
-  {
-   "city": "서귀포시",
-   "date": "2026-06-04",
-   "figures": [
-    "2019년 서부 조사 시작",
-    "분석 항목 약 30개",
-    "연 2회 조사"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주도민일보",
-   "summary": "제주도 보건환경연구원이 2019년부터 한림읍 등 서부지역에서 해 온 지하수 정밀조사를 올해 남원읍을 시작으로 동부지역까지 넓힌다. 상·하반기 두 차례 음이온·양이온·중금속 등 약 30개 항목을 분석하고, 질소·산소 안정동위원소로 오염원을 추적한다. 해당 지역에 들어설 중규모 빗물이용시설 설치 전후의 수질 변화도 함께 살펴 지역별 지하수 관리에 활용할 계획이다.",
-   "tags": [
-    "지하수",
-    "수질"
-   ],
-   "title": "제주도 보건환경연구원, 지하수 정밀조사 범위 동부지역까지 확대",
-   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=319705",
-   "id": "jejudomin-319705"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-08-06",
-   "figures": [
-    "하루 공급량 47만5154㎥(시설용량의 92%)",
-    "물 사용량 전년比 약 9%↑",
-    "상수도 민원 112건 중 75건 처리",
-    "예비 관정 90공 중 70공 가동"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주도민일보",
-   "summary": "가뭄과 폭염이 겹치면서 올여름 제주 물 사용량이 지난해보다 약 9% 늘어 하루 공급량이 상수도 시설용량의 92%에 이르렀다. 노후관 누수 등이 있는 급수취약 지역에서는 단수와 저수압 민원이 이어졌다. 도는 예비 지하수 관정 70공을 추가로 돌리고 9월 30일까지 비상급수대책반을 운영하며, 내년 상반기 상수도 시설 확충에 나설 계획이다.",
-   "tags": [
-    "가뭄",
-    "상수도",
-    "단수"
-   ],
-   "title": "‘물을 물 쓰듯’ 제주 기록적 폭염에 사용량 ‘껑충’",
-   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321137",
-   "id": "jejudomin-321137"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-08-23",
-   "figures": [
-    "체납 1만4794건·약 32억9000만원",
-    "고액 체납 284건·약 16억9000만원",
-    "9~12월 집중 징수"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주도민일보",
-   "summary": "7월 말 기준 제주시의 상·하수도 요금 체납액은 1만4794건, 약 32억9000만원으로 집계됐다. 3회 이상·100만원 이상 고액 체납 284건이 약 16억9000만원을 차지한다. 시는 9~12월 집중 징수에 나서 상습 체납자에게는 단수와 재산 압류를 하고, 생계 곤란 가구에는 분할 납부를 허용한다.",
-   "tags": [
-    "요금",
-    "상수도"
-   ],
-   "title": "제주시 상·하수도 체납액 32억9000여만원",
-   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321525",
-   "id": "jejudomin-321525"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-25",
-   "figures": [
-    "광역상수도 3,000톤(69%)·중수도 1,327톤",
-    "어승생 공급량의 20%",
-    "교래정수장 1만5천톤(2029)"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주일보",
-   "summary": "도시계획위원회 재심의 결정 뒤 애월포레스트의 물 공급 계획을 짚은 기사다. 하루 4,327톤 가운데 3,000톤(69%)을 광역상수도로, 1,327톤을 중수도·빗물로 채우는 계획인데, 3,000톤은 어승생정수장 하루 공급량(1만5천 톤)의 20%에 이른다. 어승생 증설은 수원량 감소로 2035년 이후로 밀렸고, 도는 2029년 준공 예정인 교래정수장(1만5천 톤)으로 대체하겠다는 입장이며 어음정수장(8,800톤) 신설은 검토 단계다.",
-   "tags": [
-    "상수도",
-    "인허가"
-   ],
-   "title": "애월포레스트 '물 공급 대책 소홀'...도시관리계획 '제동'",
-   "url": "https://www.jejunews.com/news/articleView.html?idxno=2228448",
-   "id": "jejunews-2228448"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-09-21",
-   "figures": [
-    "하루 1.2만→2.4만㎥",
-    "차집관로 15.1km",
-    "사업비 499.8억원",
-    "제주처리장 현대화 공정률 70%"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주의소리",
-   "summary": "2015년 시작한 구좌읍 월정리 동부하수처리장 증설이 끝나 준공식이 열렸다. 하루 처리 용량이 두 배로 늘고 차집관로 15.1km도 함께 정비됐으며, 시운전 중 방류수는 모든 항목에서 법정 기준을 충족했다.",
-   "tags": [
-    "하수처리장",
-    "증설"
-   ],
-   "title": "제주 동부하수처리장 11년 만에 증설 완료",
-   "url": "https://www.jejusori.net/news/articleView.html?idxno=506744",
-   "id": "jejusori-506744"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-19",
-   "figures": [
-    "오수 2,626.7톤/일 중 1,159.3톤 방류 명시",
-    "용수 4,327톤/일",
-    "지하수 함양 연 약 2만톤 감소"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주의소리",
-   "summary": "도시계획위원회 심의를 앞두고 애월읍 상가리 125만㎡ 지하수자원특별관리구역에 들어설 애월포레스트의 쟁점을 정리한 기사다. 하루 4,327톤의 물 사용에 따른 정수장 부담과 녹지 훼손으로 연간 약 2만 톤의 지하수 함양량 감소가 우려된다. 오수 2,626.7톤은 전량 자체 처리·재이용한다고 했지만 평가서에는 하천·저류지로 1,159.3톤을 흘려보낸다고 적혀 있어 지하수 오염 우려가 제기됐다.",
-   "tags": [
-    "개인오수처리시설",
-    "지하수",
-    "인허가"
-   ],
-   "title": "중산간 지하수 관리구역 개발 논란 ‘애월포레스트’ 운명은?",
-   "url": "https://www.jejusori.net/news/articleView.html?idxno=507501",
-   "id": "jejusori-507501"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-23",
-   "figures": [
-    "사업부지 125만1479㎡",
-    "어승생 정수장 증설 2025→2035년",
-    "지하수 함양량 연 약 2만톤 감소 우려"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "제주의소리",
-   "summary": "제주도 도시계획위원회가 한화 애월포레스트 관광단지의 개발진흥지구 지정안에 대해 용수 공급과 교통 계획을 이유로 재심의 결정을 내렸다. 사업지는 관정을 팔 수 없는 지하수 특별관리구역이라 상수도 급수구역 편입과 수도정비계획 변경이 필요한데, 6월 계획 변경으로 어승생 정수장 증설은 2035년으로 10년 늦춰졌다. 문대림 의원은 행정이 사업자의 용수 확보 책임을 대신 지는 것 아니냐고 문제를 제기했다.",
-   "tags": [
-    "상수도",
-    "인허가",
-    "지하수"
-   ],
-   "title": "‘상수도 빨대’ 한화 애월포레스트, 용도지구 ‘재심의’",
-   "url": "https://www.jejusori.net/news/articleView.html?idxno=507675",
-   "id": "jejusori-507675"
-  },
-  {
    "author": "전북일보 사설",
    "city": "전주시",
    "date": "2026-11-05",
@@ -906,70 +2283,6 @@
    "title": "[사설] 전주권 수돗물 이상, 철저한 원인 규명부터",
    "url": "https://www.jjan.kr/article/20261105500177",
    "id": "jjan-20261105500177"
-  },
-  {
-   "city": "세종시",
-   "date": "2026-10-15",
-   "figures": [
-    "지하수 수질 부적합 3년 연속",
-    "2027년 미등록 지하수 시설 전수조사 요구"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "세종",
-   "source": "중도일보",
-   "summary": "세종시의회 도시환경위원회가 10월 14일 환경녹지국과 상하수도사업소 행정사무감사를 했다. 박란희 의원은 지하수 관측망에서 3년째 수질 부적합이 나오는데도 후속 조치가 없다고 지적했다. 오염원 정밀조사, 측정망 확충 계획, 2027년 미등록 지하수 시설 전수조사 예산 확보를 요구했다.",
-   "tags": [
-    "지하수",
-    "수질",
-    "제도"
-   ],
-   "title": "세종시 토석채취·지하수 관리 도마 위… 시의회 개선 촉구",
-   "url": "https://www.joongdo.co.kr/web/view.php?key=20261015010004198",
-   "id": "joongdo-20261015010004198"
-  },
-  {
-   "city": "고양시",
-   "date": "2026-11-02",
-   "figures": [
-    "사업비 234억원",
-    "국·도비 80%",
-    "신설 570m·개량 2,817m",
-    "2030년 준공 목표"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경기",
-   "source": "중부뉴스통신",
-   "summary": "고양시 덕양구 화정동 일원 약 0.445㎢가 기후에너지환경부의 2026년 하수도정비 중점관리지역으로 지정돼 사업비의 80%를 국·도비로 받게 됐다. 이 지역은 지난해 8월 시간당 최대 110㎜ 비로 침수됐다. 시는 234억 원을 들여 하수관로 570m를 새로 놓고 2,817m를 개량하며, 2027년 설계, 2028년 착공, 2030년 준공이 목표다.",
-   "tags": [
-    "하수도계획",
-    "침수",
-    "하수관로"
-   ],
-   "title": "고양시, 화정동 일원 '하수도정비 중점관리지역' 지정… 침수예방사업 추진",
-   "url": "https://www.jungbunews.com/news/articleView.html?idxno=2784889",
-   "id": "jungbunews-2784889"
-  },
-  {
-   "city": "원주시",
-   "date": "2026-10-14",
-   "figures": [
-    "상수관로 2.13㎞",
-    "사업비 4억9천만원",
-    "약 60가구"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "강원",
-   "source": "강원도민일보",
-   "summary": "원주시가 문막읍 반계리 벌무내기 마을 일대에 상수도관 2.13㎞를 놓는 급수 확대 사업을 마쳐 약 60가구가 수돗물을 받게 됐다. 사업비는 4억9천만 원이며, 시는 미급수 지역의 상수도 시설을 계속 늘릴 방침이다.",
-   "tags": [
-    "상수도"
-   ],
-   "title": "원주 문막읍 벌무내기 마을, 수돗물 공급받는다",
-   "url": "https://www.kado.net/news/articleView.html?idxno=2077984",
-   "id": "kado-2077984"
   },
   {
    "city": "서울시",
@@ -1016,113 +2329,6 @@
    "id": "kbcs-459958"
   },
   {
-   "city": "대구시",
-   "date": "2026-10-18",
-   "figures": [
-    "TOC 저감 33~41%(소유량)→19~23%(55t)",
-    "목표 취수시설 하루 60만t",
-    "2029년 단계 공급·2032년 완료 구상"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "대구",
-   "source": "경북매일",
-   "summary": "1991년 페놀 사고 이후 해법을 찾지 못한 대구 취수원 문제가 낙동강 녹조와 운문댐 가뭄을 계기로 복류수·강변여과수 방식 검토로 넘어가고 있다는 기획 기사다. 문산정수장 실증에서 취수량을 늘리면 TOC 저감률이 떨어지는 한계가 확인됐고, 대구시는 연내 방향을 정해 2029년 단계 공급, 2032년 완료를 구상한다.",
-   "tags": [
-    "상수도",
-    "수질",
-    "가뭄"
-   ],
-   "title": "대구 ‘먹는 물 35년 숙원’ 새 해법 찾는다…복류수 전환 분수령",
-   "url": "https://www.kbmaeil.com/article/20261018500443",
-   "id": "kbmaeil-20261018500443"
-  },
-  {
-   "city": "포항시",
-   "date": "2026-10-25",
-   "figures": [
-    "총사업비 약 9,000억 원",
-    "노후관 정비 526.8km",
-    "유수율 81.0%→85.0%",
-    "공업용수 하루 6만㎥로 확대"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경북",
-   "source": "경북매일",
-   "summary": "포항시가 10월 21일 수도정비기본계획(변경)을 고시하고 2040년까지 약 9,000억 원을 들여 상수도·공업용수 시설을 정비한다. 인구는 줄지만 산업단지와 AI 데이터센터로 용수 수요가 늘어 양덕정수장 생활용수 일부를 공업용수로 전환·증설하고, 배수지 신설과 노후관 526.8km 정비, 블록시스템 142개소로 유수율을 85%까지 높인다.",
-   "tags": [
-    "상수도"
-   ],
-   "title": "“줄 잇는 첨단산단·AI 데이터센터… 포항시, ‘2040 수도정비계획’으로 물 부족 뚫는다”",
-   "url": "https://www.kbmaeil.com/article/20261025500425",
-   "id": "kbmaeil-20261025500425"
-  },
-  {
-   "city": "포항시",
-   "date": "2026-10-26",
-   "figures": [
-    "7월 7일 이어 석 달 만에 재발",
-    "우수박스 약 5km 정밀조사 예정"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "경북",
-   "source": "경북매일",
-   "summary": "10월 26일 포항 영일대해수욕장 해상누각 인근 우수관 배수구에서 검은 탁수가 쏟아져 백사장과 바다로 흘러들었고, 7월에 이어 석 달 만의 재발이다. 포항시는 개인이 사전 협의 없이 몰래 연결한 오수관(오접합)과 출처 불명의 불명수가 우수박스에 섞여 들며, 많은 비로 처리 용량을 넘자 침수 방지를 위해 수문을 열었다고 설명했다. 시는 준설과 함께 내년 예산으로 영일대 일대 우수박스 약 5km 전 구간의 오접합·불명수 유입을 정밀 조사해 차단할 계획이다.",
-   "tags": [
-    "오수",
-    "유출",
-    "하수관로"
-   ],
-   "title": "빗물만 나간다던 우수관서 또 ‘검은 물’…포항시 “몰래 연결된 오수관 탓”",
-   "url": "https://www.kbmaeil.com/article/20261026500434",
-   "id": "kbmaeil-20261026500434"
-  },
-  {
-   "city": "포항시",
-   "date": "2026-10-29",
-   "figures": [
-    "2자녀 월 5t 감면",
-    "3자녀 이상 월 10t 감면",
-    "2027년 1월 고지분부터"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경북",
-   "source": "경북매일",
-   "summary": "포항시가 상수도 요금 감면 대상을 18세 미만 3자녀 이상에서 19세 미만 자녀 2명 이상 가구로 넓혔다. 2자녀 가구는 매달 5t, 3자녀 이상은 10t 분량 요금을 감면받으며, 11월부터 행정복지센터에서 신청을 받아 2027년 1월 고지분부터 적용한다.",
-   "tags": [
-    "요금",
-    "상수도"
-   ],
-   "title": "포항 2자녀 가구도 수도요금 깎아준다…11월 신청, 2027년 적용",
-   "url": "https://www.kbmaeil.com/article/20261029500180",
-   "id": "kbmaeil-20261029500180"
-  },
-  {
-   "city": "대구시",
-   "date": "2026-10-20",
-   "figures": [
-    "TOC 19~20% 저감",
-    "BOD 37~39% 저감",
-    "탁도 82~83% 저감",
-    "계획 공급량 하루 58만8천t"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "대구",
-   "source": "경향신문",
-   "summary": "기후에너지환경부 주관 대구 취수원 신 대안(복류수 등) 공동검증위원회 3차 회의에서 3단계 실증실험 결과가 논의됐다. 낙동강 원수 대비 탁도·BOD는 크게 줄었으나 총유기탄소(TOC)가 하천 생활환경기준을 못 맞춰 10월 8일부터 유량을 하루 41t에서 33t으로 낮춰 추가 검증하기로 했다.",
-   "tags": [
-    "수질",
-    "상수도"
-   ],
-   "title": "대구 ‘먹는 물’ 자연여과수 활용 3차 공동검증···수질은 아직 ‘부족’",
-   "url": "https://www.khan.co.kr/article/202610201505001/",
-   "id": "khan-202610201505001"
-  },
-  {
    "city": "옹진군",
    "date": "2026-11-05",
    "figures": [
@@ -1143,242 +2349,6 @@
    "title": "신영희 인천시의원 \"옹진군 상수도 보급률 41.1%…식수 대책 필요\"",
    "url": "https://www.kifuture.com/news/article.html?no=177890",
    "id": "kifuture-177890"
-  },
-  {
-   "city": "정선군",
-   "date": "2026-10-15",
-   "figures": [
-    "체납자 67명",
-    "징수 대상액 6,224만1천원",
-    "체납액의 40% 징수 목표"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "강원",
-   "source": "강원일보",
-   "summary": "정선군이 11월까지 5개월 이상 밀리고 100만 원 이상 체납한 상하수도 요금 고액·장기 체납자 67명을 대상으로 집중 징수에 나섰다. 사전 안내와 분할납부 협의를 먼저 하고, 약속을 지키지 않으면 단계적으로 급수를 정지하며, 장기 체납은 재산 압류까지 검토한다. 생계가 어려운 가구는 복지 부서와 연계해 지원한다.",
-   "tags": [
-    "요금",
-    "상수도"
-   ],
-   "title": "상하수도요금 체납액 6,224만원 강력 징수 나서",
-   "url": "https://www.kwnews.co.kr/article/20261015500528",
-   "id": "kwnews-20261015500528"
-  },
-  {
-   "city": "강릉시",
-   "date": "2026-10-22",
-   "figures": [
-    "평가 대상 전국 77개 시설",
-    "약 10년 만의 선정"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "강원",
-   "source": "강원일보",
-   "summary": "강릉시 공공하수처리시설이 한국환경공단의 2025년 기술진단 완료시설 운영관리 평가에서 우수시설로 뽑혔다. 2016년 이후 약 10년 만이다. 평가는 전국 77개 시설을 대상으로 서류·현장 평가와 심의를 거쳐 진행됐으며, 시는 2024년 도입한 설비이력카드 제도와 진단 결과에 따른 노후설비 개선을 성과로 들었다.",
-   "tags": [
-    "하수처리장"
-   ],
-   "title": "강릉시 공공하수처리시설, 우수시설 선정",
-   "url": "https://www.kwnews.co.kr/article/20261022500390",
-   "id": "kwnews-20261022500390"
-  },
-  {
-   "city": "화성시",
-   "date": "2026-10-11",
-   "figures": [
-    "처리장과 거리 약 1㎞",
-    "2023년 악취개선 105억원"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경기",
-   "source": "경인일보",
-   "summary": "수원 공공하수처리장에서 약 1㎞ 떨어진 화성 병점 일대 아파트·오피스텔 주민들이 저녁이나 비 올 때 심해지는 악취 민원을 계속 내고 있다. 수원시는 2023년 105억 원을 들여 축열식 연소시설(RTO)을 설치했다며, 처리장보다는 인근 축사나 황구지천 등 여러 요인이 겹친 것으로 보고 있다. 전문가는 기술적으로 원인을 조사하고 주민과 소통하라고 조언했다.",
-   "tags": [
-    "악취",
-    "하수처리장"
-   ],
-   "title": "\"창문 못 열어\" 화성 병점 악취 민원 속출",
-   "url": "https://www.kyeongin.com/article/1772311",
-   "id": "kyeongin-1772311"
-  },
-  {
-   "city": "대구시",
-   "date": "2026-10-15",
-   "figures": [
-    "대구 30년 이상 하수관 3,630km(51.6%)",
-    "전국 20년 이상 관로 49.5%",
-    "지반침하 하수관 원인 2025년 50%",
-    "중점관리지역 전국 228곳·대구 6곳"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "대구",
-   "source": "경북일보",
-   "summary": "김위상 의원이 국정감사에서 한국환경공단 자료를 토대로 대구 하수관로 7,042km 중 51.6%가 30년을 넘겨 서울에 이어 두 번째로 노후율이 높다고 지적했다. 최근 6년 지반침하 사고의 40~50%가 하수관로 손상 때문이고, 2013년 이후 지정된 하수도정비 중점관리지역 228곳 중 정비 완료로 해제된 곳이 없다며 노후관 집중 지역 예산 우선 확충을 요구했다.",
-   "tags": [
-    "하수관로",
-    "싱크홀",
-    "제도"
-   ],
-   "title": "대구 하수관로 3630㎞ ‘30년 이상’…노후관 정비 예산 확대 촉구",
-   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087436",
-   "id": "kyongbuk-4087436"
-  },
-  {
-   "city": "서구",
-   "date": "2026-10-19",
-   "figures": [
-    "사업비 5억 원",
-    "공사 기간 약 5개월",
-    "2026년 10월 착공"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "대구",
-   "source": "경북일보",
-   "summary": "대구 서구청이 남평리네거리~서대구우체국 구간 서대구로 노후 하수관로를 정비한다. 집중호우 때 침수와 하수 역류에 따른 악취를 줄이기 위한 사업으로, 대구시 지원 5억 원을 들여 10월 중 착공해 약 5개월간 공사한다.",
-   "tags": [
-    "하수관로",
-    "침수",
-    "악취"
-   ],
-   "title": "대구 서구, 서대구로 노후 하수관로 정비에 5억 투입",
-   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087760",
-   "id": "kyongbuk-4087760"
-  },
-  {
-   "city": "김천시",
-   "date": "2026-11-04",
-   "figures": [
-    "총사업비 350억원",
-    "국비 60%",
-    "전국 29곳 신청·9곳 선정"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경북",
-   "source": "경북일보",
-   "summary": "김천시 신음동 일대 신음지구가 2026년 하수도정비 중점관리지역으로 지정돼 총 350억 원 규모의 정비가 추진된다. 사업비의 60%를 국비로 받아 우수관로 개량, 배수펌프장 신·증설, 빗물받이 확충을 한다. 올해는 19개 지자체 29곳이 신청해 9곳이 선정됐다.",
-   "tags": [
-    "하수도계획",
-    "침수",
-    "하수관로"
-   ],
-   "title": "김천 신음지구 침수 예방에 350억원…하수도정비 중점관리지역 지정",
-   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089631",
-   "id": "kyongbuk-4089631"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-06-09",
-   "figures": [
-    "취수량 100톤→146톤/일 증산 요청",
-    "2011~2017년 5차례 증산 시도",
-    "2018년 150톤 요청 불허"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "미디어제주",
-   "summary": "한진그룹 계열 한국공항이 먹는샘물용 지하수 취수량을 하루 100톤에서 146톤으로 늘리려고 낸 동의안이 도의회 환경도시위원회에서 심사 보류된 뒤 임시회 안건에 오르지 못해 12대 의회 임기 만료와 함께 자동 폐기될 전망이다. 위원회는 특별법이 먹는샘물 제조 허가를 공기업으로 제한한다는 점에서 법적 문제를 제기했다. 동의안이 폐기되면 한국공항은 민선 9기 도정에서 절차를 처음부터 다시 밟아야 한다.",
-   "tags": [
-    "지하수",
-    "제도"
-   ],
-   "title": "한진그룹 지하수 취수량 증산, 제주도의회 못 넘고 '자동 폐기'?",
-   "url": "https://www.mediajeju.com/news/articleView.html?idxno=364654",
-   "id": "mediajeju-364654"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-08-28",
-   "figures": [
-    "전수조사 대상 5664공",
-    "3804공(67.2%) 조사 완료",
-    "유량계·단말기 이상 75건",
-    "허가량/지속이용가능량 90.3%"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "미디어제주",
-   "summary": "제주도가 4월부터 도내 지하수 관정 5664공을 전수조사해 7월 말까지 3804공을 확인한 결과, 유량계·단말기 이상 75건을 찾아 조치하고 시설 보완이 필요한 65건은 관정 관리자에게 요청했다. 월 취수 허가량은 지속이용 가능량의 90.3% 수준이다. 최종 용역 결과는 11월 말 나올 예정이다.",
-   "tags": [
-    "지하수",
-    "점검"
-   ],
-   "title": "제주 지하수 관정 하나씩 뜯어보니… \"이상· 관리 미흡 잇따라\"",
-   "url": "https://www.mediajeju.com/news/articleView.html?idxno=365956",
-   "id": "mediajeju-365956"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-11-04",
-   "figures": [
-    "화장실 필지당 10㎡ 이하",
-    "농지 1,000㎡ 이상(시설 330㎡ 이상이면 예외)",
-    "주차장 25㎡(농막 있으면 13.5㎡)",
-    "설치 후 60일 내 농지대장 등재"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "미디어제주",
-   "summary": "제주시가 개정 농지법 시행령(제2조 제4항)에 따라 농지 안에 화장실·주차장 같은 농작업 편의시설을 둘 수 있는 기준을 안내했다. 화장실은 원칙적으로 1,000㎡ 이상 농지(온실·비닐하우스 330㎡ 이상이면 더 작은 농지도 가능)에 한 필지당 부속시설 포함 10㎡ 이하로 둘 수 있고, 농막·농촌체류형 쉼터가 있는 농지에는 따로 둘 수 없으며 공중화장실처럼 운영해서도 안 된다. 설치 후 60일 안에 농지대장에 올려야 하고, 목적 외로 쓰면 원상회복 명령을 받을 수 있다. 오수 처리 방식은 기사에 나오지 않았다.",
-   "tags": [
-    "화장실",
-    "제도"
-   ],
-   "title": "제주 농지에 화장실 10㎡·주차장 25㎡까지…설치 기준은?",
-   "url": "https://www.mediajeju.com/news/articleView.html?idxno=367209",
-   "id": "mediajeju-367209"
-  },
-  {
-   "city": "서산시",
-   "date": "2026-11-09",
-   "figures": [
-    "사업비 24억2,500만원",
-    "전면 개량 681m·부분 보수 109곳",
-    "2027.1 설계~2028.12 완공"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "충남",
-   "source": "메가충청뉴스",
-   "summary": "서산시가 운산면 용장리 일대 노후 공공하수관로 정비를 위해 2027년 국·도비 지원 대상에 선정됐다. 24억여 원을 들여 관로 681m를 전면 굴착 개량하고 109곳을 부분 보수해, 2025년 기술진단에서 드러난 불명수 유입과 이음부 이탈·누수를 바로잡는다. 2027년 1월 설계를 시작해 2028년 12월 완공하며, 집중호우 때 침수되던 지역의 배수도 나아질 전망이다.",
-   "tags": [
-    "하수관로",
-    "침수"
-   ],
-   "title": "서산시, 운산면 일원 노후 하수관로 정비 추진",
-   "url": "https://www.megaccnews.com/news/articleView.html?idxno=13831",
-   "id": "megaccnews-13831"
-  },
-  {
-   "city": "충남도",
-   "date": "2026-10-30",
-   "figures": [
-    "총사업비 1650억3600만원",
-    "하수관로 27.84㎞·빗물펌프장 2곳",
-    "전국 9곳 중 충남 3곳",
-    "대상 면적 4.38㎢"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "충남",
-   "source": "내외일보",
-   "summary": "서산 읍내동, 부여 입포리, 아산 기곡리 3곳이 기후에너지환경부의 하수도정비 중점관리지역으로 새로 지정됐다. 전국 29개 신청 지구 가운데 9곳이 뽑혔고 그중 3곳이 충남이다. 도는 대상 면적 4.38㎢에서 하수관로 27.84㎞와 빗물펌프장 2곳을 정비하며, 내년까지 행정절차를 마치고 2028년 사업에 착수할 계획이다.",
-   "tags": [
-    "하수도계획",
-    "침수",
-    "하수관로"
-   ],
-   "title": "충남도, 도시침수 취약지역 3곳 집중 정비",
-   "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2442900",
-   "id": "naewoeilbo-2442900"
   },
   {
    "city": "서초구",
@@ -1423,350 +2393,6 @@
    "title": "서울시의회 홍재희 부위원장, 상수도관 세척비용 편차 지적…산정 근거 집중 점검",
    "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2447059",
    "id": "naewoeilbo-2447059"
-  },
-  {
-   "city": "전국",
-   "date": "2026-10-15",
-   "figures": [
-    "20년 이상 관로 4,376.9km(71.2%)",
-    "포항권광역 노후율 94.9%",
-    "울산공업용수도 50년 이상 43.3km",
-    "관로 사고 2022년 23건→2025년 37건",
-    "단수 피해 64만5천 명"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "전국",
-   "source": "내외경제TV",
-   "summary": "김위상 의원이 국정감사에서 한국수자원공사 자료를 근거로 전국 광역상수도 관로의 71.2%가 20년을 넘겼다고 지적했다. 금호강·포항권·밀양댐·남강댐 광역 등 영남권 노후율이 특히 높고, 50년 넘은 관로는 울산공업용수도가 가장 길다. 관로 사고는 해마다 늘어 2024년 이후 대형 사고로 64만여 명이 단수를 겪었다며 선제적 교체와 비상대응 재점검을 요구했다.",
-   "tags": [
-    "상수도",
-    "단수",
-    "제도"
-   ],
-   "title": "[2026 국정감사] 김위상 \"광역상수도관 수명 절반 넘겨, 정비 서둘러야\"",
-   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026105",
-   "id": "nbntv-4026105"
-  },
-  {
-   "city": "성주군",
-   "date": "2026-10-14",
-   "figures": [
-    "총 266억 원",
-    "중산·월곡 농어촌마을하수도 250억 원",
-    "성주하수처리장 총인시설 16억 원"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경북",
-   "source": "뉴데일리 대구경북",
-   "summary": "경북 성주군이 2027년도 하수도 분야 신규사업 2건에 266억 원을 확보했다(기사 제목은 '상주군'으로 오기). 가천면 중산리와 초전면 소성리·월곡리 일대 농어촌마을하수도 정비에 250억 원, 성주공공하수처리장 총인시설 정비에 16억 원이 들어간다.",
-   "tags": [
-    "마을하수도",
-    "하수처리장"
-   ],
-   "title": "상주군, 하수도 신규정비사업 예산 266 확보",
-   "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/14/2026101400147.html",
-   "id": "newdaily-2026101400147"
-  },
-  {
-   "city": "중구",
-   "date": "2026-11-06",
-   "figures": [
-    "3,195세대",
-    "11.10 23:50~11.11 05:00"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "울산",
-   "source": "뉴스1",
-   "summary": "울산시 상수도사업본부는 10일 밤 11시 50분부터 11일 새벽 5시까지 중구 우정동과 교동 일부 3,195세대의 수돗물 공급을 일시 중단한다고 밝혔다. 상수관망을 구역별로 고립해 누수 구간을 진단하는 작업 때문이다.",
-   "tags": [
-    "상수도",
-    "단수"
-   ],
-   "title": "10~11일 울산 중구 우정동·교동 3195세대 수돗물 단수",
-   "url": "https://www.news1.kr/local/ulsan/6345119",
-   "id": "news1-6345119"
-  },
-  {
-   "city": "함양군",
-   "date": "2026-11-08",
-   "figures": [
-    "신규 취득 7명",
-    "보유 인력 총 11명",
-    "1급 2·2급 1·3급 8명"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "경남",
-   "source": "뉴스경남",
-   "summary": "함양군 상하수도사업소 직원 7명이 올해 정수시설운영관리사 1~3급 자격을 새로 땄다. 기존 보유자를 합쳐 자격 인력은 1급 2명, 2급 1명, 3급 8명 등 11명이 됐다. 이 자격은 수도법상 수도사업자가 반드시 배치해야 하는 법정 인력이다.",
-   "tags": [
-    "상수도",
-    "수질"
-   ],
-   "title": "함양군, 정수시설 운영 전문인력 확충",
-   "url": "https://www.newsgn.com/news/articleView.html?idxno=583954",
-   "id": "newsgn-583954"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-09-01",
-   "figures": [
-    "50㎥/일 이상",
-    "66곳 점검",
-    "처분 34건",
-    "개선명령 16",
-    "과태료 15",
-    "고발 3"
-   ],
-   "focus": true,
-   "kind": "기사",
-   "region": "제주",
-   "source": "뉴스제주",
-   "summary": "제주시가 골프장 등 대규모 시설을 하반기 정기 점검한다. 방류수를 채수해 공인기관에 수질검사를 맡기고, 기준 초과 시 개선명령 등 행정조치를 한다. 지난해에는 66곳을 점검해 34건을 처분했다.",
-   "tags": [
-    "점검",
-    "행정처분"
-   ],
-   "title": "제주시, 대규모 개인하수처리시설 지도·점검",
-   "url": "https://www.newsjeju.net/news/articleView.html?idxno=425186",
-   "id": "newsjeju-425186"
-  },
-  {
-   "author": "부선진 제주도 상하수도본부 하수시설과 주무관",
-   "city": "제주도",
-   "date": "2026-09-15",
-   "figures": [],
-   "focus": false,
-   "kind": "기고",
-   "region": "제주",
-   "source": "뉴스제주",
-   "summary": "필자는 해안가 콘크리트관을 중심으로 바닷물 부식에 약한 노후 하수관에 지하수와 빗물이 스며들어 하수처리장 과부하와 침수를 일으키고, 관 주변에 빈 공간을 만들어 도로가 꺼질 수 있다고 지적한다. 하수관 정비는 눈에 잘 띄지 않지만 미룰수록 비용이 커지므로 지금 정비하는 것이 시민 안전을 지키는 길이라고 주장한다.",
-   "tags": [
-    "기고",
-    "하수관로",
-    "싱크홀"
-   ],
-   "title": "땅속에서 울리는 경고음, 제주의 발밑이 보내는 신호",
-   "url": "https://www.newsjeju.net/news/articleView.html?idxno=425908",
-   "id": "newsjeju-425908"
-  },
-  {
-   "city": "제주도",
-   "date": "2026-10-05",
-   "figures": [
-    "1~8월 강수량 평년의 88.3%(서부 76.7%·북부 67.3%)",
-    "서부 지하수위 전년比 1.6m↓",
-    "하루 2100톤 추가 확보",
-    "신규 정수장 1만5000톤/일"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "뉴스제주",
-   "summary": "서부·북부 강수량이 평년을 크게 밑돌자 제주도가 지하수·농업용수·상수도를 함께 관리하는 통합 물관리 회의를 열고 대체수자원 확보에 나섰다. 서부 지하수위는 지난해보다 1.6m 낮아졌다. 도는 외도·대정 지하수 저류댐 도입을 검토하고, 어승생1저수지 개량과 신규 지하수 개발로 하루 2100톤을 더 확보하며, 하루 1만5000톤 규모 정수장을 새로 짓기로 했다.",
-   "tags": [
-    "가뭄",
-    "지하수",
-    "상수도"
-   ],
-   "title": "제주 서·북부 강수량 ‘뚝’…물 부족 대비 본격화",
-   "url": "https://www.newsjeju.net/news/articleView.html?idxno=426649",
-   "id": "newsjeju-426649"
-  },
-  {
-   "city": "제주시",
-   "date": "2026-10-13",
-   "figures": [
-    "전용상수도 81곳",
-    "분기 14개·연 60개 항목 검사",
-    "수도법 제83조·제87조 과태료"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "뉴스N제주",
-   "summary": "제주시는 지하수를 쓰는 전용상수도 81곳의 관리자에게 4분기 수질검사를 기한 안에 마쳐 달라고 요청했다. 검사는 분기 1회 14개 항목, 연 1회 60개 항목, 원수는 2년에 1회 이상 해야 하고, 취수·정수 종사자는 연 2회 이상 건강검진을 받아야 한다. 관리 의무를 지키지 않으면 수도법에 따라 과태료가 부과된다.",
-   "tags": [
-    "수질",
-    "상수도",
-    "점검"
-   ],
-   "title": "제주시, 전용상수도 수질검사 이행 당부",
-   "url": "https://www.newsnjeju.com/news/articleView.html?idxno=301876",
-   "id": "newsnjeju-301876"
-  },
-  {
-   "city": "서귀포시",
-   "date": "2026-10-25",
-   "figures": [
-    "상반기 관로 900m·7억원",
-    "하반기 3.6억원",
-    "오접 하수도 정비"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "제주",
-   "source": "뉴스N제주",
-   "summary": "서귀포시가 상반기에 소규모 오·우수관로 900m를 고쳤고, 하반기에는 침수 지역의 노후 하수관로와 잘못 연결된 하수도를 먼저 정비한다. 하수 흐름을 막는 요인을 없애 주민 불편을 줄이는 것이 목표다.",
-   "tags": [
-    "하수관로",
-    "침수"
-   ],
-   "title": "서귀포시, 2026년 상·하수도 시설물 정비로 시민 생활환경 개선",
-   "url": "https://www.newsnjeju.com/news/articleView.html?idxno=302838",
-   "id": "newsnjeju-302838"
-  },
-  {
-   "city": "부안군",
-   "date": "2026-10-16",
-   "figures": [
-    "총사업비 340억원(국비 170억)",
-    "노후관 53.9㎞",
-    "유수율 목표 85%",
-    "연 누수 120만톤 감소"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "전북",
-   "source": "뉴스핌",
-   "summary": "부안군이 기후에너지환경부의 내년 노후 상수관망 정비 신규사업에 선정돼 총사업비 340억원 중 국비 170억원을 확보했다. 2027~2032년 주산·보안·변산·진서·상서 5개 면의 노후관 53.9㎞를 교체·보수하고 누수 탐사, GIS 구축, 유지관리 시스템 고도화를 함께 추진한다. 군은 대상지역 유수율 85% 달성과 연간 누수 약 120만톤 감소를 예상했다.",
-   "tags": [
-    "상수도"
-   ],
-   "title": "부안군, 노후 상수관망 정비사업 선정…국비 170억 확보",
-   "url": "https://www.newspim.com/news/view/20261016000657",
-   "id": "newspim-20261016000657"
-  },
-  {
-   "city": "세종시",
-   "date": "2026-10-16",
-   "figures": [
-    "대상 연 6만톤 이상 사용시설",
-    "연 2만9000㎥ 절감 목표",
-    "요금 약 9800만원 절감",
-    "탄소 6.9tCO₂eq 감축"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "세종",
-   "source": "뉴스핌",
-   "summary": "세종시가 기후에너지환경부, K-water, 한국환경공단, 중부발전 세종발전본부, 캠코와 협약을 맺고 연간 6만톤 이상 쓰는 물 다소비시설 관리 시범모델을 만든다. 사용량 조사, 절감 목표 설정, 절수·재이용 지원, 사용량 공개와 성과 검증을 함께 추진한다. 두 시범 시설에서 연간 약 2만9000㎥ 절감과 수도요금 약 9800만원 절감을 목표로 한다.",
-   "tags": [
-    "상수도",
-    "제도"
-   ],
-   "title": "세종시, 전국 최초 '물 다소비시설 관리 모델' 구축 추진",
-   "url": "https://www.newspim.com/news/view/20261016001177",
-   "id": "newspim-20261016001177"
-  },
-  {
-   "city": "전국",
-   "date": "2026-10-28",
-   "figures": [
-    "수도권 누수 저감 10년간 약 590만㎥",
-    "부산 평강천 약 190만㎥ 복원"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "전국",
-   "source": "뉴스핌",
-   "summary": "한국수자원공사가 마이크로소프트와 추가 협력 계약을 맺고 수도권 수도관 누수 저감 사업과 부산 에코델타시티 평강천 하천수 정화 사업을 추진한다. 누수 탐지·보수 기술과 AI·IoT 감시로 물 손실을 줄이고, 정화한 하천수는 호수공원과 주운수로 유지용수로 쓴다.",
-   "tags": [
-    "상수도",
-    "수질"
-   ],
-   "title": "수자원공사, MS와 물관리 협력 확대…수도권 누수 줄이고 부산 하천 정화",
-   "url": "https://www.newspim.com/news/view/20261028000469",
-   "id": "newspim-20261028000469"
-  },
-  {
-   "city": "김제시",
-   "date": "2026-11-02",
-   "figures": [
-    "국·도비 171억원(국비 142억)",
-    "총사업비 285억원",
-    "노후관 20.8㎞",
-    "유수율 62.1%→85%"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "전북",
-   "source": "뉴스핌",
-   "summary": "김제시가 기후에너지환경부의 2027년 노후상수도 정비 신규사업에 3년 연속 선정돼 국·도비 171억원을 확보했다. 백구·공덕면 사업은 총 285억원으로 2027~2032년 노후관 20.8㎞를 교체·보수하며, 유수율을 62.1%에서 85% 이상으로 끌어올리는 것이 목표다. 연간 누수량 약 12만4000㎥ 감소와 운영비 약 2억원 절감을 기대한다.",
-   "tags": [
-    "상수도"
-   ],
-   "title": "김제시, 노후상수도 정비 3년연속 선정…171억 확보",
-   "url": "https://www.newspim.com/news/view/20261102000235",
-   "id": "newspim-20261102000235"
-  },
-  {
-   "city": "익산시",
-   "date": "2026-11-03",
-   "figures": [
-    "11.2 주민 합의",
-    "하류부터 순차 정비",
-    "연내 완료 목표"
-   ],
-   "focus": false,
-   "region": "전북",
-   "source": "뉴스핌",
-   "summary": "익산시 오산면 외검마을은 배수가 안 돼 빗물과 오수가 고이고 악취가 나는 문제가 오래 이어졌다. 토지 사용 동의와 공사 순서를 두고 엇갈리던 주민 의견을 시의원이 중재해, 하류부터 차례로 배수로를 정비하기로 합의했다.",
-   "tags": [
-    "악취",
-    "배수로",
-    "민원"
-   ],
-   "title": "강경숙 익산시의원, 외검마을 '배수·악취' 민원 해결",
-   "url": "https://www.newspim.com/news/view/20261103000794",
-   "id": "newspim-20261103000794"
-  },
-  {
-   "city": "청주시",
-   "date": "2026-11-04",
-   "figures": [
-    "사업비 3억원",
-    "9.28~10.25 정비",
-    "시험운전 1주",
-    "소각로 2기 운영"
-   ],
-   "focus": false,
-   "region": "충북",
-   "source": "뉴스핌",
-   "summary": "청주시가 공공하수처리시설 슬러지 소각로 2호기의 노후 설비 교체와 정기 수선을 마치고 시험운전을 거쳐 다시 가동했다. 보일러 세관, 집진 필터 교체, 펌프·배관 정비로 소각 효율을 높여 외부 위탁처리 비용을 줄일 계획이다.",
-   "tags": [
-    "하수처리장",
-    "슬러지"
-   ],
-   "title": "청주 공공하수처리장 소각로 2호기 정비 완료…정상 가동",
-   "url": "https://www.newspim.com/news/view/20261104000032",
-   "id": "newspim-20261104000032"
-  },
-  {
-   "city": "광산구",
-   "date": "2026-11-04",
-   "figures": [
-    "총사업비 496억원",
-    "하수관로 4.012km",
-    "빗물펌프장 1곳·빗물받이 160여곳",
-    "2028년 상반기 착공"
-   ],
-   "focus": false,
-   "kind": "기사",
-   "region": "광주",
-   "source": "뉴스핌",
-   "summary": "광산구 평동산단 일대가 기후에너지환경부 하수도정비 중점관리지역에 뽑혀 총 496억 원이 들어간다. 옥동·월전동에 하수관로 약 4km를 새로 깔거나 고치고, 빗물펌프장 1곳과 빗물받이 160여 곳을 설치해 2028년 상반기 착공을 목표로 한다. 공장 110여 동과 인근 두 마을 220여 가구의 침수 피해를 줄이는 것이 목적이다.",
-   "tags": [
-    "하수관로",
-    "침수",
-    "하수도계획"
-   ],
-   "title": "전남광주 광산구, '상습 침수' 평동 일대 하수도 정비… 496억 투입",
-   "url": "https://www.newspim.com/news/view/20261104000721",
-   "id": "newspim-20261104000721"
   },
   {
    "city": "청주시",
@@ -1854,6 +2480,456 @@
    "id": "newspim-20261105001310"
   },
   {
+   "city": "익산시",
+   "date": "2026-11-04",
+   "figures": [
+    "목표연도 2040년",
+    "침수 시뮬레이션 도입",
+    "부분변경 용역"
+   ],
+   "focus": false,
+   "region": "전북",
+   "source": "아시아투데이",
+   "summary": "익산시가 목표연도 2040년인 하수도정비기본계획의 부분 변경 용역을 추진한다. 도시개발과 인구 변화를 반영해 처리구역 확대, 노후 관로 개량, 분류식화를 단계별로 계획하고, 침수 시뮬레이션으로 배수 취약 지점을 미리 찾는다.",
+   "tags": [
+    "하수도계획",
+    "침수"
+   ],
+   "title": "익산시, 2040년 하수도 정비계획 손질…집중호우 침수 대응 강화",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001492",
+   "id": "asiatoday-20261104010001492"
+  },
+  {
+   "city": "익산시",
+   "date": "2026-11-04",
+   "figures": [
+    "6개 항목 무료 검사",
+    "철·구리·아연 등",
+    "매월 결과 공개"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전북",
+   "source": "경기뉴스원",
+   "summary": "익산시가 신청한 가정을 공무원이 직접 찾아가 수돗물 수질을 무료로 검사해 주는 제도를 상시 운영한다. 정수장 수질 검사 결과도 매달 시 누리집에 공개한다.",
+   "tags": [
+    "상수도",
+    "수질"
+   ],
+   "title": "익산시, 찾아가는 수돗물 안심확인제 상시 운영",
+   "url": "https://www.ggnews1.co.kr/news/article.html?no=653317",
+   "id": "ggnews1-653317"
+  },
+  {
+   "city": "대구시",
+   "date": "2026-11-04",
+   "figures": [
+    "3단계 실증 9.14~10.16",
+    "유량 41t→33t 조정",
+    "실무그룹 3개 분야"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "대구",
+   "source": "국제뉴스",
+   "summary": "대구시가 11월 4일 취수원 신 대안 자체 지역검증단 3차 회의를 열고 복류수 3단계 실증 결과를 분석했다. 하루 41t 유량에서 BOD·탁도·SS가 Ⅰb등급 수준으로 개선됐으나 TOC가 일부 기간 기준을 넘어 33t으로 줄인 뒤 Ⅰb등급을 유지하고 있다. 수량·운영, 수질·사고대응, 소통·갈등관리 3개 실무그룹도 가동했다.",
+   "tags": [
+    "상수도",
+    "수질"
+   ],
+   "title": "대구광역시, 취수원 신 대안 실증 실험 결과 분석...수질 개선 효과 확인",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742444",
+   "id": "gukjenews-3742444"
+  },
+  {
+   "city": "김천시",
+   "date": "2026-11-04",
+   "figures": [
+    "총사업비 350억원",
+    "국비 60%",
+    "전국 29곳 신청·9곳 선정"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "경북",
+   "source": "경북일보",
+   "summary": "김천시 신음동 일대 신음지구가 2026년 하수도정비 중점관리지역으로 지정돼 총 350억 원 규모의 정비가 추진된다. 사업비의 60%를 국비로 받아 우수관로 개량, 배수펌프장 신·증설, 빗물받이 확충을 한다. 올해는 19개 지자체 29곳이 신청해 9곳이 선정됐다.",
+   "tags": [
+    "하수도계획",
+    "침수",
+    "하수관로"
+   ],
+   "title": "김천 신음지구 침수 예방에 350억원…하수도정비 중점관리지역 지정",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089631",
+   "id": "kyongbuk-4089631"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-11-04",
+   "figures": [
+    "화장실 필지당 10㎡ 이하",
+    "농지 1,000㎡ 이상(시설 330㎡ 이상이면 예외)",
+    "주차장 25㎡(농막 있으면 13.5㎡)",
+    "설치 후 60일 내 농지대장 등재"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "미디어제주",
+   "summary": "제주시가 개정 농지법 시행령(제2조 제4항)에 따라 농지 안에 화장실·주차장 같은 농작업 편의시설을 둘 수 있는 기준을 안내했다. 화장실은 원칙적으로 1,000㎡ 이상 농지(온실·비닐하우스 330㎡ 이상이면 더 작은 농지도 가능)에 한 필지당 부속시설 포함 10㎡ 이하로 둘 수 있고, 농막·농촌체류형 쉼터가 있는 농지에는 따로 둘 수 없으며 공중화장실처럼 운영해서도 안 된다. 설치 후 60일 안에 농지대장에 올려야 하고, 목적 외로 쓰면 원상회복 명령을 받을 수 있다. 오수 처리 방식은 기사에 나오지 않았다.",
+   "tags": [
+    "화장실",
+    "제도"
+   ],
+   "title": "제주 농지에 화장실 10㎡·주차장 25㎡까지…설치 기준은?",
+   "url": "https://www.mediajeju.com/news/articleView.html?idxno=367209",
+   "id": "mediajeju-367209"
+  },
+  {
+   "city": "청주시",
+   "date": "2026-11-04",
+   "figures": [
+    "사업비 3억원",
+    "9.28~10.25 정비",
+    "시험운전 1주",
+    "소각로 2기 운영"
+   ],
+   "focus": false,
+   "region": "충북",
+   "source": "뉴스핌",
+   "summary": "청주시가 공공하수처리시설 슬러지 소각로 2호기의 노후 설비 교체와 정기 수선을 마치고 시험운전을 거쳐 다시 가동했다. 보일러 세관, 집진 필터 교체, 펌프·배관 정비로 소각 효율을 높여 외부 위탁처리 비용을 줄일 계획이다.",
+   "tags": [
+    "하수처리장",
+    "슬러지"
+   ],
+   "title": "청주 공공하수처리장 소각로 2호기 정비 완료…정상 가동",
+   "url": "https://www.newspim.com/news/view/20261104000032",
+   "id": "newspim-20261104000032"
+  },
+  {
+   "city": "광산구",
+   "date": "2026-11-04",
+   "figures": [
+    "총사업비 496억원",
+    "하수관로 4.012km",
+    "빗물펌프장 1곳·빗물받이 160여곳",
+    "2028년 상반기 착공"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "광주",
+   "source": "뉴스핌",
+   "summary": "광산구 평동산단 일대가 기후에너지환경부 하수도정비 중점관리지역에 뽑혀 총 496억 원이 들어간다. 옥동·월전동에 하수관로 약 4km를 새로 깔거나 고치고, 빗물펌프장 1곳과 빗물받이 160여 곳을 설치해 2028년 상반기 착공을 목표로 한다. 공장 110여 동과 인근 두 마을 220여 가구의 침수 피해를 줄이는 것이 목적이다.",
+   "tags": [
+    "하수관로",
+    "침수",
+    "하수도계획"
+   ],
+   "title": "전남광주 광산구, '상습 침수' 평동 일대 하수도 정비… 496억 투입",
+   "url": "https://www.newspim.com/news/view/20261104000721",
+   "id": "newspim-20261104000721"
+  },
+  {
+   "city": "군포시",
+   "date": "2026-11-03",
+   "figures": [
+    "21.5km",
+    "총 296억원(국비 178억)",
+    "5개 처리구역",
+    "2028년 준공"
+   ],
+   "focus": false,
+   "region": "경기",
+   "source": "아시아투데이",
+   "summary": "군포시가 설치 20년이 넘은 하수관로 21.5km를 교체·보수하는 3단계 정비에 나선다. 정밀조사로 파손·균열이 확인된 산본·당정 등 5개 처리구역이 대상이며, 연말 설계를 마치고 내년 착공해 2028년 완공할 계획이다.",
+   "tags": [
+    "하수관로",
+    "지반침하"
+   ],
+   "title": "“싱크홀, 이제 걱정 마세요”…군포시, 노후 하수관로 정비 3단계 추진",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010000866",
+   "id": "asiatoday-20261103010000866"
+  },
+  {
+   "city": "익산시",
+   "date": "2026-11-03",
+   "figures": [
+    "11.2 주민 합의",
+    "하류부터 순차 정비",
+    "연내 완료 목표"
+   ],
+   "focus": false,
+   "region": "전북",
+   "source": "뉴스핌",
+   "summary": "익산시 오산면 외검마을은 배수가 안 돼 빗물과 오수가 고이고 악취가 나는 문제가 오래 이어졌다. 토지 사용 동의와 공사 순서를 두고 엇갈리던 주민 의견을 시의원이 중재해, 하류부터 차례로 배수로를 정비하기로 합의했다.",
+   "tags": [
+    "악취",
+    "배수로",
+    "민원"
+   ],
+   "title": "강경숙 익산시의원, 외검마을 '배수·악취' 민원 해결",
+   "url": "https://www.newspim.com/news/view/20261103000794",
+   "id": "newspim-20261103000794"
+  },
+  {
+   "city": "고양시",
+   "date": "2026-11-02",
+   "figures": [
+    "사업비 234억원",
+    "국·도비 80%",
+    "신설 570m·개량 2,817m",
+    "2030년 준공 목표"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "경기",
+   "source": "중부뉴스통신",
+   "summary": "고양시 덕양구 화정동 일원 약 0.445㎢가 기후에너지환경부의 2026년 하수도정비 중점관리지역으로 지정돼 사업비의 80%를 국·도비로 받게 됐다. 이 지역은 지난해 8월 시간당 최대 110㎜ 비로 침수됐다. 시는 234억 원을 들여 하수관로 570m를 새로 놓고 2,817m를 개량하며, 2027년 설계, 2028년 착공, 2030년 준공이 목표다.",
+   "tags": [
+    "하수도계획",
+    "침수",
+    "하수관로"
+   ],
+   "title": "고양시, 화정동 일원 '하수도정비 중점관리지역' 지정… 침수예방사업 추진",
+   "url": "https://www.jungbunews.com/news/articleView.html?idxno=2784889",
+   "id": "jungbunews-2784889"
+  },
+  {
+   "city": "김제시",
+   "date": "2026-11-02",
+   "figures": [
+    "국·도비 171억원(국비 142억)",
+    "총사업비 285억원",
+    "노후관 20.8㎞",
+    "유수율 62.1%→85%"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전북",
+   "source": "뉴스핌",
+   "summary": "김제시가 기후에너지환경부의 2027년 노후상수도 정비 신규사업에 3년 연속 선정돼 국·도비 171억원을 확보했다. 백구·공덕면 사업은 총 285억원으로 2027~2032년 노후관 20.8㎞를 교체·보수하며, 유수율을 62.1%에서 85% 이상으로 끌어올리는 것이 목표다. 연간 누수량 약 12만4000㎥ 감소와 운영비 약 2억원 절감을 기대한다.",
+   "tags": [
+    "상수도"
+   ],
+   "title": "김제시, 노후상수도 정비 3년연속 선정…171억 확보",
+   "url": "https://www.newspim.com/news/view/20261102000235",
+   "id": "newspim-20261102000235"
+  },
+  {
+   "city": "연수구",
+   "date": "2026-10-31",
+   "figures": [
+    "피해 2개 동·약 300~400세대",
+    "10월 30일 밤 9시 최초 발견"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "인천",
+   "source": "경인방송",
+   "summary": "10월 30일 밤 송도국제도시의 한 대단지 아파트 지하주차장으로 오수가 역류해 발목 높이까지 찼고, 다음 날 오전에 다시 역류해 차량 피해와 지하 정전이 생겼다. 10개 동 중 2개 동, 약 300~400세대가 피해를 봤다. 아파트 측은 외부 하수관 막힘을 원인으로 보고 있으나 아직 확인되지 않았으며, 구는 내시경 카메라로 관로를 조사해 파손인지 막힘인지 가린 뒤 준설이나 보수를 할 계획이다.",
+   "tags": [
+    "오수",
+    "유출",
+    "하수관로"
+   ],
+   "title": "[단독] 송도 아파트 지하주차장에 오수 역류...차량 피해·정전까지",
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=483141",
+   "id": "ifm-483141"
+  },
+  {
+   "city": "계양구",
+   "date": "2026-10-30",
+   "figures": [
+    "총사업비 1,168억원",
+    "7월 신청·10월 지정"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "인천",
+   "source": "인천뉴스",
+   "summary": "2025년 집중호우로 침수됐던 인천 계양구 작전구역이 기후에너지환경부 하수도정비 중점관리지역으로 지정돼 국비를 받을 근거가 생겼다. 총사업비는 1,168억 원이며, 그동안 부평구 쪽으로 내보내던 빗물을 계양구 안에서 처리하도록 배수체계를 바꾸고 빗물펌프장 설치와 하수도 정비를 단계적으로 진행한다. 세부 일정은 국비 확보와 설계용역을 거쳐 확정한다.",
+   "tags": [
+    "하수도계획",
+    "침수"
+   ],
+   "title": "계양구, 작전동 침수 예방에 1,168억 투입 … 하수도 정비 본격화",
+   "url": "http://www.incheonnews.com/news/articleView.html?idxno=442464",
+   "id": "incheonnews-442464"
+  },
+  {
+   "city": "충남도",
+   "date": "2026-10-30",
+   "figures": [
+    "총사업비 1650억3600만원",
+    "하수관로 27.84㎞·빗물펌프장 2곳",
+    "전국 9곳 중 충남 3곳",
+    "대상 면적 4.38㎢"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "충남",
+   "source": "내외일보",
+   "summary": "서산 읍내동, 부여 입포리, 아산 기곡리 3곳이 기후에너지환경부의 하수도정비 중점관리지역으로 새로 지정됐다. 전국 29개 신청 지구 가운데 9곳이 뽑혔고 그중 3곳이 충남이다. 도는 대상 면적 4.38㎢에서 하수관로 27.84㎞와 빗물펌프장 2곳을 정비하며, 내년까지 행정절차를 마치고 2028년 사업에 착수할 계획이다.",
+   "tags": [
+    "하수도계획",
+    "침수",
+    "하수관로"
+   ],
+   "title": "충남도, 도시침수 취약지역 3곳 집중 정비",
+   "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2442900",
+   "id": "naewoeilbo-2442900"
+  },
+  {
+   "city": "전국",
+   "date": "2026-10-29",
+   "figures": [
+    "11곳 신규 지정(공모 9·직권 2)",
+    "총사업비 약 5,500억 원",
+    "하수관로 68km 개량",
+    "빗물펌프장 12곳",
+    "2013년 이후 누적 국고 2조2,151억 원"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전국",
+   "source": "에너지데일리",
+   "summary": "기후에너지환경부가 상습침수지역 11곳을 2026년도 하수도정비 중점관리지역으로 새로 지정했다. 19개 지방정부가 신청한 29곳 중 9곳을 공모로 뽑고, 특별재난지역인 경남 거제시 계룡로·통영시 봉평동 일원 2곳을 직권 지정했다. 하수관로 개량과 빗물펌프장 신·증설에 약 5,500억 원이 들어가며 국고보조율은 광역 30%, 기초 60%다.",
+   "tags": [
+    "하수도계획",
+    "침수"
+   ],
+   "title": "도시침수 상습지역 11곳 추가 지정…5,500억 투입해 하수도 방재능력 강화",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204503",
+   "id": "energydaily-204503"
+  },
+  {
+   "city": "포항시",
+   "date": "2026-10-29",
+   "figures": [
+    "2자녀 월 5t 감면",
+    "3자녀 이상 월 10t 감면",
+    "2027년 1월 고지분부터"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "경북",
+   "source": "경북매일",
+   "summary": "포항시가 상수도 요금 감면 대상을 18세 미만 3자녀 이상에서 19세 미만 자녀 2명 이상 가구로 넓혔다. 2자녀 가구는 매달 5t, 3자녀 이상은 10t 분량 요금을 감면받으며, 11월부터 행정복지센터에서 신청을 받아 2027년 1월 고지분부터 적용한다.",
+   "tags": [
+    "요금",
+    "상수도"
+   ],
+   "title": "포항 2자녀 가구도 수도요금 깎아준다…11월 신청, 2027년 적용",
+   "url": "https://www.kbmaeil.com/article/20261029500180",
+   "id": "kbmaeil-20261029500180"
+  },
+  {
+   "city": "전국",
+   "date": "2026-10-28",
+   "figures": [
+    "수도권 누수 저감 10년간 약 590만㎥",
+    "부산 평강천 약 190만㎥ 복원"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전국",
+   "source": "뉴스핌",
+   "summary": "한국수자원공사가 마이크로소프트와 추가 협력 계약을 맺고 수도권 수도관 누수 저감 사업과 부산 에코델타시티 평강천 하천수 정화 사업을 추진한다. 누수 탐지·보수 기술과 AI·IoT 감시로 물 손실을 줄이고, 정화한 하천수는 호수공원과 주운수로 유지용수로 쓴다.",
+   "tags": [
+    "상수도",
+    "수질"
+   ],
+   "title": "수자원공사, MS와 물관리 협력 확대…수도권 누수 줄이고 부산 하천 정화",
+   "url": "https://www.newspim.com/news/view/20261028000469",
+   "id": "newspim-20261028000469"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-10-27",
+   "figures": [
+    "사업비 3억원",
+    "올해 26곳 복구(상반기 21곳·하반기 5곳)",
+    "지난해 15곳 복구",
+    "지하수 의존율 96% 이상"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "제주도가 사업비 3억원을 들여 오염물질이 스며들 수 있는 방치 지하수 관정 26곳을 원상복구한다. 상반기에 21곳(제주시 10곳·서귀포시 11곳)을 마쳤고 하반기에 5곳을 더 정비한다. 소유자 동의를 받은 관정이 대상이며, 행정명령이나 개발 의무가 걸려 있거나 공공용인 관정은 빠진다.",
+   "tags": [
+    "지하수",
+    "수질"
+   ],
+   "title": "제주도 방치 지하수 관정 정비 확대… 올해 26곳 복구",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601135",
+   "id": "headlinejeju-601135"
+  },
+  {
+   "city": "울산시",
+   "date": "2026-10-27",
+   "figures": [
+    "예산 1,600억 원(전년 대비 5%↑)",
+    "30년 이상 노후관 918km(24%)",
+    "노후관 정비·세척 196억 원",
+    "급수 확대 470세대·74억 원"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "울산",
+   "source": "울산매일",
+   "summary": "울산시가 2027년 상수도사업특별회계를 역대 최대인 1,600억 원으로 편성했다. 전체 상수도관 3,815km 중 30년 넘은 918km(24%)를 정비하기 위해 노후관 정비·세척에 196억 원을 배정했고, 2027~2032년 520억 원 규모 국비 정비도 추진한다. 울주군 4개 지역 470세대 급수 확대와 회야정수장 단계 정비, AI 상수체계 기본계획 용역도 포함됐다.",
+   "tags": [
+    "상수도"
+   ],
+   "title": "울산 상수도관 4개 중 1개 30년 넘었다…내년 1600억 들여 본격 정비",
+   "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1069711",
+   "id": "iusm-1069711"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-10-26",
+   "figures": [
+    "도지사 사과(10.26)",
+    "수계 전환 방안·대응 매뉴얼 지시",
+    "보상안 미언급"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "위성곤 제주도지사가 10월 26일 주간정책조정회의에서 용담동 단수 사태를 두고 주민에게 사과했다. 재발 방지 대책과 상수도 공급체계 전반의 근본 개선을 지시하고, 독립된 취수원·정수장과 광역 상수망 연계 문제를 짚으며 수계 전환 방안과 대응 매뉴얼을 보고하라고 상하수도본부에 주문했다. 주민 보상 방안은 언급되지 않았다.",
+   "tags": [
+    "상수도",
+    "단수",
+    "제도"
+   ],
+   "title": "위성곤 제주도지사 \"용담동 단수 사태, 주민들께 사과드린다\"",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601058",
+   "id": "headlinejeju-601058"
+  },
+  {
+   "city": "포항시",
+   "date": "2026-10-26",
+   "figures": [
+    "7월 7일 이어 석 달 만에 재발",
+    "우수박스 약 5km 정밀조사 예정"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "경북",
+   "source": "경북매일",
+   "summary": "10월 26일 포항 영일대해수욕장 해상누각 인근 우수관 배수구에서 검은 탁수가 쏟아져 백사장과 바다로 흘러들었고, 7월에 이어 석 달 만의 재발이다. 포항시는 개인이 사전 협의 없이 몰래 연결한 오수관(오접합)과 출처 불명의 불명수가 우수박스에 섞여 들며, 많은 비로 처리 용량을 넘자 침수 방지를 위해 수문을 열었다고 설명했다. 시는 준설과 함께 내년 예산으로 영일대 일대 우수박스 약 5km 전 구간의 오접합·불명수 유입을 정밀 조사해 차단할 계획이다.",
+   "tags": [
+    "오수",
+    "유출",
+    "하수관로"
+   ],
+   "title": "빗물만 나간다던 우수관서 또 ‘검은 물’…포항시 “몰래 연결된 오수관 탓”",
+   "url": "https://www.kbmaeil.com/article/20261026500434",
+   "id": "kbmaeil-20261026500434"
+  },
+  {
    "city": "경주시",
    "date": "2026-10-26",
    "figures": [
@@ -1876,402 +2952,1262 @@
    "id": "nocutnews-6596929"
   },
   {
-   "city": "서울특별시",
-   "date": "2026-11-06",
+   "city": "제주시",
+   "date": "2026-10-25",
    "figures": [
-    "수의계약 3,388건·약 1,323억원(3년)",
-    "1인 견적 2,899건(85.6%)",
-    "연 2회 이상 계약 업체 199→207→130곳"
+    "광역상수도 3,000톤(69%)·중수도 1,327톤",
+    "어승생 공급량의 20%",
+    "교래정수장 1만5천톤(2029)"
    ],
    "focus": false,
    "kind": "기사",
-   "region": "서울",
-   "source": "인천세계타임즈",
-   "summary": "서울시의회 양평호 의원이 11월 4일 서울아리수본부 행정사무감사에서 최근 3년간 산하기관 수의계약 3,388건(약 1,323억 원) 가운데 1인 견적이 2,899건(85.6%)이라며 반복 계약의 공정성을 따졌다. 본부는 전체 계약 기준 1인 견적 비율은 약 34%이고 같은 업체와의 소액 수의계약은 4회를 넘지 않게 관리한다고 답했다. 불용관 철거·누수 예방, 복도식 아파트 계량기 동파 대책도 함께 논의됐다.",
+   "region": "제주",
+   "source": "제주일보",
+   "summary": "도시계획위원회 재심의 결정 뒤 애월포레스트의 물 공급 계획을 짚은 기사다. 하루 4,327톤 가운데 3,000톤(69%)을 광역상수도로, 1,327톤을 중수도·빗물로 채우는 계획인데, 3,000톤은 어승생정수장 하루 공급량(1만5천 톤)의 20%에 이른다. 어승생 증설은 수원량 감소로 2035년 이후로 밀렸고, 도는 2029년 준공 예정인 교래정수장(1만5천 톤)으로 대체하겠다는 입장이며 어음정수장(8,800톤) 신설은 검토 단계다.",
+   "tags": [
+    "상수도",
+    "인허가"
+   ],
+   "title": "애월포레스트 '물 공급 대책 소홀'...도시관리계획 '제동'",
+   "url": "https://www.jejunews.com/news/articleView.html?idxno=2228448",
+   "id": "jejunews-2228448"
+  },
+  {
+   "city": "포항시",
+   "date": "2026-10-25",
+   "figures": [
+    "총사업비 약 9,000억 원",
+    "노후관 정비 526.8km",
+    "유수율 81.0%→85.0%",
+    "공업용수 하루 6만㎥로 확대"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "경북",
+   "source": "경북매일",
+   "summary": "포항시가 10월 21일 수도정비기본계획(변경)을 고시하고 2040년까지 약 9,000억 원을 들여 상수도·공업용수 시설을 정비한다. 인구는 줄지만 산업단지와 AI 데이터센터로 용수 수요가 늘어 양덕정수장 생활용수 일부를 공업용수로 전환·증설하고, 배수지 신설과 노후관 526.8km 정비, 블록시스템 142개소로 유수율을 85%까지 높인다.",
+   "tags": [
+    "상수도"
+   ],
+   "title": "“줄 잇는 첨단산단·AI 데이터센터… 포항시, ‘2040 수도정비계획’으로 물 부족 뚫는다”",
+   "url": "https://www.kbmaeil.com/article/20261025500425",
+   "id": "kbmaeil-20261025500425"
+  },
+  {
+   "city": "서귀포시",
+   "date": "2026-10-25",
+   "figures": [
+    "상반기 관로 900m·7억원",
+    "하반기 3.6억원",
+    "오접 하수도 정비"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "뉴스N제주",
+   "summary": "서귀포시가 상반기에 소규모 오·우수관로 900m를 고쳤고, 하반기에는 침수 지역의 노후 하수관로와 잘못 연결된 하수도를 먼저 정비한다. 하수 흐름을 막는 요인을 없애 주민 불편을 줄이는 것이 목표다.",
+   "tags": [
+    "하수관로",
+    "침수"
+   ],
+   "title": "서귀포시, 2026년 상·하수도 시설물 정비로 시민 생활환경 개선",
+   "url": "https://www.newsnjeju.com/news/articleView.html?idxno=302838",
+   "id": "newsnjeju-302838"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-24",
+   "figures": [
+    "약 4,700가구",
+    "단수 약 15시간(10.23 11:30~10.24 03:00)",
+    "첫 안내 문자 약 5시간 뒤",
+    "오라정수장 지하수 5공 가동"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "10월 23일 오전 11시30분쯤 용담수원지 취수펌프가 고장 나 용담1·2동 일대 약 4,700가구에 물 공급이 끊겼다. 펌프는 밤 10시30분쯤 고쳐졌지만 공급은 24일 오전 3시쯤에야 완전히 정상화돼 단수가 약 15시간 이어졌고, 일부 가정에서는 탁한 물이 나왔다. 첫 안내 문자가 단수 5시간여 뒤에야 나가고 계량기 등록 건물주에게만 발송돼, 상인과 세입자에게 상황 전파가 늦었다는 비판이 나왔다.",
+   "tags": [
+    "상수도",
+    "단수"
+   ],
+   "title": "'15시간 단수'에 시민 원성 빗발쳤는데…제주시청은 뭘 했나",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600992",
+   "id": "headlinejeju-600992"
+  },
+  {
+   "city": "청주시",
+   "date": "2026-10-23",
+   "figures": [
+    "하수도법 제32조제2항 지원 근거",
+    "정화조 폐쇄·관로 연결 비용 전액 개인 부담"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "충북",
+   "source": "시민행정신문",
+   "summary": "김진석 청주시의원이 5분 자유발언에서 공공하수관로가 깔린 지역의 시민이 기존 정화조를 폐쇄하고 관로에 연결하는 비용을 모두 떠안고 있다며 시의 지원 대책을 요구했다. 노후 단독주택의 고령층과 취약가구가 비용 때문에 연결을 미루면서 악취와 벌레 피해를 겪고 있다고 했다. 하수도법 제32조제2항에 지자체 비용 지원 근거가 있는데도 시가 활용하지 않고 있다며 예산·지원기준·대상 범위 마련을 제안했다.",
+   "tags": [
+    "정화조",
+    "편입",
+    "지원사업"
+   ],
+   "title": "청주시의회 김진석 의원, “정화조 폐쇄 비용, 시민에게만 부담시켜서는 안 됩니다.”",
+   "url": "https://www.citizenadmnews.co.kr/news/article.html?no=1463676",
+   "id": "citizenadmnews-1463676"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-23",
+   "figures": [
+    "사업부지 125만1479㎡",
+    "어승생 정수장 증설 2025→2035년",
+    "지하수 함양량 연 약 2만톤 감소 우려"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주의소리",
+   "summary": "제주도 도시계획위원회가 한화 애월포레스트 관광단지의 개발진흥지구 지정안에 대해 용수 공급과 교통 계획을 이유로 재심의 결정을 내렸다. 사업지는 관정을 팔 수 없는 지하수 특별관리구역이라 상수도 급수구역 편입과 수도정비계획 변경이 필요한데, 6월 계획 변경으로 어승생 정수장 증설은 2035년으로 10년 늦춰졌다. 문대림 의원은 행정이 사업자의 용수 확보 책임을 대신 지는 것 아니냐고 문제를 제기했다.",
+   "tags": [
+    "상수도",
+    "인허가",
+    "지하수"
+   ],
+   "title": "‘상수도 빨대’ 한화 애월포레스트, 용도지구 ‘재심의’",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=507675",
+   "id": "jejusori-507675"
+  },
+  {
+   "city": "강릉시",
+   "date": "2026-10-22",
+   "figures": [
+    "평가 대상 전국 77개 시설",
+    "약 10년 만의 선정"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "강원",
+   "source": "강원일보",
+   "summary": "강릉시 공공하수처리시설이 한국환경공단의 2025년 기술진단 완료시설 운영관리 평가에서 우수시설로 뽑혔다. 2016년 이후 약 10년 만이다. 평가는 전국 77개 시설을 대상으로 서류·현장 평가와 심의를 거쳐 진행됐으며, 시는 2024년 도입한 설비이력카드 제도와 진단 결과에 따른 노후설비 개선을 성과로 들었다.",
+   "tags": [
+    "하수처리장"
+   ],
+   "title": "강릉시 공공하수처리시설, 우수시설 선정",
+   "url": "https://www.kwnews.co.kr/article/20261022500390",
+   "id": "kwnews-20261022500390"
+  },
+  {
+   "city": "대구시",
+   "date": "2026-10-20",
+   "figures": [
+    "TOC 19~20% 저감",
+    "BOD 37~39% 저감",
+    "탁도 82~83% 저감",
+    "계획 공급량 하루 58만8천t"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "대구",
+   "source": "경향신문",
+   "summary": "기후에너지환경부 주관 대구 취수원 신 대안(복류수 등) 공동검증위원회 3차 회의에서 3단계 실증실험 결과가 논의됐다. 낙동강 원수 대비 탁도·BOD는 크게 줄었으나 총유기탄소(TOC)가 하천 생활환경기준을 못 맞춰 10월 8일부터 유량을 하루 41t에서 33t으로 낮춰 추가 검증하기로 했다.",
+   "tags": [
+    "수질",
+    "상수도"
+   ],
+   "title": "대구 ‘먹는 물’ 자연여과수 활용 3차 공동검증···수질은 아직 ‘부족’",
+   "url": "https://www.khan.co.kr/article/202610201505001/",
+   "id": "khan-202610201505001"
+  },
+  {
+   "author": "조혜정 제주시 상하수도과",
+   "city": "제주시",
+   "date": "2026-10-19",
+   "figures": [
+    "하수관로 막힘 원인: 음식물·폐유·물티슈",
+    "누수·막힘 신속 신고"
+   ],
+   "focus": false,
+   "kind": "기고",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "필자는 땅속에 있어 잘 보이지 않는 상하수도가 제주의 하천·바다와 지하수를 지키는 기반이라고 강조한다. 행정의 꾸준한 관리와 함께, 시민도 음식물 찌꺼기·폐식용유·물티슈를 하수구에 버리지 않고 막힘을 바로 신고하는 등 참여해야 한다고 주장한다.",
+   "tags": [
+    "기고",
+    "하수관로"
+   ],
+   "title": "깨끗한 물, 건강한 제주...상하수도에서 시작된다",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600679",
+   "id": "headlinejeju-600679"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-19",
+   "figures": [
+    "오수 2,626.7톤/일 중 1,159.3톤 방류 명시",
+    "용수 4,327톤/일",
+    "지하수 함양 연 약 2만톤 감소"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주의소리",
+   "summary": "도시계획위원회 심의를 앞두고 애월읍 상가리 125만㎡ 지하수자원특별관리구역에 들어설 애월포레스트의 쟁점을 정리한 기사다. 하루 4,327톤의 물 사용에 따른 정수장 부담과 녹지 훼손으로 연간 약 2만 톤의 지하수 함양량 감소가 우려된다. 오수 2,626.7톤은 전량 자체 처리·재이용한다고 했지만 평가서에는 하천·저류지로 1,159.3톤을 흘려보낸다고 적혀 있어 지하수 오염 우려가 제기됐다.",
+   "tags": [
+    "개인오수처리시설",
+    "지하수",
+    "인허가"
+   ],
+   "title": "중산간 지하수 관리구역 개발 논란 ‘애월포레스트’ 운명은?",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=507501",
+   "id": "jejusori-507501"
+  },
+  {
+   "city": "서구",
+   "date": "2026-10-19",
+   "figures": [
+    "사업비 5억 원",
+    "공사 기간 약 5개월",
+    "2026년 10월 착공"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "대구",
+   "source": "경북일보",
+   "summary": "대구 서구청이 남평리네거리~서대구우체국 구간 서대구로 노후 하수관로를 정비한다. 집중호우 때 침수와 하수 역류에 따른 악취를 줄이기 위한 사업으로, 대구시 지원 5억 원을 들여 10월 중 착공해 약 5개월간 공사한다.",
+   "tags": [
+    "하수관로",
+    "침수",
+    "악취"
+   ],
+   "title": "대구 서구, 서대구로 노후 하수관로 정비에 5억 투입",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087760",
+   "id": "kyongbuk-4087760"
+  },
+  {
+   "city": "대구시",
+   "date": "2026-10-18",
+   "figures": [
+    "TOC 저감 33~41%(소유량)→19~23%(55t)",
+    "목표 취수시설 하루 60만t",
+    "2029년 단계 공급·2032년 완료 구상"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "대구",
+   "source": "경북매일",
+   "summary": "1991년 페놀 사고 이후 해법을 찾지 못한 대구 취수원 문제가 낙동강 녹조와 운문댐 가뭄을 계기로 복류수·강변여과수 방식 검토로 넘어가고 있다는 기획 기사다. 문산정수장 실증에서 취수량을 늘리면 TOC 저감률이 떨어지는 한계가 확인됐고, 대구시는 연내 방향을 정해 2029년 단계 공급, 2032년 완료를 구상한다.",
+   "tags": [
+    "상수도",
+    "수질",
+    "가뭄"
+   ],
+   "title": "대구 ‘먹는 물 35년 숙원’ 새 해법 찾는다…복류수 전환 분수령",
+   "url": "https://www.kbmaeil.com/article/20261018500443",
+   "id": "kbmaeil-20261018500443"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-16",
+   "figures": [
+    "애월포레스트 오수 2,626.7톤/일(당초 7,986톤)",
+    "신천목장 855.6톤/일",
+    "대규모 시설 66곳 중 34곳 부실"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "제주녹색당이 한화 애월포레스트(오수 하루 2,626.7톤)와 신천목장 휴양리조트(855.6톤)가 오수를 공공하수도가 아닌 자체 시설로 처리하겠다는 계획을 문제 삼아 환경영향평가 협의 중단과 사업 철회를 요구했다. 애월포레스트의 오수 발생량이 전략환경영향평가 때 하루 7,986톤에서 크게 줄어든 이유를 해명하라고 했고, 민간 사업자의 오수 자체처리를 규제할 방안을 도에 요구했다. 제주시 대규모 개인하수처리시설 점검에서 66곳 중 34곳의 관리 부실이 확인됐다는 점도 근거로 들었다.",
+   "tags": [
+    "개인오수처리시설",
+    "인허가",
+    "오수"
+   ],
+   "title": "\"많은 논란 한화 애월포레스트·신천목장 리조트 사업 철회하라\"",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600584",
+   "id": "headlinejeju-600584"
+  },
+  {
+   "city": "부안군",
+   "date": "2026-10-16",
+   "figures": [
+    "총사업비 340억원(국비 170억)",
+    "노후관 53.9㎞",
+    "유수율 목표 85%",
+    "연 누수 120만톤 감소"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전북",
+   "source": "뉴스핌",
+   "summary": "부안군이 기후에너지환경부의 내년 노후 상수관망 정비 신규사업에 선정돼 총사업비 340억원 중 국비 170억원을 확보했다. 2027~2032년 주산·보안·변산·진서·상서 5개 면의 노후관 53.9㎞를 교체·보수하고 누수 탐사, GIS 구축, 유지관리 시스템 고도화를 함께 추진한다. 군은 대상지역 유수율 85% 달성과 연간 누수 약 120만톤 감소를 예상했다.",
+   "tags": [
+    "상수도"
+   ],
+   "title": "부안군, 노후 상수관망 정비사업 선정…국비 170억 확보",
+   "url": "https://www.newspim.com/news/view/20261016000657",
+   "id": "newspim-20261016000657"
+  },
+  {
+   "city": "세종시",
+   "date": "2026-10-16",
+   "figures": [
+    "대상 연 6만톤 이상 사용시설",
+    "연 2만9000㎥ 절감 목표",
+    "요금 약 9800만원 절감",
+    "탄소 6.9tCO₂eq 감축"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "세종",
+   "source": "뉴스핌",
+   "summary": "세종시가 기후에너지환경부, K-water, 한국환경공단, 중부발전 세종발전본부, 캠코와 협약을 맺고 연간 6만톤 이상 쓰는 물 다소비시설 관리 시범모델을 만든다. 사용량 조사, 절감 목표 설정, 절수·재이용 지원, 사용량 공개와 성과 검증을 함께 추진한다. 두 시범 시설에서 연간 약 2만9000㎥ 절감과 수도요금 약 9800만원 절감을 목표로 한다.",
    "tags": [
     "상수도",
     "제도"
    ],
-   "title": "양평호 시의원, 아리수본부 반복 수의계약 집중점검... 계약 공정성과 상수도시설 안전관리 강화 주문",
-   "url": "https://incheon.thesegye.com/news/view/1065583664054330",
-   "id": "thesegye-1065583664054330"
+   "title": "세종시, 전국 최초 '물 다소비시설 관리 모델' 구축 추진",
+   "url": "https://www.newspim.com/news/view/20261016001177",
+   "id": "newspim-20261016001177"
+  },
+  {
+   "city": "세종시",
+   "date": "2026-10-15",
+   "figures": [
+    "지하수 수질 부적합 3년 연속",
+    "2027년 미등록 지하수 시설 전수조사 요구"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "세종",
+   "source": "중도일보",
+   "summary": "세종시의회 도시환경위원회가 10월 14일 환경녹지국과 상하수도사업소 행정사무감사를 했다. 박란희 의원은 지하수 관측망에서 3년째 수질 부적합이 나오는데도 후속 조치가 없다고 지적했다. 오염원 정밀조사, 측정망 확충 계획, 2027년 미등록 지하수 시설 전수조사 예산 확보를 요구했다.",
+   "tags": [
+    "지하수",
+    "수질",
+    "제도"
+   ],
+   "title": "세종시 토석채취·지하수 관리 도마 위… 시의회 개선 촉구",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261015010004198",
+   "id": "joongdo-20261015010004198"
+  },
+  {
+   "city": "정선군",
+   "date": "2026-10-15",
+   "figures": [
+    "체납자 67명",
+    "징수 대상액 6,224만1천원",
+    "체납액의 40% 징수 목표"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "강원",
+   "source": "강원일보",
+   "summary": "정선군이 11월까지 5개월 이상 밀리고 100만 원 이상 체납한 상하수도 요금 고액·장기 체납자 67명을 대상으로 집중 징수에 나섰다. 사전 안내와 분할납부 협의를 먼저 하고, 약속을 지키지 않으면 단계적으로 급수를 정지하며, 장기 체납은 재산 압류까지 검토한다. 생계가 어려운 가구는 복지 부서와 연계해 지원한다.",
+   "tags": [
+    "요금",
+    "상수도"
+   ],
+   "title": "상하수도요금 체납액 6,224만원 강력 징수 나서",
+   "url": "https://www.kwnews.co.kr/article/20261015500528",
+   "id": "kwnews-20261015500528"
+  },
+  {
+   "city": "대구시",
+   "date": "2026-10-15",
+   "figures": [
+    "대구 30년 이상 하수관 3,630km(51.6%)",
+    "전국 20년 이상 관로 49.5%",
+    "지반침하 하수관 원인 2025년 50%",
+    "중점관리지역 전국 228곳·대구 6곳"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "대구",
+   "source": "경북일보",
+   "summary": "김위상 의원이 국정감사에서 한국환경공단 자료를 토대로 대구 하수관로 7,042km 중 51.6%가 30년을 넘겨 서울에 이어 두 번째로 노후율이 높다고 지적했다. 최근 6년 지반침하 사고의 40~50%가 하수관로 손상 때문이고, 2013년 이후 지정된 하수도정비 중점관리지역 228곳 중 정비 완료로 해제된 곳이 없다며 노후관 집중 지역 예산 우선 확충을 요구했다.",
+   "tags": [
+    "하수관로",
+    "싱크홀",
+    "제도"
+   ],
+   "title": "대구 하수관로 3630㎞ ‘30년 이상’…노후관 정비 예산 확대 촉구",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087436",
+   "id": "kyongbuk-4087436"
+  },
+  {
+   "city": "전국",
+   "date": "2026-10-15",
+   "figures": [
+    "20년 이상 관로 4,376.9km(71.2%)",
+    "포항권광역 노후율 94.9%",
+    "울산공업용수도 50년 이상 43.3km",
+    "관로 사고 2022년 23건→2025년 37건",
+    "단수 피해 64만5천 명"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전국",
+   "source": "내외경제TV",
+   "summary": "김위상 의원이 국정감사에서 한국수자원공사 자료를 근거로 전국 광역상수도 관로의 71.2%가 20년을 넘겼다고 지적했다. 금호강·포항권·밀양댐·남강댐 광역 등 영남권 노후율이 특히 높고, 50년 넘은 관로는 울산공업용수도가 가장 길다. 관로 사고는 해마다 늘어 2024년 이후 대형 사고로 64만여 명이 단수를 겪었다며 선제적 교체와 비상대응 재점검을 요구했다.",
+   "tags": [
+    "상수도",
+    "단수",
+    "제도"
+   ],
+   "title": "[2026 국정감사] 김위상 \"광역상수도관 수명 절반 넘겨, 정비 서둘러야\"",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026105",
+   "id": "nbntv-4026105"
+  },
+  {
+   "city": "해남군",
+   "date": "2026-10-14",
+   "figures": [
+    "국비 174억원(총 296억원)",
+    "사업 15건(신규 5·계속 10)",
+    "하수관로 50.2㎞",
+    "마을하수처리장 3곳 300㎥/일",
+    "약 1150가구"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "전남",
+   "source": "외교저널",
+   "summary": "해남군이 2027년 신규 5건과 계속 10건 등 하수도 사업 15건에 총 296억원을 투입하며 이 가운데 국비 174억원을 확보했다. 신규사업으로 하수관로 약 50.2㎞, 마을하수처리장 3곳(합계 하루 300㎥)을 설치해 약 1150가구에 하수 처리 혜택을 줄 계획이다. 신규사업은 설계부터 시작해 2030년 완료가 목표다.",
+   "tags": [
+    "하수도계획",
+    "마을하수도",
+    "하수관로"
+   ],
+   "title": "해남군, 2027년 하수도 정비사업 국비 174억원 확보",
+   "url": "https://www.djournal.co.kr/news/article.html?no=125986",
+   "id": "djournal-125986"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-14",
+   "figures": [
+    "오수 약 2,627톤/일 자체처리",
+    "용수 4,328톤/일 중 공공 2,988톤",
+    "숙박 1,060실·125만㎡·1조7천억원"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주투데이",
+   "summary": "도의회 문화관광체육위원회 행정사무감사에서 제주도가 6월 약속한 애월포레스트 관계부서 워킹그룹이 석 달 넘게 한 번도 열리지 않은 사실이 드러났다. 숙박시설 1,060실 규모 사업의 하루 용수 수요는 약 4,328톤인데 공공용수 공급 계획은 약 2,988톤이며, 의원들은 실제 공급 가능성을 입증하라고 요구했다. 하루 약 2,627톤의 오수는 공공하수처리구역 밖에서 자체 처리해 조경용수·연못에 전량 재이용한다는 계획이어서 외부 방류·지하 침투 여부를 분명히 하라는 요구가 나왔다.",
+   "tags": [
+    "개인오수처리시설",
+    "인허가",
+    "지하수"
+   ],
+   "title": "“애월포레스트 논란 검증 약속 … 3개월째 손 놓은 제주도”",
+   "url": "https://www.ijejutoday.com/news/articleView.html?idxno=403393",
+   "id": "ijejutoday-403393"
+  },
+  {
+   "city": "원주시",
+   "date": "2026-10-14",
+   "figures": [
+    "상수관로 2.13㎞",
+    "사업비 4억9천만원",
+    "약 60가구"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "강원",
+   "source": "강원도민일보",
+   "summary": "원주시가 문막읍 반계리 벌무내기 마을 일대에 상수도관 2.13㎞를 놓는 급수 확대 사업을 마쳐 약 60가구가 수돗물을 받게 됐다. 사업비는 4억9천만 원이며, 시는 미급수 지역의 상수도 시설을 계속 늘릴 방침이다.",
+   "tags": [
+    "상수도"
+   ],
+   "title": "원주 문막읍 벌무내기 마을, 수돗물 공급받는다",
+   "url": "https://www.kado.net/news/articleView.html?idxno=2077984",
+   "id": "kado-2077984"
+  },
+  {
+   "city": "성주군",
+   "date": "2026-10-14",
+   "figures": [
+    "총 266억 원",
+    "중산·월곡 농어촌마을하수도 250억 원",
+    "성주하수처리장 총인시설 16억 원"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "경북",
+   "source": "뉴데일리 대구경북",
+   "summary": "경북 성주군이 2027년도 하수도 분야 신규사업 2건에 266억 원을 확보했다(기사 제목은 '상주군'으로 오기). 가천면 중산리와 초전면 소성리·월곡리 일대 농어촌마을하수도 정비에 250억 원, 성주공공하수처리장 총인시설 정비에 16억 원이 들어간다.",
+   "tags": [
+    "마을하수도",
+    "하수처리장"
+   ],
+   "title": "상주군, 하수도 신규정비사업 예산 266 확보",
+   "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/14/2026101400147.html",
+   "id": "newdaily-2026101400147"
+  },
+  {
+   "city": "목포시",
+   "date": "2026-10-13",
+   "figures": [
+    "15원→22원/ℓ (2026.12.1, 약 46.7%↑)",
+    "24원/ℓ (2028.1.1)",
+    "누적 약 60% 인상",
+    "2009년 이후 동결"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "전남",
+   "source": "CBC뉴스",
+   "summary": "목포시가 2009년 이후 17년간 동결해 온 분뇨 수집·운반 수수료를 물가·인건비·유류비 상승을 반영해 두 단계로 올린다. 리터당 15원인 수수료를 2026년 12월 1일부터 22원으로, 2028년 1월 1일부터 24원으로 조정한다. 시는 시민 부담을 줄이려고 한 번에 올리지 않고 나눠 인상한다고 설명했다.",
+   "tags": [
+    "분뇨",
+    "요금",
+    "정화조"
+   ],
+   "title": "목포시, 17년 동결 분뇨 수집·운반 수수료 현실화…시민 부담 고려 ‘단계적 인상’",
+   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614940",
+   "id": "cbci-614940"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-13",
+   "figures": [
+    "전용상수도 81곳",
+    "분기 14개·연 60개 항목 검사",
+    "수도법 제83조·제87조 과태료"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "뉴스N제주",
+   "summary": "제주시는 지하수를 쓰는 전용상수도 81곳의 관리자에게 4분기 수질검사를 기한 안에 마쳐 달라고 요청했다. 검사는 분기 1회 14개 항목, 연 1회 60개 항목, 원수는 2년에 1회 이상 해야 하고, 취수·정수 종사자는 연 2회 이상 건강검진을 받아야 한다. 관리 의무를 지키지 않으면 수도법에 따라 과태료가 부과된다.",
+   "tags": [
+    "수질",
+    "상수도",
+    "점검"
+   ],
+   "title": "제주시, 전용상수도 수질검사 이행 당부",
+   "url": "https://www.newsnjeju.com/news/articleView.html?idxno=301876",
+   "id": "newsnjeju-301876"
+  },
+  {
+   "city": "파주시",
+   "date": "2026-10-12",
+   "figures": [
+    "60곳",
+    "50㎥/일 미만",
+    "10.12~11.20"
+   ],
+   "focus": true,
+   "region": "경기",
+   "source": "아시아뉴스통신",
+   "summary": "파주시가 약 40일간 하수처리구역 밖 소규모 시설 60곳을 점검한다. 무단방류, 전원 차단 등 관리기준 위반, 방류수 수질을 확인해 위반 시 고발·과태료를 부과한다.",
+   "tags": [
+    "점검"
+   ],
+   "title": "파주시, '소규모 개인하수처리시설' 집중 지도 점검 실시",
+   "url": "https://www.anewsa.com/detail.php?number=3206574",
+   "id": "anewsa-3206574"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-10-12",
+   "figures": [
+    "처리수 하천 방류 1,159.3톤/일",
+    "오수 전량 자체처리 설명과 불일치",
+    "원인자부담금 대상 통보"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "도의회 환경도시위원회 행정사무감사에서 양영식 의원이 한화 애월포레스트 환경영향평가서 초안의 상수도 공급 근거가 부족하다고 지적했다. 사업자는 공청회에서 오수를 전량 자체 처리(대규모 오수처리시설)한다고 설명했지만, 평가서에는 하루 1,159.3톤의 처리수를 하천으로 내보내고 침투형 저류지를 쓰는 것으로 읽히는 내용이 있어 앞뒤가 맞지 않는다는 지적이다. 상하수도본부장은 이 사업을 원인자부담금 대상으로 사업자에게 통보했다고 답했다.",
+   "tags": [
+    "개인오수처리시설",
+    "인허가",
+    "상수도"
+   ],
+   "title": "\"제주 애월포레스트개발사업, 환경영향평가 부실...수만톤 용수공급 어떻게?\"",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600291",
+   "id": "headlinejeju-600291"
+  },
+  {
+   "city": "부산시",
+   "date": "2026-10-11",
+   "figures": [
+    "최악 시 BOD 약 60mg/L→현재 0.6mg/L",
+    "하수도 보급률 99.8%(2005년 말)"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "부산",
+   "source": "부산일보",
+   "summary": "부산 동천 살리기 기획 시리즈로, 일본 후쿠오카의 감조하천이 하수도 정비로 오수 유입을 끊고 쌓인 오니를 걷어내 수질을 회복한 사례를 소개했다. 바닷물 영향을 받는 하류에서도 오염원 차단과 준설로 악취 원인을 없앴다며, 조석 영향이 수질 회복의 결정적 장애는 아니었다고 짚었다.",
+   "tags": [
+    "하수관로",
+    "수질",
+    "악취"
+   ],
+   "title": "[백년하천 동천으로] 오수 유입 막고 오니 걷어낸 ‘감조하천’ 도시 명소로",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026101118211725834",
+   "id": "busan-2026101118211725834"
+  },
+  {
+   "city": "화성시",
+   "date": "2026-10-11",
+   "figures": [
+    "처리장과 거리 약 1㎞",
+    "2023년 악취개선 105억원"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "경기",
+   "source": "경인일보",
+   "summary": "수원 공공하수처리장에서 약 1㎞ 떨어진 화성 병점 일대 아파트·오피스텔 주민들이 저녁이나 비 올 때 심해지는 악취 민원을 계속 내고 있다. 수원시는 2023년 105억 원을 들여 축열식 연소시설(RTO)을 설치했다며, 처리장보다는 인근 축사나 황구지천 등 여러 요인이 겹친 것으로 보고 있다. 전문가는 기술적으로 원인을 조사하고 주민과 소통하라고 조언했다.",
+   "tags": [
+    "악취",
+    "하수처리장"
+   ],
+   "title": "\"창문 못 열어\" 화성 병점 악취 민원 속출",
+   "url": "https://www.kyeongin.com/article/1772311",
+   "id": "kyeongin-1772311"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-10-05",
+   "figures": [
+    "1~8월 강수량 평년의 88.3%(서부 76.7%·북부 67.3%)",
+    "서부 지하수위 전년比 1.6m↓",
+    "하루 2100톤 추가 확보",
+    "신규 정수장 1만5000톤/일"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "뉴스제주",
+   "summary": "서부·북부 강수량이 평년을 크게 밑돌자 제주도가 지하수·농업용수·상수도를 함께 관리하는 통합 물관리 회의를 열고 대체수자원 확보에 나섰다. 서부 지하수위는 지난해보다 1.6m 낮아졌다. 도는 외도·대정 지하수 저류댐 도입을 검토하고, 어승생1저수지 개량과 신규 지하수 개발로 하루 2100톤을 더 확보하며, 하루 1만5000톤 규모 정수장을 새로 짓기로 했다.",
+   "tags": [
+    "가뭄",
+    "지하수",
+    "상수도"
+   ],
+   "title": "제주 서·북부 강수량 ‘뚝’…물 부족 대비 본격화",
+   "url": "https://www.newsjeju.net/news/articleView.html?idxno=426649",
+   "id": "newsjeju-426649"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-09-21",
+   "figures": [
+    "하루 1.2만→2.4만㎥",
+    "차집관로 15.1km",
+    "사업비 499.8억원",
+    "제주처리장 현대화 공정률 70%"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주의소리",
+   "summary": "2015년 시작한 구좌읍 월정리 동부하수처리장 증설이 끝나 준공식이 열렸다. 하루 처리 용량이 두 배로 늘고 차집관로 15.1km도 함께 정비됐으며, 시운전 중 방류수는 모든 항목에서 법정 기준을 충족했다.",
+   "tags": [
+    "하수처리장",
+    "증설"
+   ],
+   "title": "제주 동부하수처리장 11년 만에 증설 완료",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=506744",
+   "id": "jejusori-506744"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-09-17",
+   "figures": [
+    "2027년부터 상수도 연 8%·하수도 연 20~25% 인상안",
+    "요금현실화율 상수도 58.5%·하수도 32.7%(2025년 말)",
+    "하수도 경영평가 '다' 등급"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "김봉현 도의회 예산결산특별위원장은 요금을 올리기 전에 상하수도 경영부터 개선해야 한다며, 2025년 지방공기업 경영평가에서 하수도사업이 '다' 등급을 받은 점을 지적했다. 2025년 7월 요금 용역은 2027년부터 상수도 연 8%, 하수도 연 20~25% 인상안을 제시했다. 상하수도본부장은 에너지·약품·설비 비용 때문에 절감이 어렵다면서도 의회 우려를 반영해 추진하겠다고 답했다.",
+   "tags": [
+    "요금",
+    "제도"
+   ],
+   "title": "제주도 상하수도 요금 인상 추진에...\"경영평가 개선이 먼저\"",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599172",
+   "id": "headlinejeju-599172"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-09-15",
+   "figures": [
+    "50㎥/일 미만",
+    "준공 3년 경과",
+    "9.22 신청 마감"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "제주녹색환경지원센터가 처리 성능이 떨어진 소규모 시설의 송풍기·펌프·배관 등 부품 보수·교체비를 지원할 참여 시설을 모집했다. 준공 3년이 지나고 현장 진단에서 성능 저하가 확인된 시설이 대상이다.",
+   "tags": [
+    "지원사업"
+   ],
+   "title": "제주 개인하수처리시설 수질개선 지원 참여시설 모집",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599034",
+   "id": "headlinejeju-599034"
+  },
+  {
+   "author": "부선진 제주도 상하수도본부 하수시설과 주무관",
+   "city": "제주도",
+   "date": "2026-09-15",
+   "figures": [],
+   "focus": false,
+   "kind": "기고",
+   "region": "제주",
+   "source": "뉴스제주",
+   "summary": "필자는 해안가 콘크리트관을 중심으로 바닷물 부식에 약한 노후 하수관에 지하수와 빗물이 스며들어 하수처리장 과부하와 침수를 일으키고, 관 주변에 빈 공간을 만들어 도로가 꺼질 수 있다고 지적한다. 하수관 정비는 눈에 잘 띄지 않지만 미룰수록 비용이 커지므로 지금 정비하는 것이 시민 안전을 지키는 길이라고 주장한다.",
+   "tags": [
+    "기고",
+    "하수관로",
+    "싱크홀"
+   ],
+   "title": "땅속에서 울리는 경고음, 제주의 발밑이 보내는 신호",
+   "url": "https://www.newsjeju.net/news/articleView.html?idxno=425908",
+   "id": "newsjeju-425908"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-09-01",
+   "figures": [
+    "50㎥/일 이상",
+    "66곳 점검",
+    "처분 34건",
+    "개선명령 16",
+    "과태료 15",
+    "고발 3"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "뉴스제주",
+   "summary": "제주시가 골프장 등 대규모 시설을 하반기 정기 점검한다. 방류수를 채수해 공인기관에 수질검사를 맡기고, 기준 초과 시 개선명령 등 행정조치를 한다. 지난해에는 66곳을 점검해 34건을 처분했다.",
+   "tags": [
+    "점검",
+    "행정처분"
+   ],
+   "title": "제주시, 대규모 개인하수처리시설 지도·점검",
+   "url": "https://www.newsjeju.net/news/articleView.html?idxno=425186",
+   "id": "newsjeju-425186"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-08-28",
+   "figures": [
+    "전수조사 대상 5664공",
+    "3804공(67.2%) 조사 완료",
+    "유량계·단말기 이상 75건",
+    "허가량/지속이용가능량 90.3%"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "미디어제주",
+   "summary": "제주도가 4월부터 도내 지하수 관정 5664공을 전수조사해 7월 말까지 3804공을 확인한 결과, 유량계·단말기 이상 75건을 찾아 조치하고 시설 보완이 필요한 65건은 관정 관리자에게 요청했다. 월 취수 허가량은 지속이용 가능량의 90.3% 수준이다. 최종 용역 결과는 11월 말 나올 예정이다.",
+   "tags": [
+    "지하수",
+    "점검"
+   ],
+   "title": "제주 지하수 관정 하나씩 뜯어보니… \"이상· 관리 미흡 잇따라\"",
+   "url": "https://www.mediajeju.com/news/articleView.html?idxno=365956",
+   "id": "mediajeju-365956"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-08-23",
+   "figures": [
+    "체납 1만4794건·약 32억9000만원",
+    "고액 체납 284건·약 16억9000만원",
+    "9~12월 집중 징수"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주도민일보",
+   "summary": "7월 말 기준 제주시의 상·하수도 요금 체납액은 1만4794건, 약 32억9000만원으로 집계됐다. 3회 이상·100만원 이상 고액 체납 284건이 약 16억9000만원을 차지한다. 시는 9~12월 집중 징수에 나서 상습 체납자에게는 단수와 재산 압류를 하고, 생계 곤란 가구에는 분할 납부를 허용한다.",
+   "tags": [
+    "요금",
+    "상수도"
+   ],
+   "title": "제주시 상·하수도 체납액 32억9000여만원",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321525",
+   "id": "jejudomin-321525"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-08-06",
+   "figures": [
+    "하루 공급량 47만5154㎥(시설용량의 92%)",
+    "물 사용량 전년比 약 9%↑",
+    "상수도 민원 112건 중 75건 처리",
+    "예비 관정 90공 중 70공 가동"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주도민일보",
+   "summary": "가뭄과 폭염이 겹치면서 올여름 제주 물 사용량이 지난해보다 약 9% 늘어 하루 공급량이 상수도 시설용량의 92%에 이르렀다. 노후관 누수 등이 있는 급수취약 지역에서는 단수와 저수압 민원이 이어졌다. 도는 예비 지하수 관정 70공을 추가로 돌리고 9월 30일까지 비상급수대책반을 운영하며, 내년 상반기 상수도 시설 확충에 나설 계획이다.",
+   "tags": [
+    "가뭄",
+    "상수도",
+    "단수"
+   ],
+   "title": "‘물을 물 쓰듯’ 제주 기록적 폭염에 사용량 ‘껑충’",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321137",
+   "id": "jejudomin-321137"
+  },
+  {
+   "city": "제주시",
+   "date": "2026-06-22",
+   "figures": [
+    "오후 6시 3분 신고",
+    "오후 7시 15분께 복구",
+    "삼도·건입·일도동 일부 단수"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "헤드라인제주",
+   "summary": "6월 22일 저녁 제주시 산지천 인근에서 상수도관이 파손되면서 도로가 꺼지고 일부 구간이 물에 잠겼다. 이 사고로 삼도동·건입동·일도동 일부 지역에 수돗물 공급이 끊겼다가 오후 7시 15분께 복구됐다. 상하수도본부는 배관 파손 원인을 조사할 예정이다.",
+   "tags": [
+    "단수",
+    "싱크홀",
+    "상수도"
+   ],
+   "title": "제주, 산지천 인근서 상수도 배관 파손 사고...'단수.싱크홀' 소동",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=594859",
+   "id": "headlinejeju-594859"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-06-09",
+   "figures": [
+    "취수량 100톤→146톤/일 증산 요청",
+    "2011~2017년 5차례 증산 시도",
+    "2018년 150톤 요청 불허"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "미디어제주",
+   "summary": "한진그룹 계열 한국공항이 먹는샘물용 지하수 취수량을 하루 100톤에서 146톤으로 늘리려고 낸 동의안이 도의회 환경도시위원회에서 심사 보류된 뒤 임시회 안건에 오르지 못해 12대 의회 임기 만료와 함께 자동 폐기될 전망이다. 위원회는 특별법이 먹는샘물 제조 허가를 공기업으로 제한한다는 점에서 법적 문제를 제기했다. 동의안이 폐기되면 한국공항은 민선 9기 도정에서 절차를 처음부터 다시 밟아야 한다.",
+   "tags": [
+    "지하수",
+    "제도"
+   ],
+   "title": "한진그룹 지하수 취수량 증산, 제주도의회 못 넘고 '자동 폐기'?",
+   "url": "https://www.mediajeju.com/news/articleView.html?idxno=364654",
+   "id": "mediajeju-364654"
+  },
+  {
+   "city": "서귀포시",
+   "date": "2026-06-04",
+   "figures": [
+    "2019년 서부 조사 시작",
+    "분석 항목 약 30개",
+    "연 2회 조사"
+   ],
+   "focus": false,
+   "kind": "기사",
+   "region": "제주",
+   "source": "제주도민일보",
+   "summary": "제주도 보건환경연구원이 2019년부터 한림읍 등 서부지역에서 해 온 지하수 정밀조사를 올해 남원읍을 시작으로 동부지역까지 넓힌다. 상·하반기 두 차례 음이온·양이온·중금속 등 약 30개 항목을 분석하고, 질소·산소 안정동위원소로 오염원을 추적한다. 해당 지역에 들어설 중규모 빗물이용시설 설치 전후의 수질 변화도 함께 살펴 지역별 지하수 관리에 활용할 계획이다.",
+   "tags": [
+    "지하수",
+    "수질"
+   ],
+   "title": "제주도 보건환경연구원, 지하수 정밀조사 범위 동부지역까지 확대",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=319705",
+   "id": "jejudomin-319705"
+  },
+  {
+   "city": "제주도",
+   "date": "2026-05-13",
+   "figures": [
+    "대상 450여 개(전체의 3%, 처리용량의 18%)",
+    "50㎥ 미만 소규모 시설 비중 68%",
+    "20㎥ 시설 선임 비용 월 약 24만원",
+    "과태료 100만원 이하",
+    "유예 기한 2027년 말 검토"
+   ],
+   "focus": true,
+   "kind": "기사",
+   "region": "제주",
+   "source": "한라일보",
+   "summary": "제주도 상하수도본부가 1일 처리용량 20㎥ 이상 50㎥ 미만 개인하수처리시설에 적용할 기술관리인 선임 의무를 2026년 말에서 2027년 말로 1년 더 늦추는 방안을 도 본청과 협의하기로 했다. 이 규제는 2023년 하수도 사용조례 개정으로 도입돼 2025년 1월 시행됐지만, 인력난과 비용을 이유로 소유자들이 반발하자 두 달 만에 2026년 말까지 유예됐다. 선임하지 않으면 100만원 이하 과태료 대상이다. 하수도법상 자격 요건을 갖춘 인력이 도내에 없다는 점도 유예 이유로, 본부는 지정기관 교육을 이수하거나 실무경력이 1년 이상이면 자격을 인정하는 특례를 하수도법이나 제주특별법 개정으로 추진할 계획이다.",
+   "tags": [
+    "개인오수처리시설",
+    "제도"
+   ],
+   "title": "제주, 개인하수처리시설 규제 강화 또다시 유예",
+   "url": "http://www.ihalla.com/article.php?aid=1778631245785776073",
+   "id": "ihalla-1778631245785776073"
   }
  ],
  "reports": [
   {
-   "body": [
-    "부산일보 동천 기획은 후쿠오카 감조하천이 하수도 정비로 오수 유입을 끊고 오니를 걷어내 BOD를 약 60에서 0.6mg/L로 낮춘 사례를 소개했다."
-   ],
-   "count": 1,
-   "focus": [
-    "부산에서는 최근 개인하수처리시설 기사가 없다. 하수도 보급률이 높은 대도시라 남은 개인하수처리시설은 주로 정화조이며, 동천 기획에서 보듯 하천 수질 회복의 핵심이 오수 유입 차단이어서 하천 주변 오접합과 정화조 관리 상태가 함께 점검될 수 있다."
-   ],
-   "headline": "하천 오수 차단 사례 조명, 개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "후쿠오카 감조하천 BOD 약 60→0.6mg/L",
-    "동천 오수 유입 차단·오니 준설 과제"
-   ],
-   "outlook": "동천 정비가 본격화되면 하천 유역의 오접합과 정화조 관리가 함께 점검 대상에 오를 수 있다.",
-   "region": "부산",
-   "updatedText": "2026.11.07 작성",
-   "id": "busan"
-  },
-  {
-   "body": [
-    "청주시는 500억 원을 들여 내덕·우암·중앙·성안동과 북이면의 노후 상수관로 82㎞를 2027~2029년 교체한다. 공공하수처리시설 소각로 2호기는 3억 원을 들인 정비를 마치고 11월 초 다시 가동했다."
-   ],
-   "count": 3,
-   "focus": [
-    "청주시의회 김진석 의원은 10월 23일 5분 발언에서 공공하수관로가 깔린 지역 주민이 기존 정화조를 폐쇄하고 관로에 연결하는 비용을 전부 떠안고 있다고 지적했다. 고령층·취약가구가 비용 때문에 연결을 미뤄 악취·벌레 피해를 겪는다며, 하수도법 제32조제2항의 지원 근거를 활용해 예산·지원기준을 마련하라고 요구했다.",
-    "처리구역이 넓어져도 정화조 폐쇄와 배수설비 공사비를 개인이 부담하는 구조에서는 편입이 늦어진다. 청주시가 지원 기준을 만들면 편입 지역 정화조 소유주의 비용 부담이 줄고 폐쇄 속도가 빨라질 수 있다. 하수처리장 슬러지 소각로 정비로 처리 능력을 확보한 것도 분뇨·슬러지 처리 여건에 보탬이 된다."
-   ],
-   "headline": "정화조 폐쇄 비용 지원 요구 나와…청주, 노후 상수관 82㎞ 교체",
-   "keyPoints": [
-    "정화조 폐쇄·관로 연결 비용 지원 요구(하수도법 제32조제2항)",
-    "노후 상수관로 82㎞ 교체, 500억원(2027~2029)",
-    "하수처리장 소각로 2호기 정비(3억원) 후 재가동"
-   ],
-   "outlook": "청주시가 배수설비 지원 조례나 예산을 내놓는지가 정화조 소유주에게 가장 중요한 변수다. 비슷한 요구가 다른 시군 의회로 번질 가능성도 있다.",
-   "region": "충북",
-   "updatedText": "2026.11.06 작성",
-   "id": "chungbuk"
-  },
-  {
-   "body": [
-    "서산시는 운산면 용장리에 24억여 원을 들여 하수관로 681m를 전면 개량하고 109곳을 부분 보수한다. 2025년 기술진단에서 드러난 불명수 유입·누수를 바로잡는 사업으로, 2027년 1월 설계에 들어가 2028년 12월 완공한다.",
-    "기후에너지환경부 중점관리지역 9곳 중 3곳이 충남이다. 서산 읍내동, 부여 입포리, 아산 기곡리 4.38㎢에 하수관로 27.84㎞와 빗물펌프장 2곳을 정비하며, 총사업비는 1,650억 원이고 2028년 착수가 목표다."
-   ],
-   "count": 2,
-   "focus": [
-    "충남에서는 최근 개인하수처리시설(개인오수처리시설·정화조) 기사가 없다. 서산 운산면 용장리 노후 하수관로 개량과 서산 읍내동·부여 입포리·아산 기곡리 중점관리지역 사업은 이미 공공하수도가 깔린 곳의 불명수·침수 대응이 중심이라, 처리구역 밖 개인하수처리시설의 편입과는 거리가 있다. 다만 관로 이음부 이탈·누수를 고치면 처리장 유입 수질이 나아져 처리 여력이 생기므로, 장기적으로 주변 읍면의 처리구역 확대와 정화조 폐쇄 수요로 이어질 수 있다."
-   ],
-   "headline": "침수 대응 하수관로 정비 잇따라, 개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "서산 운산면 하수관로 681m 개량·109곳 보수(24억2,500만원, ~2028.12)",
-    "중점관리지역 3곳 지정(전국 9곳 중), 총사업비 1,650억원",
-    "하수관로 27.84㎞·빗물펌프장 2곳"
-   ],
-   "outlook": "읍면 관로 정비가 불명수를 줄여 처리 여력을 키우면, 인근 정화조 사용 지역의 하수처리구역 편입 논의가 뒤따를 수 있다.",
+   "id": "충남",
    "region": "충남",
-   "updatedText": "2026.11.09 작성",
-   "id": "chungnam"
+   "count": 16,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "충남 상하수도 기사 16건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 하수관로(14), 침수(4), 유출(1), 하수처리장(1), 하수도계획(1).",
+    "최신 기사: 서산시, 운산면 일원 노후 하수관로 정비 추진 (2026-11-09) / 서산시, 운산면 노후 하수관로 24억 투입 침수·누수 정비 (2026-11-09) / 서산시, 2028년까지 24억 투입 운산면 노후 하수관로 정비 (2026-11-09)."
+   ],
+   "keyPoints": [
+    "전체 16건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
   },
   {
-   "body": [
-    "대구 취수원 신 대안(복류수) 3단계 실증에서 탁도·BOD는 크게 줄었지만 TOC가 기준을 못 맞춰 유량을 하루 41톤에서 33톤으로 낮춰 추가 검증 중이다. 시는 2029년 단계 공급, 2032년 완료를 구상한다.",
-    "김위상 의원은 대구 하수관로 7,042km 중 3,630km(51.6%)가 30년을 넘겼고, 지반침하의 40~50%가 하수관 손상 때문이라고 지적했다. 서구는 5억 원으로 서대구로 노후 하수관로를 정비한다."
-   ],
-   "count": 5,
-   "focus": [
-    "대구에서는 최근 개인하수처리시설 기사가 없다. 국정감사에서 대구 하수관로의 51.6%가 30년을 넘긴 것으로 드러나, 관로 파손에 따른 오수 누출과 역류 위험이 커지고 있다. 노후관 정비가 진행되면 오접합과 정화조 미폐쇄 건물이 함께 드러날 수 있다. 취수원 다변화로 상수원 수질 관리가 중요해지는 것도 장기적으로 오수 관리 강화 요인이다."
-   ],
-   "headline": "하수관로 절반 이상 30년 넘어…취수원 복류수 실증 진행, 개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "30년 이상 하수관 3,630km(51.6%), 서울에 이어 두 번째",
-    "복류수 실증 유량 41→33톤 조정, TOC 기준 미달",
-    "서구 서대구로 하수관로 5억원 정비"
-   ],
-   "outlook": "노후 하수관 정비 예산이 늘면 관로 조사 과정에서 오접합·정화조 관리 문제가 함께 드러날 가능성이 있다.",
-   "region": "대구",
-   "updatedText": "2026.11.06 작성",
-   "id": "daegu"
-  },
-  {
-   "body": [
-    "속초시는 11월 10·12·17·24일 자정~새벽 5시에 조양·청호·대포·설악 4개 구간에서 야간 누수 시험을 하며, 일부 지역에 새벽 단수·수압 저하·탁수가 생길 수 있다. 2031년까지 노후관 52.7㎞를 바꾸는 2단계 사업의 사전 작업으로, 1단계에서는 유수율이 59.3%에서 92.4%로 올랐다.",
-    "원주시는 문막읍 반계리에 상수관 2.13㎞(4억9천만 원)를 놓아 약 60가구에 수돗물을 공급한다. 강릉 공공하수처리시설은 한국환경공단 운영관리 평가에서 약 10년 만에 우수시설로 뽑혔고, 정선군은 상하수도 요금 고액·장기 체납자 67명(6,224만 원)에 대해 급수 정지까지 포함한 집중 징수에 나섰다."
-   ],
-   "count": 4,
-   "focus": [
-    "강원에서는 최근 개인하수처리시설(개인오수처리시설·정화조) 기사가 없다. 속초의 노후 상수관 누수 시험과 2단계 정비(52.7㎞), 원주 문막읍 벌무내기 마을 상수관 보급처럼 상수도 쪽 투자가 중심이다. 상수도가 새로 들어가는 농촌 마을은 대개 하수처리구역 밖이어서 수돗물 사용이 늘면 오수 발생량도 커지므로, 기존 정화조·오수처리시설 용량과 청소 주기를 점검할 필요가 있다. 속초처럼 관광 숙박시설이 많은 곳은 누수 저감으로 공급이 안정되는 만큼 성수기 오수 부하 관리도 함께 봐야 한다."
-   ],
-   "headline": "노후 상수관 누수 잡기·미급수 마을 상수도 보급, 개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "속초 야간 누수 시험 11월 4회, 노후관 52.7㎞ 2단계 정비(~2031)",
-    "원주 벌무내기 마을 상수관 2.13㎞·약 60가구 급수",
-    "강릉 공공하수처리시설 우수시설(전국 77곳 평가)",
-    "정선 상하수도 체납 67명·6,224만원 징수"
-   ],
-   "outlook": "상수도 보급과 누수 저감이 이어지면, 하수를 여전히 개인하수처리시설에 맡기는 농촌·관광지의 오수 처리 용량이 다음 과제로 떠오를 수 있다.",
-   "region": "강원",
-   "updatedText": "2026.11.09 작성",
-   "id": "gangwon"
-  },
-  {
-   "body": [
-    "광산구 평동 일대가 하수도정비 중점관리지역으로 지정돼 496억 원으로 하수관로 약 4㎞와 빗물펌프장, 빗물받이 160여 곳을 설치한다(2028년 상반기 착공 목표).",
-    "광주 상수도관 3,994㎞ 중 37.3%가 25년을 넘겼고, 정비 대상 578㎞ 가운데 약 550㎞가 남아 있다. 사업비의 약 70%를 지자체가 부담해 속도가 더디다. 수돗물이 안전하다는 인식은 51.2%지만 그대로 마시는 비율은 1.9%에 그쳐 상수도본부가 인식 조사에 나섰다."
-   ],
-   "count": 3,
-   "focus": [
-    "광주에서는 최근 개인하수처리시설 기사가 없다. 평동산단 정비는 빗물 배제 중심이지만, 산단 주변 두 마을 220여 가구처럼 외곽 주거지는 정화조에 기대는 경우가 많다. 관로를 새로 깔 때 오수 분리와 정화조 폐쇄 연결이 함께 계획되는지가 주민 부담을 좌우한다."
-   ],
-   "headline": "평동 침수 대응 496억·노후 상수관 550㎞ 남아…개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "평동 중점관리지역 496억원, 관로 4㎞·빗물펌프장 1곳",
-    "노후 상수관 잔여 약 550㎞, 지자체 부담 약 70%",
-    "수돗물 직접 음용률 1.9%"
-   ],
-   "outlook": "평동 사업 설계에서 외곽 마을의 오수 처리 방식이 정해지면, 그 지역 정화조 소유주의 연결·폐쇄 여부가 결정될 것이다.",
-   "region": "광주",
-   "updatedText": "2026.11.06 작성",
-   "id": "gwangju"
-  },
-  {
-   "body": [
-    "11월 6일 청송군 안덕면의 한 양돈농장에서 축산폐수가 처리 없이 흘러나갔다는 제보가 보도돼 식수원·토양 오염 우려가 나왔다. 배출량과 경로는 아직 확인되지 않았다.",
-    "김천 신음지구는 350억 원 규모 하수도정비 중점관리지역으로 지정됐다. 포항시는 2040 수도정비기본계획(약 9,000억 원)을 고시해 노후관 526.8km 정비와 공업용수 확대를 추진하고, 2자녀 가구로 수도요금 감면을 넓힌다.",
-    "가뭄 '경계'였던 경주 덕동댐은 10월 말 비로 저수율이 49.8%까지 올랐지만 평년(84.5%)에 크게 못 미쳐 형산강 보조취수를 계속한다."
-   ],
-   "count": 7,
-   "focus": [
-    "10월 26일 포항 영일대해수욕장 우수관 배수구에서 검은 물이 백사장과 바다로 흘러들어, 7월에 이어 석 달 만에 재발했다. 포항시는 개인이 몰래 연결한 오수관(오접합)을 원인으로 보고 내년 예산으로 영일대 일대 우수박스 약 5km를 정밀 조사해 차단하기로 했다.",
-    "오접합 조사가 시작되면 정화조나 오수처리시설을 거치지 않고 오수를 우수관으로 내보내는 건물이 적발될 수 있어, 해안가 상가·숙박시설 소유주는 배수 연결 상태를 점검해야 한다. 청송 안덕면 양돈농장 축산폐수 유출 의혹처럼 공공수역으로 흘러드는 오수에 대한 주민 감시가 커지는 만큼, 농촌 지역 개인하수처리시설도 방류 경로와 처리 기록을 갖춰 둘 필요가 있다. 성주 농어촌마을하수도(250억 원)처럼 군 지역은 마을 단위 공공처리로 개인하수처리시설을 줄여 가는 흐름이다."
-   ],
-   "headline": "포항 우수관 오수 오접합 재발에 청송 축산폐수 유출 의혹까지…오수 무단배출 관리 쟁점",
-   "keyPoints": [
-    "포항 영일대 우수관 오수 유출 재발(7월·10월), 우수박스 약 5km 정밀조사 예정",
-    "청송 안덕면 양돈농장 축산폐수 무단 방류 의혹(규모 미확인)",
-    "성주 농어촌마을하수도 250억원",
-    "김천 신음지구 중점관리지역 350억원, 포항 2040 수도정비계획 약 9,000억원",
-    "경주 덕동댐 저수율 49.8%(평년 84.5%)"
-   ],
-   "outlook": "포항 오접합 정밀조사와 청송 축산폐수 조사 결과에 따라 오수 무단배출에 대한 점검·행정처분이 넓어질 수 있다.",
-   "region": "경북",
-   "updatedText": "2026.11.07 작성",
-   "id": "gyeongbuk"
-  },
-  {
-   "body": [
-    "고양 화정동 일원이 하수도정비 중점관리지역으로 지정돼 234억 원(국·도비 80%)으로 관로를 신설·개량한다. 군포는 산본·당정 등 5개 처리구역의 하수관로 21.5km를 2028년까지 정비한다.",
-    "화성 병점에서는 수원 하수처리장 인근 악취 민원이 이어지고 있다."
-   ],
-   "count": 4,
-   "focus": [
-    "파주시는 10월 12일~11월 20일 하수처리구역 밖 하루 50㎥ 미만 소규모 개인하수처리시설 60곳을 점검한다. 무단방류, 전원 차단 등 관리기준 위반과 방류수 수질을 확인하고 위반 시 고발·과태료를 예고했다.",
-    "경기도의 하수도 투자는 고양 화정동(234억), 군포 노후관로 21.5km처럼 도심 침수·싱크홀 대응에 쏠려 있다. 외곽 소규모 시설은 공공하수도 편입이 늦어 점검 중심 관리가 계속될 것이며, 소유주는 방류수 수질 기록과 전원·송풍기 상시 가동을 챙겨야 한다."
-   ],
-   "headline": "파주 소규모 개인하수처리시설 집중 점검 속, 침수·싱크홀 대응 하수관로 투자 확대",
-   "keyPoints": [
-    "파주 소규모 개인하수처리시설 60곳 점검(10.12~11.20)",
-    "고양 화정동 중점관리지역 234억원",
-    "군포 하수관로 21.5km 정비(~2028)",
-    "화성 병점 하수처리장 인근 악취 민원"
-   ],
-   "outlook": "11월 하순 파주 점검이 끝나면 위반 유형과 처분 건수가 나올 것으로 보이며, 그 결과가 내년 경기도 시군 점검 기준에 반영될지 주목된다.",
-   "region": "경기",
-   "updatedText": "2026.11.08 작성",
-   "id": "gyeonggi"
-  },
-  {
-   "body": [
-    "함양군 상하수도사업소 직원 7명이 올해 정수시설운영관리사 1~3급 자격을 새로 따, 군의 법정 자격 인력은 1급 2명·2급 1명·3급 8명 등 11명이 됐다. 이 자격은 수도법에 따라 수도사업자가 반드시 배치해야 한다."
-   ],
-   "count": 1,
-   "focus": [
-    "경남에서는 최근 개인하수처리시설(개인오수처리시설·정화조) 기사가 없다. 함양군이 정수시설운영관리사를 11명으로 늘린 것처럼 수돗물 관리 역량 강화가 눈에 띄는데, 함양처럼 처리구역 밖 농촌 주택이 많은 군 지역은 정화조·오수처리시설 방류수가 하천 수원에 영향을 줄 수 있다. 상수원 수질 관리가 강화될수록 상류 개인하수처리시설의 점검·청소 관리 요구도 커질 가능성이 있다."
-   ],
-   "headline": "함양 정수 전문인력 확충, 개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "함양 정수시설운영관리사 신규 7명·총 11명",
-    "1급 2명·2급 1명·3급 8명"
-   ],
-   "outlook": "군 단위 수돗물 관리 강화는 상수원 상류 개인하수처리시설의 방류수 관리 요구로 이어질 수 있다.",
-   "region": "경남",
-   "updatedText": "2026.11.09 작성",
-   "id": "gyeongnam"
-  },
-  {
-   "body": [
-    "계양구 작전구역이 하수도정비 중점관리지역으로 지정돼 1,168억 원 규모 배수체계 개편과 빗물펌프장 설치가 추진된다. 부평구로 내보내던 빗물을 구 안에서 처리하도록 바꾼다.",
-    "신영희 시의원은 옹진군 상수도 보급률 41.1%, 소규모 수도시설 48%가 30년 넘은 점, 도서 식수 예산이 271억→174억→106억 원으로 줄어드는 점을 지적했다."
-   ],
-   "count": 3,
-   "focus": [
-    "10월 30~31일 송도국제도시의 한 대단지 아파트 지하주차장으로 오수가 두 차례 역류해 2개 동 약 300~400세대가 차량 피해와 정전을 겪었다. 원인은 외부 하수관 막힘으로 추정되지만 확인되지 않았고, 연수구가 내시경 조사 뒤 준설·보수에 나선다.",
-    "송도처럼 공공하수도에 연결된 신도시에서도 관로 막힘 한 번에 오수 피해가 생긴다는 점이 드러났다. 반대로 옹진군은 상수도 보급률이 41.1%에 그쳐 지하수에 기대고, 섬 지역은 공공하수도도 부족해 개인하수처리시설 방류수가 곧바로 지하수와 연안에 닿는다. 식수 대책이 강화되면 섬 지역 개인하수처리시설 점검도 함께 요구될 가능성이 크다."
-   ],
-   "headline": "송도 아파트 오수 역류·옹진 식수난…처리구역 안팎 모두 오수 관리 과제",
-   "keyPoints": [
-    "송도 아파트 오수 역류 2개 동·약 300~400세대 피해(10.30~31)",
-    "옹진군 상수도 보급률 41.1%(인천 99.3%)",
-    "계양 작전구역 중점관리지역, 총사업비 1,168억원",
-    "도서 식수 예산 174억→106억원, 백령 해수담수화 2030년"
-   ],
-   "outlook": "송도 역류 원인 조사 결과와 옹진 식수 예산 재검토가 다음 관심사다. 섬 지역 지하수 보전 요구가 커지면 개인하수처리시설 관리 기준도 강화될 수 있다.",
-   "region": "인천",
-   "updatedText": "2026.11.06 작성",
-   "id": "incheon"
-  },
-  {
-   "body": [
-    "11월 6일 시민단체와 정당들이 하원테크노캠퍼스 산업단지 환경영향평가 부동의를 요구했다. 중산간 지하수특별관리구역에서 관정 취수허가량을 월 4,900톤에서 약 1만3천 톤으로 늘리고, 하루 오수·폐수 약 358톤을 가동률 95%의 색달공공하수처리장으로 보내는 계획이 문제로 꼽혔다.",
-    "10월 23일 용담수원지 취수펌프 고장으로 용담1·2동 약 4,700가구가 약 15시간 단수됐고 도지사가 사과했다. 지하수 관정 5,664공 전수조사에서 유량계 이상 75건이 나왔고 방치 관정 26곳을 복구한다. 한화 애월포레스트는 하루 4,327톤 중 3,000톤을 광역상수도로 받는 계획(어승생정수장 공급량의 20%)이 문제가 돼 10월 23일 재심의됐고, 도는 2029년 교래정수장으로 대체하겠다는 입장이다. 도의회는 요금 인상(상수도 연 8%·하수도 연 20~25%안)보다 경영 개선이 먼저라고 지적했다.",
-    "하수 쪽에서는 동부하수처리장 증설(하루 2.4만㎥)이 끝났고 제주하수처리장 현대화가 70% 진행됐다. 기고에서는 해안가 노후 하수관의 지하수·빗물 유입이 처리장 과부하와 도로 함몰을 부른다는 경고가 나왔다."
-   ],
-   "count": 28,
-   "focus": [
-    "하루 20~50㎥ 소규모 개인하수처리시설(개인오수처리시설) 약 450곳(전체의 68%)에 대한 기술관리인 선임 의무를 2026년 말에서 2028년 말로 2년 늦추는 하수도 사용 조례 개정안이 도의원 발의로 11월 10일 정례회에 올라간다. 상하수도본부가 5월 건의한 1년 유예보다 길고, 2025년 1월 시행 두 달 만에 인력난과 비용(월 약 24만 원) 반발로 멈춘 규제가 사실상 4년째 미뤄지는 셈이다. 제주시는 하루 50㎥ 이상 대규모 시설을 정기 점검 중이며(지난해 66곳 점검·34건 처분), 제주녹색환경지원센터는 준공 3년이 지난 소규모 시설의 부품 교체를 지원했다. 한화 애월포레스트(숙박 1,060실)는 하루 약 2,627톤의 오수를 공공하수도가 아닌 자체 오수처리시설로 처리해 전량 재이용한다고 밝혔지만, 환경영향평가서에는 처리수 1,159.3톤을 하천·저류지로 내보내는 내용이 있어 도의회 행정사무감사에서 앞뒤가 다르다는 지적을 받았다. 제주녹색당은 대규모 개인하수처리시설 66곳 중 34곳이 부실하다는 점검 결과를 들어 민간 오수 자체처리 규제를 요구했다.",
-    "제주는 용수의 96% 이상을 지하수에 기대는데, 가뭄·폭염에 따른 물 부족, 용담동 15시간 단수, 관정 전수조사, 하원테크노캠퍼스의 취수량 증량과 색달하수처리장(가동률 약 95%) 연계 논란처럼 수원 보호와 처리용량 한계가 동시에 드러나고 있다. 공공처리장 여유가 줄수록 처리구역 밖 개인오수처리시설에 기댄 개발이 늘 수 있어, 자격 요건 완화(제주특별법 개정)와 함께 방류수 관리 의무가 결국 강화될 가능성이 크다. 농지 화장실 허용과 2027년 하수도 요금 인상안도 처리구역 안팎의 비용 구조를 바꿀 변수다."
-   ],
-   "headline": "소규모 개인오수처리시설 기술관리인 의무 재유예 조례안…애월포레스트 하루 2,600톤 오수 자체처리 계획 논란",
-   "keyPoints": [
-    "소규모 개인오수처리시설(20~50㎥, 약 450곳·68%) 기술관리인 의무 2028년 말 유예 조례안, 11.10 정례회 상정",
-    "애월포레스트 오수 약 2,627톤/일 자체처리 계획, 평가서상 1,159.3톤 방류 명시로 불일치 지적",
-    "대규모 시설 작년 66곳 점검·34건 처분, 소규모 시설 부품 교체 지원",
-    "하원테크노캠퍼스 취수 월 4,900→1만3천 톤, 색달하수처리장 가동률 약 95%",
-    "용담동 약 4,700가구 15시간 단수, 관정 5,664공 전수조사"
-   ],
-   "outlook": "정례회의 기술관리인 유예 기간 결정과 함께, 애월포레스트 재심의에서 대규모 오수 자체처리·방류 계획을 얼마나 엄격히 검증하느냐가 처리구역 밖 대형 개발의 오수 기준을 가늠할 시험대가 된다.",
-   "region": "제주",
-   "updatedText": "2026.11.09 작성",
-   "id": "jeju"
-  },
-  {
-   "body": [
-    "익산시는 11월 6일 영등2동·마동·남중동 일대 노후 하수관로 11.5㎞ 정비를 113억 원을 들여 마쳤다고 밝혔고, 내년에는 150억 원 규모 영등1지구 정비를 시작한다. 앞서 4일에는 하수도정비기본계획 부분변경 용역을 통해 처리구역 확대·노후 관로 개량·분류식화를 단계별로 추진하겠다고 밝혔다.",
-    "11월 2일부터 전주 덕진구를 시작으로 수돗물 필터 변색과 흙냄새 민원이 100건을 넘고 완주·군산·익산으로 번졌다. 전주시와 수자원공사는 저수율 저하로 바닥층 망간이 유입된 것으로 보고 대응 중이며, 전북일보 사설은 단계별 원인 규명과 공개를 요구했다.",
-    "김제(국·도비 171억, 노후관 20.8㎞)와 부안(국비 170억, 노후관 53.9㎞)이 2027년 노후 상수관망 정비 신규사업에 선정됐다. 익산은 가정 방문 수돗물 무료 검사를 상시 운영하고, 오산면 외검마을 배수로 악취 정비에도 나섰다."
-   ],
-   "count": 8,
-   "focus": [
-    "전북에서는 최근 개인하수처리시설을 직접 다룬 기사가 없다. 다만 익산시가 2040 하수도정비기본계획을 바꾸며 처리구역 확대를 검토하고 있어, 외곽 개인하수처리시설(오수처리시설·정화조)의 공공하수도 편입 범위가 정해질 수 있다.",
-    "익산은 영등지구 노후 관로 11.5㎞(113억 원) 정비를 마치고 내년 영등1지구(150억 원)로 넘어가는 등 도심 관로 개량이 먼저 진행되고 있다. 전주권 수돗물 이상은 가뭄으로 원수 수질이 흔들린 데서 비롯돼, 상수원 수질 관리 요구가 커지면 상류 지역 개인하수처리시설의 방류수 점검이 강화될 수 있다. 해당 지역 소유주는 정기 수질검사·청소 기록을 챙겨 둘 필요가 있다."
-   ],
-   "headline": "익산 노후 하수관로 11.5㎞ 정비 완료·하수도계획 변경…개인하수처리시설 기사는 없어",
-   "keyPoints": [
-    "개인하수처리시설 기사 없음, 익산 처리구역 확대 시 외곽 시설 편입 가능성",
-    "익산 영등지구 노후 하수관로 11.5㎞ 정비 완료(113억원), 영등1지구 150억원 후속",
-    "전주권 수돗물 민원 100건 이상, 용담댐 저수율 30%대",
-    "김제·부안 노후 상수관망 정비 국비 각 170억원대"
-   ],
-   "outlook": "전주 정밀검사 결과와 익산 처리구역 확대 범위가 전북 개인하수처리시설 관리 방향을 가를 변수다.",
-   "region": "전북",
-   "updatedText": "2026.11.07 작성",
-   "id": "jeonbuk"
-  },
-  {
-   "body": [
-    "영광군은 가뭄 대비 상수도 사업비 478억 원을 확보해, 수질 오염으로 취수가 끊긴 죽림제를 키워 제2정수장에 원수를 다시 대고 군남배수지로 광역상수도와 잇는 비상공급망을 만든다."
-   ],
-   "count": 3,
-   "focus": [
-    "목포시는 2009년부터 동결한 분뇨 수집·운반 수수료를 리터당 15원에서 2026년 12월 1일 22원, 2028년 1월 1일 24원으로 두 단계에 걸쳐 올린다(누적 약 60%). 정화조를 쓰는 가구와 건물의 정기 청소 비용이 그만큼 늘어난다.",
-    "해남군은 2027년 하수도 사업 15건(국비 174억 원)으로 하수관로 50.2㎞와 마을하수처리장 3곳을 지어 약 1,150가구를 공공 처리로 옮긴다. 수수료 인상과 마을하수도 확충이 함께 진행되면, 처리구역에 들어가는 지역은 정화조 폐쇄 유인이 커지고, 남는 지역은 청소비 부담이 늘어나는 이중 구조가 뚜렷해진다."
-   ],
-   "headline": "목포 분뇨 수수료 17년 만에 인상…해남 마을하수도로 개인하수처리시설 편입 확대",
-   "keyPoints": [
-    "목포 분뇨 수수료 15→22원/ℓ(2026.12.1)→24원(2028.1.1)",
-    "해남 하수도 국비 174억원, 관로 50.2㎞·마을하수처리장 3곳·약 1,150가구",
-    "영광 가뭄 대비 상수도 478억원, 죽림제 저수용량 2배"
-   ],
-   "outlook": "목포에 이어 다른 시군도 오래 묶인 분뇨 수수료를 현실화할 가능성이 크다. 정화조 소유주는 청소 주기와 비용 변화를 미리 확인할 필요가 있다.",
-   "region": "전남",
-   "updatedText": "2026.11.06 작성",
-   "id": "jeonnam"
-  },
-  {
-   "body": [
-    "상수도에서는 서울시의회 감사에서 정수장 사업비 급증, 계량기·관로 관리 부실, 아리수본부 1인 견적 수의계약 쏠림(85.6%)이 지적됐다. 전주권 수돗물 망간 민원과 제주 용담동 15시간 단수, 경주 덕동댐 가뭄이 이어졌고, 국정감사에서는 광역상수도관의 71.2%가 20년을 넘겼다는 지적이 나왔다. 노후관 정비 국비 확보(김제 171억·부안 170억)와 울산 역대 최대 상수도 예산(1,600억)도 잇따랐다. 울산 중구는 누수 진단을 위해 3,195세대를 단수하고, 속초시는 노후관 52.7㎞ 2단계 정비에 앞서 11월 10일부터 네 차례 야간 누수 시험을 한다. 함양군은 정수시설운영관리사 법정 인력을 11명으로 늘렸다.",
-    "하수에서는 기후에너지환경부가 상습침수지역 11곳을 중점관리지역으로 새로 지정했고, 익산은 영등지구 노후 하수관로 11.5㎞(113억 원) 정비를 마쳤고, 서산시는 운산면 용장리 노후 하수관로 681m 개량(24억 원)에 2027년 국·도비를 확보했다. 대구 하수관로의 51.6%가 30년을 넘겼고 지반침하의 절반가량이 하수관 손상 때문이라는 지적도 나왔다. 청송에서는 양돈농장 축산폐수 무단 방류 의혹이 제기됐다.",
-    "제주는 가뭄·폭염 속 지하수 관정 전수조사, 하수도 요금 인상안 논의에 더해 지하수특별관리구역 내 하원테크노캠퍼스의 취수량 증량과 색달하수처리장(가동률 약 95%) 연계 계획이 반발을 샀다. 기고로는 전북일보 사설(전주 수돗물)과 제주 하수관 노후화·시민 참여를 다룬 글이 있었다."
-   ],
-   "count": 88,
-   "focus": [
-    "최근 개인하수처리시설 관련 기사 14건이 쌓였다. 경기 파주(소규모 60곳) 점검과 제주 대규모 시설 점검이 관리 강화 쪽이지만, 제주에서는 소규모 개인오수처리시설(20~50㎥, 약 450곳) 기술관리인 의무를 2028년 말까지 2년 더 미루는 조례안이 발의돼 규제 완화 흐름도 뚜렷하다. 한화 애월포레스트가 하루 약 2,627톤 오수를 처리구역 밖 자체 시설로 처리하겠다는 계획은 평가서상 방류량(1,159.3톤)과 맞지 않는다는 지적을 받아, 대형 개발의 오수 자체처리 검증이 새 쟁점으로 떠올랐다. 청주의 정화조 폐쇄 비용 지원 요구와 목포의 분뇨 수수료 17년 만의 인상(리터당 15→24원)은 비용 부담 문제를, 서초구 정화조 원격감시와 포항 오접합 오수 유출, 송도 아파트 오수 역류는 오수 관리 사각지대를 보여 준다.",
-    "상하수도 전반에서는 하수도정비 중점관리지역 11곳 신규 지정(약 5,500억 원)과 익산 영등지구·서산 운산면 같은 노후 하수관로 교체, 노후 상수관 정비가 이어지지만 대부분 도심 침수·관로 노후 대응이다. 처리구역 밖 개인하수처리시설의 공공하수도 편입은 해남 마을하수도처럼 군 단위 사업에서만 조금씩 진행돼, 편입 지역은 정화조 폐쇄·연결 비용, 미편입 지역은 점검·청소비 부담이 쟁점인 이원 구조가 굳어지고 있다. 청송 축산폐수 유출 의혹처럼 공공수역 오수 유입에 대한 감시가 커지고 가뭄·수돗물 이상으로 수원 보호 요구가 높아지는 점도 개인하수처리시설 방류수 관리를 강화하는 요인이다."
-   ],
-   "headline": "침수 대응 하수도 투자와 노후 관로 정비가 커지는 가운데, 개인하수처리시설은 점검·비용 부담·오수 무단배출 관리가 동시에 쟁점",
-   "keyPoints": [
-    "개인하수처리시설: 파주 60곳·제주 대규모 시설 점검, 제주 소규모 시설 기술관리인 의무 2028년 말 유예 조례안, 애월포레스트 오수 2,627톤/일 자체처리 논란",
-    "정화조 비용: 청주 폐쇄비 지원 요구, 목포 분뇨 수수료 15→24원/ℓ",
-    "오수 유출: 포항 영일대 오접합 재발, 송도 아파트 오수 역류, 청송 축산폐수 유출 의혹",
-    "하수도정비 중점관리지역 11곳 신규(약 5,500억원), 익산 노후 하수관로 11.5㎞ 정비 완료",
-    "노후 상수관: 광역상수관 71.2% 20년 초과, 김제·부안 국비 170억원대, 울산 1,600억원"
-   ],
-   "outlook": "침수 대응 투자가 커지는 동안 개인하수처리시설은 점검 강화, 청소·폐쇄 비용 부담, 오접합·무단배출 단속이 함께 진행될 전망이다. 11월 10일 제주도의회 정례회의 유예 조례안 처리와 파주 점검 결과가 다음 관전 포인트다.",
+   "id": "전국",
    "region": "전국",
-   "updatedText": "2026.11.09 작성",
-   "id": "national"
+   "count": 34,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "전국 상하수도 기사 34건 · 개인하수처리시설 3건",
+   "focus": [
+    "최근 개인하수처리시설 기사: \"가축분뇨가 친환경 비료로\"…농어업특위, 축산자원 고도화 모색 (데일리안, 2026-11-08) / 정부, 2030년 가축분뇨 고체연료 118만 톤 자원화 가능할까? (노컷뉴스, 2026-11-07) / 가축분뇨 처리 부담 줄이고 농가 상생…자원순환 모델 주목 > 뉴스 (지데일리, 2026-11-06)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(16), 지하수(4), 분뇨(3), 하수처리장(1), 싱크홀(1).",
+    "최신 기사: 장마 대비 나섰다 맨홀서 참변…28개월 만에 원청·대표 송치 (2026-11-09) / “파리 지하엔 이런 길이…” 하수도박물관서 500m 하수망 걷기 (2026-11-09) / GH, 인덕원 개발·GTX-C 연계 상수도관 공사 통합 (2026-11-09)."
+   ],
+   "keyPoints": [
+    "전체 34건",
+    "개인하수처리시설 3건",
+    "기고·칼럼 0건"
+   ]
   },
   {
-   "body": [
-    "세종시의회 도시환경위원회는 10월 14일 행정사무감사에서 지하수 수질 부적합 3년 연속, 측정망 확충 계획 부재를 지적하고 2027년 미등록 지하수 시설 전수조사 예산을 요구했다.",
-    "세종시는 기후에너지환경부·K-water 등과 협약해 연 6만 톤 이상 쓰는 물 다소비시설 관리 시범모델을 만든다. 두 시설에서 연 2만9천㎥를 아끼는 것이 목표다."
-   ],
-   "count": 2,
+   "id": "경북",
+   "region": "경북",
+   "count": 14,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "경북 상하수도 기사 14건 · 개인하수처리시설 1건",
    "focus": [
-    "세종에서는 최근 개인하수처리시설 기사가 없다. 다만 시의회 감사에서 지하수 관측망 수질 부적합이 3년째 이어지는데도 후속 조치가 없다는 지적이 나왔다. 오염원 정밀조사가 이뤄지면 읍면 지역 개인하수처리시설 방류수가 조사 대상에 오를 수 있어, 소유주는 방류수 수질 관리를 미리 챙길 필요가 있다."
+    "최근 개인하수처리시설 기사: 빗물만 나간다던 우수관서 또 ‘검은 물’…포항시 “몰래 연결된 오수관 탓” (경북매일, 2026-10-26)"
    ],
-   "headline": "지하수 수질 부적합 3년째…미등록 지하수 전수조사 요구",
+   "body": [
+    "많이 나온 주제: 상수도(6), 하수관로(3), 오수(2), 제도(1), 수질(1).",
+    "최신 기사: 포항시 하수도 부담금 논란…공무원 불성실 응대 도마 (2026-11-09) / 경북 의성군, 3년 연속 국비 확보로 상수도 혁신 가속화 (2026-11-09) / 의성군, 노후상수도 정비사업 3년 연속 국비 확보, 안정적인 수돗물 공급 기반 강화 (2026-11-09)."
+   ],
    "keyPoints": [
-    "개인하수처리시설 기사 없음, 지하수 오염원 조사 시 대상 가능성",
-    "지하수 관측망 수질 부적합 3년 연속",
-    "물 다소비시설 시범모델, 연 2만9천㎥ 절감 목표"
-   ],
-   "outlook": "지하수 오염원 정밀조사가 예산에 반영되면, 읍면 지역 개인하수처리시설 점검이 함께 늘어날 수 있다.",
-   "region": "세종",
-   "updatedText": "2026.11.06 작성",
-   "id": "sejong"
+    "전체 14건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 0건"
+   ]
   },
   {
-   "body": [
-    "11월 4일 서울시의회 행정사무감사에서 아리수본부가 집중 질타를 받았다. 광암정수장 사업비가 1,235억에서 3,316억 원으로 늘었고, 상수관 세척비가 사업소마다 크게 달랐으며, 유효기간이 지난 계량기 약 24만 개가 방치됐다. 산하기관 수의계약 3,388건 중 1인 견적이 85.6%(2,899건)라는 지적도 나왔다. 수질 취약관로 중점관리지역 34곳 미해제, 긴급 누수복구 공사의 흙막이 미설치, 욕탕용 요금 혜택의 대형 시설 쏠림도 도마에 올랐다.",
-    "같은 날 발표된 조사에서 아리수 음용률은 75.5%, 만족도는 80.2%로 처음 80%를 넘었다."
-   ],
-   "count": 9,
+   "id": "경기",
+   "region": "경기",
+   "count": 18,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "경기 상하수도 기사 18건 · 개인하수처리시설 2건",
    "focus": [
-    "서초구가 서울시 자치구 하수악취저감 평가에서 2년 연속 1위를 했다. 평가 항목에 정화조 악취저감시설 설치·점검과 원격감시시스템 설치 동의 실적이 들어가 있고, 서초구는 정화조 113곳에 원격감시를 달고 설치 의무가 없는 소형 정화조에도 저감시설을 넣었다.",
-    "서울은 하수처리구역이 거의 시 전역이라 개인하수처리시설 대부분이 정화조이고, 관리의 초점은 방류수질보다 악취다. 자치구 평가가 정화조 원격감시·저감시설 실적을 따지기 때문에 대형 건물 정화조 소유주에게는 설치 동의와 정기 점검 요구가 커질 것으로 보인다. 시의회 감사가 공사 품질·계량기·계약 관리를 수치로 따지는 흐름도, 정화조 청소·점검 업무에서 기록과 업체 선정의 투명성을 요구하는 방향으로 이어질 수 있다."
+    "최근 개인하수처리시설 기사: 가축분뇨를 연료로…포천시, 우분 고체연료화로 자원순환 모델 만든다 (중부일보, 2026-11-08) / 파주시, '소규모 개인하수처리시설' 집중 지도 점검 실시 (아시아뉴스통신, 2026-10-12)"
    ],
-   "headline": "정화조 악취 원격감시 확산 속, 아리수본부 감사서 관로·계량기·수의계약 관리 잇단 지적",
+   "body": [
+    "많이 나온 주제: 상수도(6), 하수관로(2), 분뇨(1), 요금(1), 지반침하(1).",
+    "최신 기사: GH, 안양 인덕원사거리 상수도관 공사 ‘통합시행’ 결정 (2026-11-09) / 경기주택도시공사, 안양 인덕원 광역상수도관 통합 이설…공사기간 58% 단축 (2026-11-09) / GH, 안양 인덕원 상수도관 공사 '통합시행'…도로 차단 기간 58% 단축 - 머니투데이 (2026-11-09)."
+   ],
    "keyPoints": [
-    "서초구 정화조 원격감시 113곳, 하수악취저감 평가 2년 연속 1위",
-    "광암정수장 사업비 1,235억→3,316억원(2.7배)",
-    "아리수본부 산하 수의계약 3,388건 중 1인 견적 85.6%",
-    "유효기간 지난 계량기 약 24만 개, 취약관로 중점관리지역 34곳 잔존",
-    "아리수 음용률 75.5%·만족도 80.2%"
-   ],
-   "outlook": "서울 개인하수처리시설 정책은 정화조 악취 관리 중심으로 굳어지고 있어, 자치구 평가 항목인 원격감시·저감시설 의무가 확대되는지가 소유주에게 가장 큰 변수다.",
-   "region": "서울",
-   "updatedText": "2026.11.08 작성",
-   "id": "seoul"
+    "전체 18건",
+    "개인하수처리시설 2건",
+    "기고·칼럼 0건"
+   ]
   },
   {
-   "body": [
-    "울산시 상수도사업본부는 11월 10일 밤부터 11일 새벽까지 중구 우정동·교동 3,195세대를 단수하고 상수관망을 구역별로 고립해 누수 구간을 진단한다.",
-    "2027년 상수도 특별회계는 역대 최대인 1,600억 원이다. 상수도관 3,815km 중 30년 넘은 918km(24%) 정비에 196억 원을 쓰고, 울주군 470세대 급수 확대(74억 원)와 회야정수장 정비도 추진한다."
-   ],
-   "count": 2,
+   "id": "충북",
+   "region": "충북",
+   "count": 15,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "충북 상하수도 기사 15건 · 개인하수처리시설 6건",
    "focus": [
-    "울산에서는 최근 개인하수처리시설 기사가 없다. 상수도 쪽은 노후관 정비와 누수 진단(구역고립)이 본격화되고 울주군 외곽 470세대 급수 확대가 추진되는데, 이런 외곽 마을은 하수처리구역 밖인 경우가 많아 수돗물 공급으로 물 사용량이 늘면 기존 정화조·오수처리시설 용량이 부족해질 수 있다. 급수 확대 지역의 하수 처리 방식 점검이 함께 필요하다."
+    "최근 개인하수처리시설 기사: 음성군, 가축분뇨 부숙도 검사 연중 무료 지원 (연합뉴스, 2026-11-09) / 음성군농업기술센터, 축산농가 가축분뇨 부숙도 검사 연중 무료 지원 (중부매일, 2026-11-09) / 음성군, 축산농가 가축분뇨 부숙도 검사 '연중 무료' (뉴시스, 2026-11-09)"
    ],
-   "headline": "누수 진단 위한 중구 3,195세대 단수·상수도 예산 역대 최대…개인하수처리시설 기사는 없어",
+   "body": [
+    "많이 나온 주제: 상수도(8), 분뇨(5), 지원사업(5), 하수처리장(1), 슬러지(1).",
+    "최신 기사: 청주시, 겨울철 상수도 급수공사 20일부터 접수 중단 (2026-11-09) / 청주시 상수도사업본부, 급수공사 신청 접수 중지…19일까지 신청해야 (2026-11-09) / 청주시, 동절기 상수도 급수공사 접수 중지 (2026-11-09)."
+   ],
    "keyPoints": [
-    "개인하수처리시설 기사 없음",
-    "중구 3,195세대 단수(11.10~11), 누수 구간 진단",
-    "2027년 상수도 예산 1,600억원(역대 최대)",
-    "30년 이상 노후관 918km(24%)",
-    "울주 급수 확대 470세대·74억원"
+    "전체 15건",
+    "개인하수처리시설 6건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "강원",
+   "region": "강원",
+   "count": 18,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "강원 상하수도 기사 18건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
    ],
-   "outlook": "울주군 급수 확대 지역에서 하수처리 방식이 함께 정비되는지가 개인하수처리시설 소유주의 관심사다.",
+   "body": [
+    "많이 나온 주제: 상수도(14), 누수(1), 점검(1), 하수처리장(1), 요금(1).",
+    "최신 기사: 속초시, 노후 상수관 누수 정밀 조사…\"새는 물 찾습니다\" (2026-11-09) / 속초시, 노후 상수관 누수 확인 시험.. 야간 수돗물 차단 > 뉴스데스크 (2026-11-09) / 속초시, 조양·청호·대포동 야간 상수관 누수시험…11월 10일부터 4차례 (2026-11-09)."
+   ],
+   "keyPoints": [
+    "전체 18건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "제주",
+   "region": "제주",
+   "count": 33,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "제주 상하수도 기사 33건 · 개인하수처리시설 9건",
+   "focus": [
+    "최근 개인하수처리시설 기사: “악취 진동” 제주 위미리 해안에 오수 유출…하수관 센서 이상 추정 (제주의소리, 2026-11-09) / 제주, 개인하수처리시설 규제 강화 유명무실 (한라일보, 2026-11-06) / 중산간 지하수 관리구역 개발 논란 ‘애월포레스트’ 운명은? (제주의소리, 2026-10-19)"
+   ],
+   "body": [
+    "많이 나온 주제: 지하수(13), 상수도(10), 개인오수처리시설(6), 제도(6), 인허가(6).",
+    "최신 기사: “악취 진동” 제주 위미리 해안에 오수 유출…하수관 센서 이상 추정 (2026-11-09) / 제주 지하수열 활용 냉난방 확대 추진…데이터센터·양식장·스마트팜 적용 방안 제시 (2026-11-07) / \"지하수관리구역에 산업단지 웬 말이냐\"…하원테크노캠퍼스 사업 반발 (2026-11-06)."
+   ],
+   "keyPoints": [
+    "전체 33건",
+    "개인하수처리시설 9건",
+    "기고·칼럼 2건"
+   ]
+  },
+  {
+   "id": "경남",
+   "region": "경남",
+   "count": 5,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "경남 상하수도 기사 5건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(3), 수질(1).",
+    "최신 기사: 함양군, 정수시설 운영 전문인력 확충 (2026-11-08) / 민주당 경남도당, 2차 기초단체장 4곳 단수 공천 발표 (2026-11-08) / 거제해양관광개발공사 경영평가 ‘다’, 거제시 하수도 분야 ‘라’ 등급 (2026-11-06)."
+   ],
+   "keyPoints": [
+    "전체 5건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "전북",
+   "region": "전북",
+   "count": 23,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "전북 상하수도 기사 23건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: “쓰레기·분뇨·하수시설도 있는데 왜 또 덕천인가”…주민들, 정읍시에 ‘공론화’ 요구 (전북도민일보, 2026-11-06)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(14), 하수관로(6), 수질(3), 싱크홀(1), 분뇨(1).",
+    "최신 기사: 익산 영등지구 노후 하수관로 정비 시행… 시민 생활 불편 뚝 (2026-11-08) / 익산시, 영등지구 노후 하수관로 정비 완료…11.5㎞ 교체 (2026-11-08) / 전주 수돗물 흙냄새 사태 진정세⋯망간 농도 낮아지며 안정화 (2026-11-08)."
+   ],
+   "keyPoints": [
+    "전체 23건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 1건"
+   ]
+  },
+  {
+   "id": "부산",
+   "region": "부산",
+   "count": 3,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "부산 상하수도 기사 3건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: [자막뉴스] 골칫거리였던 축산 분뇨와 부산물, 고부가가치 자원으로 탈바꿈한다? (LG헬로비전, 2026-11-07)"
+   ],
+   "body": [
+    "많이 나온 주제: 지원사업(1), 상수도(1), 분뇨(1), 하수관로(1), 수질(1).",
+    "최신 기사: 부산글로벌도시재단 “탄자니아에 K-스마트 상수도 지원” (2026-11-08) / [자막뉴스] 골칫거리였던 축산 분뇨와 부산물, 고부가가치 자원으로 탈바꿈한다? (2026-11-07) / [백년하천 동천으로] 오수 유입 막고 오니 걷어낸 ‘감조하천’ 도시 명소로 (2026-10-11)."
+   ],
+   "keyPoints": [
+    "전체 3건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "울산",
    "region": "울산",
-   "updatedText": "2026.11.08 작성",
-   "id": "ulsan"
+   "count": 6,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "울산 상하수도 기사 6건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(5), 단수(1).",
+    "최신 기사: “수돗물 미리 받아두세요”…울산 중구 3195세대 10일 밤 단수 (2026-11-08) / 울산 중구 우정동·교동 3,195세대, 10일 밤 수돗물 단수…생활용수 미리 확보해야 (2026-11-08) / 10~11일 울산 중구 우정동·교동 3195세대 수돗물 단수 (2026-11-06)."
+   ],
+   "keyPoints": [
+    "전체 6건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "서울",
+   "region": "서울",
+   "count": 16,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "서울 상하수도 기사 16건 · 개인하수처리시설 2건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 관악구 개인하수처리시설의 청소 및 분뇨처리 관련 조례안 ‘찬·반 격돌’ (관악신문, 2026-11-06) / 서초구, '자치구 하수악취저감 추진실적 평가' 2년 연속 1위 달성 (내외일보, 2026-11-05)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(14), 제도(3), 수질(3), 개인하수처리시설(1), 분뇨(1).",
+    "최신 기사: 서울시민 4명 중 3명 수돗물 마신다…만족도, 처음으로 80% 넘어 (2026-11-08) / 노연수 서울시의원 “상수도 공사 심야소음·도로 안전관리 강화해야” (2026-11-07) / 양평호 시의원, 아리수본부 반복 수의계약 집중점검... 계약 공정성과 상수도시설 안전관리 강화 주문 (2026-11-06)."
+   ],
+   "keyPoints": [
+    "전체 16건",
+    "개인하수처리시설 2건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "전남",
+   "region": "전남",
+   "count": 7,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "전남 상하수도 기사 7건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 목포시, 17년 동결 분뇨 수집·운반 수수료 현실화…시민 부담 고려 ‘단계적 인상’ (CBC뉴스, 2026-10-13)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(4), 가뭄(1), 하수도계획(1), 마을하수도(1), 하수관로(1).",
+    "최신 기사: 전남도, 2030년까지 하수도 보급률 90% 목표 (2026-11-07) / 전남광주 북구 일대서 상수도 흙탕물 신고 접수 (2026-11-06) / 전남광주 두암·중흥동 수돗물서 흙탕물…\"자정께 정상화\" (2026-11-06)."
+   ],
+   "keyPoints": [
+    "전체 7건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "광주",
+   "region": "광주",
+   "count": 3,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "광주 상하수도 기사 3건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(2), 싱크홀(1), 수질(1), 하수관로(1), 침수(1).",
+    "최신 기사: 광주 상수도관 노후관 정비 ‘과제’ (2026-11-05) / 광주 수돗물 음용률 1.9%…인식 개선 나선다 (2026-11-05) / 전남광주 광산구, '상습 침수' 평동 일대 하수도 정비… 496억 투입 (2026-11-04)."
+   ],
+   "keyPoints": [
+    "전체 3건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "인천",
+   "region": "인천",
+   "count": 3,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "인천 상하수도 기사 3건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: [단독] 송도 아파트 지하주차장에 오수 역류...차량 피해·정전까지 (경인방송, 2026-10-31)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(1), 제도(1), 오수(1), 유출(1), 하수관로(1).",
+    "최신 기사: 신영희 인천시의원 \"옹진군 상수도 보급률 41.1%…식수 대책 필요\" (2026-11-05) / [단독] 송도 아파트 지하주차장에 오수 역류...차량 피해·정전까지 (2026-10-31) / 계양구, 작전동 침수 예방에 1,168억 투입 … 하수도 정비 본격화 (2026-10-30)."
+   ],
+   "keyPoints": [
+    "전체 3건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "대구",
+   "region": "대구",
+   "count": 5,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "대구 상하수도 기사 5건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(3), 수질(3), 하수관로(2), 침수(1), 악취(1).",
+    "최신 기사: 대구광역시, 취수원 신 대안 실증 실험 결과 분석...수질 개선 효과 확인 (2026-11-04) / 대구 ‘먹는 물’ 자연여과수 활용 3차 공동검증···수질은 아직 ‘부족’ (2026-10-20) / 대구 서구, 서대구로 노후 하수관로 정비에 5억 투입 (2026-10-19)."
+   ],
+   "keyPoints": [
+    "전체 5건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "세종",
+   "region": "세종",
+   "count": 2,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "세종 상하수도 기사 2건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 제도(2), 상수도(1), 지하수(1), 수질(1).",
+    "최신 기사: 세종시, 전국 최초 '물 다소비시설 관리 모델' 구축 추진 (2026-10-16) / 세종시 토석채취·지하수 관리 도마 위… 시의회 개선 촉구 (2026-10-15)."
+   ],
+   "keyPoints": [
+    "전체 2건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "전국",
+   "region": "전국",
+   "count": 221,
+   "updatedText": "2026.11.09 자동 집계",
+   "headline": "전국 상하수도 기사 221건 · 개인하수처리시설 27건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 음성군, 가축분뇨 부숙도 검사 연중 무료 지원 (연합뉴스, 2026-11-09) / 음성군농업기술센터, 축산농가 가축분뇨 부숙도 검사 연중 무료 지원 (중부매일, 2026-11-09) / 음성군, 축산농가 가축분뇨 부숙도 검사 '연중 무료' (뉴시스, 2026-11-09)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(108), 하수관로(35), 수질(18), 지하수(18), 제도(15).",
+    "최신 기사: 서산시, 운산면 일원 노후 하수관로 정비 추진 (2026-11-09) / 서산시, 운산면 노후 하수관로 24억 투입 침수·누수 정비 (2026-11-09) / 서산시, 2028년까지 24억 투입 운산면 노후 하수관로 정비 (2026-11-09)."
+   ],
+   "keyPoints": [
+    "전체 221건",
+    "개인하수처리시설 27건",
+    "기고·칼럼 3건"
+   ]
   }
  ],
  "meta": {
   "lastRun": "2026-11-09",
-  "lastRunText": "2026.11.09 08:00 갱신 · 신규 8건",
+  "lastRunText": "2026.11.09 12:45 갱신 · 신규 133건",
   "overall": [
-   "상하수도 기사·기고 88건(개인하수처리시설 14건, 기고 3건)을 제주(28)·서울(9)·전북(8)·경북(7)·대구(5)·경기(4)·강원(4)·인천(3)·충북(3)·광주(3)·전남(3)·전국(3)·세종(2)·울산(2)·충남(2)·부산(1)·경남(1)에서 모았습니다. 제주는 최근 6개월, 그 밖의 지역은 최근 30일 기사를 남깁니다.",
-   "상하수도 전반에서는 하수도정비 중점관리지역 지정과 노후 하수관로 교체 등 침수·싱크홀 대응 투자, 노후 상수관 정비와 누수 진단(속초 야간 누수 시험 등)이 커지고, 가뭄·단수·수돗물 수질 문제와 지하수 보전 논란이 잇따릅니다. 개인하수처리시설은 점검이 이어지는 한편 제주 소규모 개인오수처리시설 기술관리인 의무가 다시 유예될 전망이며 애월포레스트 같은 대형 개발의 오수 자체처리 검증이 쟁점으로 떠올랐고, 정화조 폐쇄 비용과 분뇨 수수료 인상 같은 비용 문제, 오접합·역류·축산폐수 같은 오수 무단배출이 쟁점입니다."
+   "상하수도 기사 221건(개인하수처리시설 27건, 기고 3건)을 서울(16)·부산(3)·대구(5)·인천(3)·광주(3)·울산(6)·세종(2)·경기(18)·강원(18)·충북(15)·충남(16)·전북(23)·전남(7)·경북(14)·경남(5)·제주(33)·전국(34)에서 모았습니다. 제주는 최근 6개월, 그 밖의 지역은 최근 30일 기사를 남깁니다.",
+   "구글 뉴스 검색 결과를 매일 자동으로 모은 목록입니다. 제목의 지역명과 검색어로 분류했으므로 일부 분류가 다를 수 있고, 정확한 내용은 원문 링크로 확인하세요."
   ]
  }
 }
