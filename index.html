@@ -60,6 +60,10 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .report p{margin:0}
 .report h3{font-size:13px;letter-spacing:.06em;color:var(--muted);margin:4px 0 0;font-weight:600}
 .report ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}
+.refresh{font:inherit;font-size:13px;border:1px solid var(--accent);background:var(--accent);color:var(--surface);padding:3px 12px;border-radius:999px;cursor:pointer;font-weight:600}
+.refresh:disabled{opacity:.6;cursor:default}
+.runlink{font-size:12px;color:var(--muted)}
+.checked{font-size:12px;color:var(--muted)}
 .copy,.pdf{align-self:flex-start;font:inherit;font-size:13px;border:1px solid var(--line);background:transparent;color:var(--ink);padding:5px 12px;border-radius:4px;cursor:pointer}
 .copy:hover,.pdf:hover{border-color:var(--ink)}
 .pdf{border-color:var(--accent);color:var(--accent);font-weight:600}
@@ -147,7 +151,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
     </div>
   </section>
 
-  <footer>기사 요약은 원문을 바탕으로 새로 쓴 것입니다. 정확한 내용은 제목 링크로 원문을 확인하세요. 매일 오전 8시(KST) 전날·당일 기사를 모으고, 30일(제주는 6개월)이 지난 기사는 자동으로 정리합니다.</footer>
+  <footer>매일 오전 7시 50분(KST)쯤 구글 뉴스 검색 결과에서 상하수도 기사를 자동으로 모읍니다. 제목과 지역명으로 분류하므로 일부 분류가 다를 수 있으니, 정확한 내용은 제목 링크로 원문을 확인하세요. 30일(제주는 6개월)이 지난 기사는 자동으로 정리합니다.</footer>
 </div>
 <div id="pdfStage" aria-hidden="true"></div>
 
@@ -185,7 +189,9 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
     parts.push(`<span>다음 갱신 <b>매일 08:00 KST</b></span>`);
     parts.push(`<span>수집 기사 <b>${state.articles.length}</b>건 (개인하수처리시설 <b>${state.articles.filter(isFocus).length}</b>건)</span>`);
     parts.push(`<span>지역 <b>${list.filter(r=>counts[r]>0).length}</b>곳</span>`);
+    parts.push(`<button class="refresh" type="button" id="refreshBtn">↻ 최신 내용 불러오기</button><a class="runlink" href="https://github.com/doctor2442-glitch/water_news/actions/workflows/collect.yml" target="_blank" rel="noopener" title="저장소 주인만 실행할 수 있습니다">지금 수집하기(관리자)</a><span class="checked" id="checked" aria-live="polite">${state.checkedAt?esc(state.checkedAt):""}</span>`);
     $("status").innerHTML=parts.join("");
+    $("refreshBtn").onclick=()=>loadData(true);
   }
 
   function renderOverall(){
@@ -279,7 +285,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
         <div>
           <div class="src"><span class="pill${warn?" warn":""}">${esc(a.region)}${a.city&&a.city!==a.region?" · "+esc(a.city):""}</span>${f?`<span class="pill focus">개인하수</span>`:""}${a.kind==="기고"?`<span class="pill op">기고${a.author?" · "+esc(a.author):""}</span>`:""}<span>${esc(a.source)}</span>${(a.tags||[]).map(t=>`<span>#${esc(t)}</span>`).join("")}</div>
           <h4><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h4>
-          <p>${esc(a.summary)}</p>
+          ${a.summary?`<p>${esc(a.summary)}</p>`:""}
           ${a.figures?.length?`<div class="figs">${a.figures.map(f=>`<span class="fig">${esc(f)}</span>`).join("")}</div>`:""}
         </div></div>`;
   }
@@ -317,7 +323,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
       }
       let lastF=null;
       items.forEach(a=>{const f=isFocus(a);if(f!==lastF){lastF=f;blocks.push(`<div class="blk"><h2>${f?"개인하수처리시설 기사":"상하수도 일반 기사"}</h2></div>`)}
-        blocks.push(`<div class="blk it"><div class="m">${esc(fmtDate(a.date))}${a.kind==="기고"?" · [기고"+(a.author?" "+esc(a.author):"")+"]":""} · ${esc(a.source)}${a.city?" · "+esc(a.city):""}</div><h3>${esc(a.title)}</h3><p>${esc(a.summary)}</p>${a.figures?.length?`<div class="f">${a.figures.map(esc).join(" · ")}</div>`:""}<div class="u">${esc(a.url)}</div></div>`)});
+        blocks.push(`<div class="blk it"><div class="m">${esc(fmtDate(a.date))}${a.kind==="기고"?" · [기고"+(a.author?" "+esc(a.author):"")+"]":""} · ${esc(a.source)}${a.city?" · "+esc(a.city):""}</div><h3>${esc(a.title)}</h3>${a.summary?`<p>${esc(a.summary)}</p>`:""}${a.figures?.length?`<div class="f">${a.figures.map(esc).join(" · ")}</div>`:""}<div class="u">${esc(a.url)}</div></div>`)});
       stage.innerHTML=blocks.join("");
       const {jsPDF}=window.jspdf;
       const pdf=new jsPDF({unit:"mm",format:"a4"});
@@ -347,12 +353,10 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
   function renderAll(){renderStatus();renderOverall();renderTabs();renderReport();renderList();}
   renderAll();
 
-  (async()=>{
-    
-    renderList();
-  })();
-
-  (async()=>{
+  async function loadData(manual){
+    const btn=$("refreshBtn");
+    if(btn){btn.disabled=true;btn.textContent="불러오는 중…"}
+    const before=state.meta?.lastRunText;
     try{
       const res=await fetch("data.json?t="+Date.now(),{cache:"no-store"});
       if(!res.ok) throw new Error(res.status);
@@ -360,11 +364,16 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
       state.articles=(d.articles||[]);
       const o={};(d.reports||[]).forEach(v=>{o[v.region||v.id]=v});state.reports=o;
       state.meta=d.meta||null;
+      const t=new Date(Date.now()+9*3600e3).toISOString().slice(11,16);
+      state.checkedAt=t+" 확인"+(manual?(before===state.meta?.lastRunText?" · 바뀐 내용 없음":" · 새 내용 반영"):"");
+      state.loaded=true;renderAll();
     }catch(e){
-      state.loaded=true;$("status").innerHTML=`<span class="note">데이터 파일(data.json)을 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</span>`;renderReport();renderList();return;
+      state.loaded=true;
+      if(manual&&state.articles.length){renderAll();$("checked").textContent="불러오지 못했습니다. 잠시 후 다시 눌러 주세요"}
+      else{$("status").innerHTML=`<span class="note">데이터 파일(data.json)을 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</span>`;renderReport();renderList()}
     }
-    state.loaded=true;renderAll();
-  })();
+  }
+  loadData(false);
 })();
 </script>
 
