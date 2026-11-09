@@ -29,7 +29,8 @@ GENERAL_KW = ["하수처리장", "하수처리시설", "하수관로", "하수�
               "단수", "누수", "분뇨", "오수 유출", "오수 방류", "하수 역류", "마을하수도", "지하수 관정",
               "환경영향평가 오수", "오수 자체처리", "용수 공급 계획", "가축분뇨 무단"]
 WATER = re.compile(r"하수|오수|상수|수돗물|정화조|분뇨|정수장|단수|누수|지하수|용수|배수설비|맨홀|싱크홀|급수|취수|수도요금|수도관")
-FOCUS = re.compile(r"개인하수|개인 하수|오수처리시설|개인오수|정화조|분뇨|오수 (?:자체|유출|방류)|화장실 오수")
+FOCUS = re.compile(r"개인하수|개인 하수|오수처리시설|개인오수|정화조|(?<!가축)(?<!축산 )분뇨|오수 (?:자체|유출|방류)|화장실 오수")
+FOREIGN = re.compile(r"베트남|호치민|하노이|중국|일본|미국|파리|런던|태국|필리핀|인도네시아|캄보디아|몽골|Vietnam")
 OPINION = re.compile(r"^\s*[\[【<〈(]\s*(기고|칼럼|사설|시론|오피니언|기자수첩|데스크|발언대|열린마당|독자투고)")
 TAGS = [("정화조", "정화조"), ("개인오수|오수처리시설", "개인오수처리시설"), ("개인하수", "개인하수처리시설"),
         ("분뇨", "분뇨"), ("점검|단속|적발", "점검"), ("지원", "지원사업"), ("과태료|고발|처분", "행정처분"),
@@ -56,7 +57,7 @@ def parse(xml_bytes):
         title = (it.findtext("title") or "").strip()
         src_el = it.find("source")
         source = (src_el.text or "").strip() if src_el is not None else ""
-        if source and title.endswith(" - " + source):
+        while source and title.endswith(" - " + source):
             title = title[: -len(" - " + source)].strip()
         try:
             d = parsedate_to_datetime(it.findtext("pubDate")).astimezone(KST).date()
@@ -75,6 +76,30 @@ def region_of(text, hint):
 
 def norm(t):
     return re.sub(r"[\W_]+", "", re.sub(r"\[[^\]]*\]", "", t)).lower()
+
+
+def toks(t):
+    t = re.sub(r"\[[^\]]*\]|\([^)]*\)", "", t)
+    return {w for w in re.findall(r"[가-힣A-Za-z0-9]+", t) if len(w) >= 2}
+
+
+def similar(a, b):
+    A, B = toks(a), toks(b)
+    return bool(A and B) and len(A & B) / min(len(A), len(B)) >= 0.5
+
+
+def group(arts):
+    """같은 보도자료를 여러 매체가 실은 기사를 한 묶음으로 표시한다(지우지 않음). group = 대표 기사 url."""
+    reps = []
+    for a in sorted(arts, key=lambda a: (not a.get("summary"), a.get("date", ""))):
+        rep = None if a.get("summary") else next(
+            (r for r in reps if r["region"] == a["region"] and similar(r["title"], a["title"])), None)
+        if rep:
+            a["group"] = rep["url"]
+        else:
+            a["group"] = a["url"]
+            reps.append(a)
+    return len(reps)
 
 
 def keep(a):
@@ -125,7 +150,7 @@ def main():
                 continue
             if not keep({"date": it["date"], "region": "제주"}):
                 continue
-            it["region"] = region_of(t, hint)
+            it["region"] = "해외" if FOREIGN.search(t + " " + it["source"]) else region_of(t, hint)
             if not keep(it):
                 continue
             it["city"] = ""
@@ -138,18 +163,24 @@ def main():
             seen_url.add(it["url"]); seen_title.add(norm(t)); new += 1
         time.sleep(1)
 
+    for a in arts:
+        if not a.get("summary"):
+            a["focus"] = bool(FOCUS.search(a["title"]))
+        if not a.get("summary") and FOREIGN.search(a["title"] + " " + a.get("source", "")):
+            a["region"] = "해외"
+    stories = group(arts)
     arts.sort(key=lambda a: a["date"], reverse=True)
     cnt = Counter(a["region"] for a in arts)
-    order = sorted(cnt, key=lambda r: (REGIONS + ["전국"]).index(r) if r in REGIONS + ["전국"] else 99)
+    order = sorted(cnt, key=lambda r: (REGIONS + ["전국", "해외"]).index(r) if r in REGIONS + ["전국", "해외"] else 99)
     foc = sum(bool(a.get("focus")) for a in arts)
     opn = sum(a.get("kind") == "기고" for a in arts)
     meta = {
         "lastRun": TODAY.isoformat(),
         "lastRunText": NOW.strftime("%Y.%m.%d %H:%M") + (f" 갱신 · 신규 {new}건" if new else " 확인 · 신규 없음"),
         "overall": [
-            f"상하수도 기사 {len(arts)}건(개인하수처리시설 {foc}건, 기고 {opn}건)을 " + "·".join(f"{r}({cnt[r]})" for r in order)
+            f"상하수도 기사 {len(arts)}건(같은 내용 묶음 기준 {stories}건, 개인하수처리시설 {foc}건, 기고 {opn}건)을 " + "·".join(f"{r}({cnt[r]})" for r in order)
             + "에서 모았습니다. 제주는 최근 6개월, 그 밖의 지역은 최근 30일 기사를 남깁니다.",
-            "구글 뉴스 검색 결과를 매일 자동으로 모은 목록입니다. 제목의 지역명과 검색어로 분류했으므로 일부 분류가 다를 수 있고, 정확한 내용은 원문 링크로 확인하세요.",
+            "구글 뉴스 검색 결과를 매일 자동으로 모은 목록입니다. 여러 매체가 같은 보도자료를 실은 기사는 한 묶음으로 보여 주며, 해외 상하수도 소식은 [해외]로 따로 모읍니다. 제목의 지역명과 검색어로 분류했으므로 일부 분류가 다를 수 있고, 정확한 내용은 원문 링크로 확인하세요.",
         ],
     }
     json.dump({"articles": arts, "reports": make_reports(arts), "meta": meta}, open(DATA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
