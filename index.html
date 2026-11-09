@@ -195,7 +195,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
     parts.push(`<span>다음 갱신 <b>매일 08:00 KST</b></span>`);
     parts.push(`<span>수집 기사 <b>${state.articles.length}</b>건 (개인하수처리시설 <b>${state.articles.filter(isFocus).length}</b>건)</span>`);
     parts.push(`<span>지역 <b>${list.filter(r=>counts[r]>0).length}</b>곳</span>`);
-    parts.push(`<a class="refresh" id="runBtn" href="https://github.com/doctor2442-glitch/water_news/actions/workflows/collect.yml" target="_blank" rel="noopener" title="GitHub에서 Run workflow를 누르면 바로 수집합니다 (저장소 주인만 가능)">↻ 지금 수집하기</a><span class="checked" id="checked" aria-live="polite">${state.checkedAt?esc(state.checkedAt):""}</span>`);
+    parts.push(`<span class="checked" id="checked" aria-live="polite">${state.checkedAt?esc(state.checkedAt):""}</span>`);
     $("status").innerHTML=parts.join("");
   }
 
