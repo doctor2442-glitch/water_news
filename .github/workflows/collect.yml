@@ -1,0 +1,31 @@
+name: 기사 수집
+
+on:
+  schedule:
+    - cron: "47 22 * * *"   # 매일 오전 7시 47분(한국시간)
+  workflow_dispatch:         # Actions 화면의 Run workflow 버튼으로 바로 실행
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 구글 뉴스에서 기사 모으기
+        run: python scripts/collect.py
+      - name: 바뀐 data.json 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "기사 자동 수집 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          git push
