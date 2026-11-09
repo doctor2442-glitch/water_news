@@ -54,7 +54,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .search{margin-left:auto;min-width:0;flex:0 1 220px}
 .search input{width:100%;font:inherit;font-size:14px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink)}
 
-.main{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:32px;align-items:start}
+.main{display:grid;grid-template-columns:minmax(0,1fr);gap:32px;align-items:start}
 .report{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:22px;display:flex;flex-direction:column;gap:14px;position:sticky;top:calc(env(safe-area-inset-top,0px) + 64px)}
 .report .meta{font-family:var(--f-data);font-size:12px;color:var(--muted)}
 .report p{margin:0}
@@ -144,7 +144,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
   <nav class="tabs" id="tabs" aria-label="지역 선택"></nav>
 
   <section class="main">
-    <article class="report" id="report" aria-live="polite"></article>
+    <article class="report" id="report" aria-live="polite" hidden></article>
     <div class="feed">
       <div class="feed-head"><h2 id="feedTitle">기사</h2><div class="r"><div class="topics" id="topics" role="group" aria-label="주제 선택"><button type="button" data-t="전체" aria-pressed="true">전체</button><button type="button" data-t="개인하수" aria-pressed="false">개인하수처리시설</button><button type="button" data-t="일반" aria-pressed="false">상하수도 일반</button></div><span id="feedCount"></span><button class="pdf" type="button" id="pdfBtn" hidden>PDF로 받기</button><span class="pdfmsg" id="pdfMsg" aria-live="polite"></span></div></div>
       <div id="list"></div>
@@ -307,7 +307,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
     if(!items.length) return;
     const label=state.region==="전체"?"전체":state.region;
     const key=state.region==="전체"?"전국":state.region;
-    const r=state.reports[key];
+    const r=null;
     btn.disabled=true;msg.textContent="PDF를 만드는 중입니다…";
     try{
       await loadLibs();
@@ -350,7 +350,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
   $("pdfBtn").onclick=makePdf;
   document.querySelectorAll("#topics button").forEach(b=>b.onclick=()=>{state.topic=b.dataset.t;renderList()});
 
-  function renderAll(){renderStatus();renderOverall();renderTabs();renderReport();renderList();}
+  function renderAll(){renderStatus();renderOverall();renderTabs();renderList();}
   renderAll();
 
   async function loadData(manual){
