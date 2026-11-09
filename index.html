@@ -60,9 +60,15 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .report p{margin:0}
 .report h3{font-size:13px;letter-spacing:.06em;color:var(--muted);margin:4px 0 0;font-weight:600}
 .report ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}
-.refresh{font:inherit;font-size:13px;border:1px solid var(--accent);background:var(--accent);color:var(--surface);padding:3px 12px;border-radius:999px;cursor:pointer;font-weight:600}
+.refresh{text-decoration:none;display:inline-block;font:inherit;font-size:13px;border:1px solid var(--accent);background:var(--accent);color:var(--surface);padding:3px 12px;border-radius:999px;cursor:pointer;font-weight:600}
 .refresh:disabled{opacity:.6;cursor:default}
 .runlink{font-size:12px;color:var(--muted)}
+.rel{margin-top:8px;font-size:13px}
+.rel summary{cursor:pointer;color:var(--accent);font-weight:600;width:max-content;max-width:100%}
+.rel ul{margin:6px 0 0;padding-left:0;list-style:none;display:flex;flex-direction:column;gap:4px;border-left:2px solid var(--line);padding-left:10px}
+.rel time{font-family:var(--f-data);font-size:12px;color:var(--muted)}
+.rel .rs{color:var(--muted);font-size:12px}
+.rel a{color:var(--ink)}
 .checked{font-size:12px;color:var(--muted)}
 .copy,.pdf{align-self:flex-start;font:inherit;font-size:13px;border:1px solid var(--line);background:transparent;color:var(--ink);padding:5px 12px;border-radius:4px;cursor:pointer}
 .copy:hover,.pdf:hover{border-color:var(--ink)}
@@ -157,7 +163,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
 
 <script>
 (function(){
-  const REGION_ORDER=["서울","부산","대구","인천","광주","대전","울산","세종","경기","강원","충북","충남","전북","전남","경북","경남","제주","전국"];
+  const REGION_ORDER=["서울","부산","대구","인천","광주","대전","울산","세종","경기","강원","충북","충남","전북","전남","경북","경남","제주","전국","해외"];
   const ALWAYS=["제주"];
   const state={articles:[],reports:{},meta:null,region:"전체",q:"",loaded:false};
   const $=id=>document.getElementById(id);
@@ -189,9 +195,8 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
     parts.push(`<span>다음 갱신 <b>매일 08:00 KST</b></span>`);
     parts.push(`<span>수집 기사 <b>${state.articles.length}</b>건 (개인하수처리시설 <b>${state.articles.filter(isFocus).length}</b>건)</span>`);
     parts.push(`<span>지역 <b>${list.filter(r=>counts[r]>0).length}</b>곳</span>`);
-    parts.push(`<button class="refresh" type="button" id="refreshBtn">↻ 최신 내용 불러오기</button><a class="runlink" href="https://github.com/doctor2442-glitch/water_news/actions/workflows/collect.yml" target="_blank" rel="noopener" title="저장소 주인만 실행할 수 있습니다">지금 수집하기(관리자)</a><span class="checked" id="checked" aria-live="polite">${state.checkedAt?esc(state.checkedAt):""}</span>`);
+    parts.push(`<a class="refresh" id="runBtn" href="https://github.com/doctor2442-glitch/water_news/actions/workflows/collect.yml" target="_blank" rel="noopener" title="GitHub에서 Run workflow를 누르면 바로 수집합니다 (저장소 주인만 가능)">↻ 지금 수집하기</a><span class="checked" id="checked" aria-live="polite">${state.checkedAt?esc(state.checkedAt):""}</span>`);
     $("status").innerHTML=parts.join("");
-    $("refreshBtn").onclick=()=>loadData(true);
   }
 
   function renderOverall(){
@@ -268,16 +273,23 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
   function renderList(){
     const items=currentItems();
     $("feedTitle").textContent=state.region==="전체"?"전체 기사":`${state.region} 기사`;
-    $("feedCount").textContent=`${items.length}건 · 개인하수처리시설 먼저`;
+    $("feedCount").textContent=`${groupItems(items).length}건 · 개인하수처리시설 먼저`;
     document.querySelectorAll("#topics button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.t===state.topic)));
     renderPdfBtn(items.length);
     if(!state.loaded){$("list").innerHTML=`<p class="empty">기사를 불러오는 중입니다.</p>`;return}
     if(!items.length){$("list").innerHTML=`<p class="empty">${state.articles.length?"이 지역(또는 조건)에 맞는 최근 기사가 없습니다.":"아직 수집된 기사가 없습니다. 매일 오전 8시에 새 기사가 이곳에 쌓입니다."}</p>`;return}
-    const fo=items.filter(isFocus),ge=items.filter(a=>!isFocus(a));
-    const grp=(t,arr)=>arr.length?`<div class="grp">${t} <b>${arr.length}</b>건</div>`+arr.map(itemHtml).join(""):"";
+    const groups=groupItems(items);
+    const fo=groups.filter(g=>isFocus(g[0])),ge=groups.filter(g=>!isFocus(g[0]));
+    const grp=(t,arr)=>arr.length?`<div class="grp">${t} <b>${arr.length}</b>건${arr.some(g=>g.length>1)?` <span style="font-weight:400">(같은 내용 기사 묶음 포함 ${arr.reduce((n,g)=>n+g.length,0)}건)</span>`:""}</div>`+arr.map(g=>itemHtml(g[0],g.slice(1))).join(""):"";
     $("list").innerHTML=grp("개인하수처리시설",fo)+grp("상하수도 일반",ge);
   }
-  function itemHtml(a){
+  function groupItems(items){
+    const map=new Map();
+    items.forEach(a=>{const k=a.group&&items.some(b=>b.url===a.group)?a.group:a.url;if(!map.has(k))map.set(k,[]);map.get(k).push(a)});
+    return [...map.entries()].map(([k,arr])=>{const i=arr.findIndex(a=>a.url===k);if(i>0)arr.unshift(arr.splice(i,1)[0]);return arr});
+  }
+  function itemHtml(a,rel){
+      rel=rel||[];
       const warn=WARN.test(a.title+" "+(a.tags||[]).join(" "));
       const f=isFocus(a);
       return `<div class="item${f?" is-focus":""}">
@@ -287,6 +299,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
           <h4><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h4>
           ${a.summary?`<p>${esc(a.summary)}</p>`:""}
           ${a.figures?.length?`<div class="figs">${a.figures.map(f=>`<span class="fig">${esc(f)}</span>`).join("")}</div>`:""}
+          ${rel.length?`<details class="rel"><summary>같은 내용 기사 ${rel.length}건 더 보기</summary><ul>${rel.map(r=>`<li><time>${esc(fmtDate(r.date))}</time> <span class="rs">${esc(r.source)}</span> <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a></li>`).join("")}</ul></details>`:""}
         </div></div>`;
   }
 
@@ -353,27 +366,26 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
   function renderAll(){renderStatus();renderOverall();renderTabs();renderList();}
   renderAll();
 
-  async function loadData(manual){
-    const btn=$("refreshBtn");
-    if(btn){btn.disabled=true;btn.textContent="불러오는 중…"}
-    const before=state.meta?.lastRunText;
+  async function loadData(auto){
     try{
       const res=await fetch("data.json?t="+Date.now(),{cache:"no-store"});
       if(!res.ok) throw new Error(res.status);
       const d=await res.json();
-      state.articles=(d.articles||[]);
-      const o={};(d.reports||[]).forEach(v=>{o[v.region||v.id]=v});state.reports=o;
-      state.meta=d.meta||null;
+      const changed=!state.loaded||JSON.stringify(d.meta)!==JSON.stringify(state.meta);
       const t=new Date(Date.now()+9*3600e3).toISOString().slice(11,16);
-      state.checkedAt=t+" 확인"+(manual?(before===state.meta?.lastRunText?" · 바뀐 내용 없음":" · 새 내용 반영"):"");
-      state.loaded=true;renderAll();
+      if(changed){
+        state.articles=(d.articles||[]);
+        const o={};(d.reports||[]).forEach(v=>{o[v.region||v.id]=v});state.reports=o;
+        state.meta=d.meta||null;
+        state.checkedAt=auto?t+" 새 내용 반영":"";
+        state.loaded=true;renderAll();
+      }else if($("checked")){$("checked").textContent=t+" 자동 확인 · 바뀐 내용 없음"}
     }catch(e){
-      state.loaded=true;
-      if(manual&&state.articles.length){renderAll();$("checked").textContent="불러오지 못했습니다. 잠시 후 다시 눌러 주세요"}
-      else{$("status").innerHTML=`<span class="note">데이터 파일(data.json)을 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</span>`;renderReport();renderList()}
+      if(!state.loaded){state.loaded=true;$("status").innerHTML=`<span class="note">데이터 파일(data.json)을 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</span>`;renderList()}
     }
   }
   loadData(false);
+  setInterval(()=>{if(!document.hidden)loadData(true)},120000);
 })();
 </script>
 
