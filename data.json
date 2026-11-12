@@ -1,6 +1,352 @@
 {
  "articles": [
   {
+   "title": "인천환경공단, 한국상하수도협회와 손잡고 하수도 전문인력 키운다",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Fb284MjIyR0tMWkNLcEhjTHhWSWdRM3NTQ1JpdUJwSjY2MDFKRWpQcnQ0ZC1xQVBtNWlrbDA4MG5ZZlpEajNvWUxFdlM5ODF5WnBsX0JNNEZCdDZWQXZmeQ?oc=5",
+   "source": "메트로신문",
+   "date": "2026-11-12",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "구미하수처리장, 수질분석 국제숙련도 5년 연속 최우수",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FMFNkU3RQWC1wSF9OdzZXNWcxc3BJSHVwUkJZOGMwSEx1OHpXVEtYdXJkLTFDODA3MFQ2U2ZWWDZLVUdQT3pNVmpkcnRsRnI1ZjNJYmJzZHAzYkl6SzdVaVVJSXdFeWpTb2c?oc=5",
+   "source": "www.hidomin.com",
+   "date": "2026-11-12",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VbnZ5UVY1YWhYcEVhTjNwazR4Q0dOSnNQcnJsMzlMenVLWlRIMXU3dkVHTDRuVTRXRlBTLVkzdnM5OW95M3JOdGVUVFV3MFBBdVJvb3U1bmFvS0VlWU1tZDdhUVFVRUVobXpn?oc=5"
+  },
+  {
+   "title": "서울특별시의회 도시안전건설위원회, 행감 중 서남물재생센터 현장방문 실시, 하수처리시설 및 시설현대화 사업 점검",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSTI4WE1jWjRsT0REZ1FBeW5GTHlDektFWGNhUHhhamVsQVB6X3Bub1lEQXJVWEQySFM5cWlralVmVGFrbTZQRXBXLVBjejJzdXRPaFFvYTlkNGItbUwzTHcyaWN6Z004?oc=5",
+   "source": "서울자치신문",
+   "date": "2026-11-12",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWFZiVmktTkxnSTdGN01iaURzQmZhbVdPS0ZXNzYyUERvT21ZUk5hZ01NNjZyTDdDeDFNU2VWR29QQjVRYzJDcGc2U3NZM0lHRlg4LTIzeWk?oc=5"
+  },
+  {
+   "title": "공우석 시의원 \"노후 하수관로 정비 기준안…정비 시점 미정으로 우려\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMnFnUHNZVVhhUTdqR2hQVjQ2MjBiUlpTQ3ZaekJGTHJYcEhmNU9TcGl4V2hYc0Jaa2ZDYnlrVFhiMmE1SjlxcVFYRWlPcHBpTW9laHJnRHgwMXZQ?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-12",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByQWdkRFhGOHFaV2xSMFVXS0lSUHFaeDdIeld0RVBZaFZ5Vlg4cFVfRmx3bGVjTTNJU1NqVERpQlhSRjNKUWVlOTBWWE5wM3NRSEpic0d0blZ3X3VZZXRDQTlkNndfUEI0TjF3?oc=5"
+  },
+  {
+   "title": "대기압 차로 오수를 옮기는 진공 하수관",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iR21aWHp5Ykphd2hEQk5MakdmSENXZlFWWWhnZFM2dnlFU003MUstckRwYTNEYVZGRkhRT2t4UUdSTG8zR1p3SWxFekU2bmQtUUNUNnpGbFlFOGs3akdDLU5oaUxiZw?oc=5",
+   "source": "비건뉴스",
+   "date": "2026-11-12",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iR21aWHp5Ykphd2hEQk5MakdmSENXZlFWWWhnZFM2dnlFU003MUstckRwYTNEYVZGRkhRT2t4UUdSTG8zR1p3SWxFekU2bmQtUUNUNnpGbFlFOGs3akdDLU5oaUxiZw?oc=5"
+  },
+  {
+   "title": "원주시, 맨홀 관리기관 협업 체계 강화로 시민 불편 즉각 해소",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRVl1Z1N2Qkxxb3V6NjFfUjNDbV92NWhuU2VXNC1rWmxDMjZuWFJMV2d1d0dmdDFsRlIzZXV0Z3UtOWN4QWZKRldzV2kxQWlzbHMwZU9jZHM2MW5YUk11dWdGaVFESTA?oc=5",
+   "source": "강원도민일보",
+   "date": "2026-11-12",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRVl1Z1N2Qkxxb3V6NjFfUjNDbV92NWhuU2VXNC1rWmxDMjZuWFJMV2d1d0dmdDFsRlIzZXV0Z3UtOWN4QWZKRldzV2kxQWlzbHMwZU9jZHM2MW5YUk11dWdGaVFESTA?oc=5"
+  },
+  {
+   "title": "고양시 매년 하수도 요금 인상만 낡은 관로 고칠 돈, 통장서 ‘쿨쿨’",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2JGQnNzN2VGMU1TRTI4eUpkMC1qNlQ3MWFrdGFON1lsNU4taEJOV0RyLTBMTFZuS2FBTTREcXJMaDBKN1J4Q1QyOW9EMm5UYW0teXdhbWVaeTBUYURualZRRnowSmtYNk5ZU3hQN2lwenFmZ3lvblVFNEM2TTlDcU9JNlV1dw?oc=5",
+   "source": "기호일보",
+   "date": "2026-11-12",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2JGQnNzN2VGMU1TRTI4eUpkMC1qNlQ3MWFrdGFON1lsNU4taEJOV0RyLTBMTFZuS2FBTTREcXJMaDBKN1J4Q1QyOW9EMm5UYW0teXdhbWVaeTBUYURualZRRnowSmtYNk5ZU3hQN2lwenFmZ3lvblVFNEM2TTlDcU9JNlV1dw?oc=5"
+  },
+  {
+   "title": "원주시, 도로·인도 맨홀 불편 해소 총력… 신속 연계·정비 체계 가동",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ZWVrU244ckVKdEVTRXhPVHVYWXItRVJMUjRSVHhDbXh0c2E5U0dzODdnczhfaTdQczdiYzlYRDFqckk2UjdJV0lhS201ZXliWTNReXdQN25JQQ?oc=5",
+   "source": "한국현대미술신문",
+   "date": "2026-11-12",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRVl1Z1N2Qkxxb3V6NjFfUjNDbV92NWhuU2VXNC1rWmxDMjZuWFJMV2d1d0dmdDFsRlIzZXV0Z3UtOWN4QWZKRldzV2kxQWlzbHMwZU9jZHM2MW5YUk11dWdGaVFESTA?oc=5"
+  },
+  {
+   "title": "원주시, 도로·인도 맨홀 불편 해소 총력…신속 정비 체계 가동",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PMGh0c044cEM1cHBORFZLTTY3MUFjWFdxV0pOUjU3aWlETTlaYjJ4U3FTQUVlcF82ZS1ZLUd6WGZiVllZY2RRZTZmQTVOMElvX1FmQ0tyVURTLUJ4bzRoc0ZJZ3hPLUplRW04?oc=5",
+   "source": "일간투데이",
+   "date": "2026-11-12",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRVl1Z1N2Qkxxb3V6NjFfUjNDbV92NWhuU2VXNC1rWmxDMjZuWFJMV2d1d0dmdDFsRlIzZXV0Z3UtOWN4QWZKRldzV2kxQWlzbHMwZU9jZHM2MW5YUk11dWdGaVFESTA?oc=5"
+  },
+  {
+   "title": "김천시, 경로당 상수도 요금 감면 시행",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Sb3owSGFkMzhZX3BOUVdZUmF1X1pPQzJvRUkzQU5KWWFZa2stUE1IMUdpUVViYldOSFdVYzNiNFc4MXVmbUtXaWF0dVhYcy1EV3VxVkhhcUY1NW1vTzVrY1hHRDZJUQ?oc=5",
+   "source": "데일리대구경북뉴스",
+   "date": "2026-11-12",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도",
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Sb3owSGFkMzhZX3BOUVdZUmF1X1pPQzJvRUkzQU5KWWFZa2stUE1IMUdpUVViYldOSFdVYzNiNFc4MXVmbUtXaWF0dVhYcy1EV3VxVkhhcUY1NW1vTzVrY1hHRDZJUQ?oc=5"
+  },
+  {
+   "title": "백영현 포천시장, 효신산업 찾아 기업 애로 청취…노후 상수도관 교체 검토",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kYjc3bVRfWHdvY2FaRVdDTXRJTUVuQVdFQi11WlluV1hKMVNUSXJkcS05SkVGc2hFOXA3Q3pfaGVHWWgxQkk3LWgzSkduQnJnc2pBZkZpVjlwZThrS0YxWERiWjNydw?oc=5",
+   "source": "포천일보",
+   "date": "2026-11-12",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kYjc3bVRfWHdvY2FaRVdDTXRJTUVuQVdFQi11WlluV1hKMVNUSXJkcS05SkVGc2hFOXA3Q3pfaGVHWWgxQkk3LWgzSkduQnJnc2pBZkZpVjlwZThrS0YxWERiWjNydw?oc=5"
+  },
+  {
+   "title": "원주시, 상수도 급수공사 신청 11월30일 마감",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mdHl0NEw5ZWhJQzQ0empQWUtndkRnbWx4S24wdWpRenljdEZtRUxoV0h0aERsYW5Xa0Q3MnlUWU5sYzhtWUJlOXcwZmowQndfbUgwMDFNamNxdVU?oc=5",
+   "source": "강원일보",
+   "date": "2026-11-12",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LYWkzSGNSSHJLVVRiX0tIYmhCUGRDMG9razkzQlFqaDNzNE9EcE5hMGo2enpJRGdWQlk4MFdUTjhPamV1a2ZDYWRHMXBiYVpFMGNraU5EZGZXNnFqSERwTkxLNzJTU29nVnZYS1ZfYWt5akdmcUHSAWBBVV95cUxNUWh1b0JsUGx3cXJKLUd0VHBoaV9XR1JuQlZ6S3M3b0ZnejI5N0RSWU9JWE1CTThiQm5tc1pKZG04d3AxU1REOWN0aVdNVU5xX2hlRURXd1pnbnhudks3ZFk?oc=5"
+  },
+  {
+   "title": "전북도 \"'전주 망간 수돗물' 피해 보상, 수공과 협의\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVkJicGM2bURnWi1jTkpIRzRWeHhna1J3Q25BcnN6aTlYZnNXM1Q4YUFtcF9CQkxvZU1iVlpTbnpjTm5xdW05d0ZDeE5SX2lxVFJaX2ZOWEl5WWPSAWBBVV95cUxPRHc4dlZ6UVd3bGNGRHo0aGFLT1BsUHV0WFZYYk05SXVlUk53TnpyNEl4RGtoSzlGek54OUpVeFN2WmJDeUhwUmNLLWRTNGE3UEJWZzZwQ2d1T0ptdVVrckQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-12",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVkJicGM2bURnWi1jTkpIRzRWeHhna1J3Q25BcnN6aTlYZnNXM1Q4YUFtcF9CQkxvZU1iVlpTbnpjTm5xdW05d0ZDeE5SX2lxVFJaX2ZOWEl5WWPSAWBBVV95cUxPRHc4dlZ6UVd3bGNGRHo0aGFLT1BsUHV0WFZYYk05SXVlUk53TnpyNEl4RGtoSzlGek54OUpVeFN2WmJDeUhwUmNLLWRTNGE3UEJWZzZwQ2d1T0ptdVVrckQ?oc=5"
+  },
+  {
+   "title": "전주시, 수돗물 필터 변색 공동대응…10개 배수지 망간 ‘불검출’",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OUmRKMnRxOGpiUW81aTkxdHRkYlVUTnVSRk82QVdjZXBVNEtkU3VJRHNQVThFNGJBUVgyRVhhTXZNeWtOX3ZNbVpjc1JTQl8xQmNJSHFIVERoWnRZRUdmaVlTb216UGE2bHlTT0E3TG44YWVHUGIyTjY0TjZzUQ?oc=5",
+   "source": "더파워",
+   "date": "2026-11-12",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xS3VtczA5VXBja3V0dXQ2enRmMVRGNG9sSkg4R2s4dXdicTZtZTNqM2tQRFF6ZHA0THo4SVRfZHdLTmM2QVVBbFM3M2pYTk1fV2lGYXZkWHFzalBSWC1VejNRTE1ySmJfSjYxd1dqT0NkaEhFS3pwMktqNXBmZw?oc=5"
+  },
+  {
+   "title": "부산시의회 조용우 의원, 수돗물 과불화화합물 지속 검출 지적…근본 대책 촉구",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtdFVJdHNZOEJjZHR1VmxteXZmdV9HeVdGUjJwUTNNelNrMy1WZ0hqa1paak5wWWU3LUpId195TlRHRW1UNDRSalhnMGNjMG5nTmVBQWpCeFNQOWJrV1hSeGRXX0JHZFc1STUtNDNQNXllZw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-12",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rS3dMMUVfdXlrM3lNUFBDYUF4Rnd2QkRyQVlMdG1FVDBIWElyaGp5ODRCMTZZUkw4NVpBdWtFdFRwZw?oc=5"
+  },
+  {
+   "title": "‘온기 가득한 김장 나눔’···대구 옛 두류정수장서 13~15일 ‘농·특산물 직거래 행사’도",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YREpSYUVkRHNXT0ljeXNfY2FKRERPWndSRDFUeE9TbExRQ21XMUtrZ2ZEeE5rNjk2SU5fZjJyU2F2UjlOdFVfY2FIaWxrRkk1SC1TWVRRb2psaTB5ZWtv0gFfQVVfeXFMTVhESlJhRWREc1dPSWN5c19jYUpERE9ad1JEMVR4T1NsTFFDbVcxS2tnZkR4Tms2OTZJTl9mMnJTYXZSOU50VV9jYUhpbGtGSTVILVNZVFFvamxpMHlla28?oc=5",
+   "source": "경향신문",
+   "date": "2026-11-12",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmM9IBYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmMw?oc=5"
+  },
+  {
+   "title": "“시내버스 준공영제 연 1천억 투입… 혈세 누수 없애야”",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qMXRBbzFGZ21wV1RmTi1hdzJYemtTZTZBU1ZYWl9ZLU11T013MmltUm8wMWNpZExTRjFVUnI5SHR2aDNFSFdWZGh1OFZUR3BLYXpTSEdPekF6RXNOUmNCUVI3Zw?oc=5",
+   "source": "쿠키뉴스",
+   "date": "2026-11-12",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qMXRBbzFGZ21wV1RmTi1hdzJYemtTZTZBU1ZYWl9ZLU11T013MmltUm8wMWNpZExTRjFVUnI5SHR2aDNFSFdWZGh1OFZUR3BLYXpTSEdPekF6RXNOUmNCUVI3Zw?oc=5"
+  },
+  {
+   "title": "포천시, 덴마크서 가축분뇨 자원화 기술 살핀다",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VRF93MkRjVUwwMl9mb0drZ2dDSmRJTVlpZ3R2V1pQalY5bnJaVEljRTktczU2YklIZHQyVkt4bk1aQ0MwQUIyd1dJVUpaNjYta2tUSS1jUjRjYUxzTnpCdTJoZ0w?oc=5",
+   "source": "매일일보",
+   "date": "2026-11-12",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VRF93MkRjVUwwMl9mb0drZ2dDSmRJTVlpZ3R2V1pQalY5bnJaVEljRTktczU2YklIZHQyVkt4bk1aQ0MwQUIyd1dJVUpaNjYta2tUSS1jUjRjYUxzTnpCdTJoZ0w?oc=5"
+  },
+  {
+   "title": "포천시, 덴마크서 가축분뇨 자원화·악취 저감 사례 살핀다",
+   "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9tQUprZ3VUa1AzZjBzdnFoRHgwVnlqMGVTeWdSbGpvcEluZGZxMG02bWpicmFERDlBc054aw?oc=5",
+   "source": "포천매일뉴스",
+   "date": "2026-11-12",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "악취"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VRF93MkRjVUwwMl9mb0drZ2dDSmRJTVlpZ3R2V1pQalY5bnJaVEljRTktczU2YklIZHQyVkt4bk1aQ0MwQUIyd1dJVUpaNjYta2tUSS1jUjRjYUxzTnpCdTJoZ0w?oc=5"
+  },
+  {
+   "title": "무안군, 가축분뇨 퇴비화 발효시스템 시연·평가회 개최",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fR1hva3hyMzRBNl9CTUJ6YlB5SklXTlpEVE9IeVZGSWVOZTY0c3ZDMEhNSW5UeWRiQWJYQ3F6UGtEdTIzRHhZNUFhTFBYR245SHlONVpBcFhQdFE1MmloZnNBbVFTc08yR2Nz?oc=5",
+   "source": "광주전남일보",
+   "date": "2026-11-12",
+   "region": "전남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fR1hva3hyMzRBNl9CTUJ6YlB5SklXTlpEVE9IeVZGSWVOZTY0c3ZDMEhNSW5UeWRiQWJYQ3F6UGtEdTIzRHhZNUFhTFBYR245SHlONVpBcFhQdFE1MmloZnNBbVFTc08yR2Nz?oc=5"
+  },
+  {
+   "title": "[5부작기획, 제2부] 제주 상수도 적자 눈덩이…2030년 적자 382억 전망…5년 새 134억 증가",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01OEtGWHZ5bnBOWlFlWVlWbFFoRHRWZWEta0ptdzB0TDdmYWY3b1Etd0g1WExvYmtfdW5rbWp3ejJyenk3eGhoejJaREFSN2FNOGZhVU1qNVRHYXBHVkl1MEpwTl8xUzdWLXfSAW5BVV95cUxNOEJBXzB2VmZnMEJpbWVnd2l0eGM2TkNZQlBWWGtYbjlwSEhJcXV2cXNMaDAzZ0pOX0RMOTExYkc5Zm80QTBGNjRPblBYNGRyalBUM0l3b19sVzFYZGgxcnF4bVR2V1NCTl9saS1CQQ?oc=5",
+   "source": "제주뉴스",
+   "date": "2026-11-12",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01OEtGWHZ5bnBOWlFlWVlWbFFoRHRWZWEta0ptdzB0TDdmYWY3b1Etd0g1WExvYmtfdW5rbWp3ejJyenk3eGhoejJaREFSN2FNOGZhVU1qNVRHYXBHVkl1MEpwTl8xUzdWLXfSAW5BVV95cUxNOEJBXzB2VmZnMEJpbWVnd2l0eGM2TkNZQlBWWGtYbjlwSEhJcXV2cXNMaDAzZ0pOX0RMOTExYkc5Zm80QTBGNjRPblBYNGRyalBUM0l3b19sVzFYZGgxcnF4bVR2V1NCTl9saS1CQQ?oc=5"
+  },
+  {
+   "title": "용인에 용수 공급하는데 세수는 0원… 법 개정 나선 이충우 여주시장 [기초단체장에게 듣는다]",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BeFFRbjJJQXJQSEFaX3F0bkNwVjJZdWU0MEZFOU16UlBhZmttQlZJdFZxYU5KMUhHc3F0Ykw2X2FSaDVIZXlWcjE0MWxCcm8wLUZqRWl0TVhhX1RpX0kxZDlGOVBBdzJWMDhYYmRB0gFzQVVfeXFMUHhJTHphR2VwTjNxdnM0UGQ5R0k0MGFXUGY0eWRDU21Sbi10OE4wZ19kTGJoX1BOT2VJdmVoUlhtN2pScE9hbFVpcGYyelRrUWlYNnd1aGhkeWUzTGhJZkhERFVSYi1UWk5RYnAwQWpEZnRaSQ?oc=5",
+   "source": "한국일보",
+   "date": "2026-11-12",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "제도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BeFFRbjJJQXJQSEFaX3F0bkNwVjJZdWU0MEZFOU16UlBhZmttQlZJdFZxYU5KMUhHc3F0Ykw2X2FSaDVIZXlWcjE0MWxCcm8wLUZqRWl0TVhhX1RpX0kxZDlGOVBBdzJWMDhYYmRB0gFzQVVfeXFMUHhJTHphR2VwTjNxdnM0UGQ5R0k0MGFXUGY0eWRDU21Sbi10OE4wZ19kTGJoX1BOT2VJdmVoUlhtN2pScE9hbFVpcGYyelRrUWlYNnd1aGhkeWUzTGhJZkhERFVSYi1UWk5RYnAwQWpEZnRaSQ?oc=5"
+  },
+  {
    "title": "[저널25방송 팩트체크 결론] 보령시 배수설비 행정관리 어디까지 했나… 신고·검사는 비공개, 사후 점검은 기록 부존재",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwXzBaMTIzOUREdTNtTnBVSDl6Zy0zMm1zZnFfMnRYQlhuZ1VXcWloamN3UUxBakJRdjNpdzJDZXZuRklMd0N1Q3JneTJ0Z2NvNl90ZUVfb29aLU4wOW10R2JiancwUTN0ZmJqeA?oc=5",
    "source": "저널25방송",
@@ -650,6 +996,1571 @@
    "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONWtrUE9rWTJaVElCUXVpQ1M5ODlxSUNKTXN3QmlDel8tM2xTYzc0bTVHYXpRS2VNNHRVRHVkaTFUX1RXTEZvMWI2eW9qUkpMaEdzbDJZeGNUdlZzX2ZTSFFDZjVkTTJHR3F3ZW130gFuQVVfeXFMTk41a2tQT2tZMlpUSUJRdWlDUzk4OXFJQ0pNc3dCaUN6Xy0zbFNjNzRtNUdhelFLZU00dFVEdWRpMVRfVFdMRm8xYjZ5b2pSSkxoR3NsMll4Y1R2VnNfZlNIUUNmNWRNMkdHcXdlbXc?oc=5"
   },
   {
+   "title": "서울시의회 도시안전건설위원회, 서남물재생센터 현장방문 실시… 하수처리시설 및 시설현대화 사업 점검",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5veEFBMnR3VUxNNjdXY3hLcE4xODJlM0tDaVlKYmpBYzQ1ak0zRnJHRXdQUGxOdHlkUjJId3N3Y0UweTFhT0RENjlDVVF1d2dfWFRYd3RNZlJPeFRuUC0tSDJ1LUpwSGU5QlE?oc=5",
+   "source": "서울Pn",
+   "date": "2026-11-11",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWFZiVmktTkxnSTdGN01iaURzQmZhbVdPS0ZXNzYyUERvT21ZUk5hZ01NNjZyTDdDeDFNU2VWR29QQjVRYzJDcGc2U3NZM0lHRlg4LTIzeWk?oc=5"
+  },
+  {
+   "title": "\"부산 수돗물 과불화화합물 지속 검출에도 대응 미흡\" 행감서 지적",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aU2h3LXFWNzRFY2lZQnNfRzFwU0k1WVNiWGY1WGR6Z2VwOE1va1hxNER4VTA1U0hkRldJYnJrenZjT2ZKWnhXd29jZUp2eFZGbENCd0FkNmk3QQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aU2h3LXFWNzRFY2lZQnNfRzFwU0k1WVNiWGY1WGR6Z2VwOE1va1hxNER4VTA1U0hkRldJYnJrenZjT2ZKWnhXd29jZUp2eFZGbENCd0FkNmk3QQ?oc=5"
+  },
+  {
+   "title": "조용우 부산시의원 “수돗물 안전, 검사 통과면 끝인가?” 과불화화합물 등 유해물질 관리 집중 추궁",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KNzRudE9ua01rc2c3d3FDcUFITm9IZWVsbUExM3prWU94a1NrNThLLVlMRnVEV0Z4akh2Nl9SUm5Id3V4M2RyODNxOHZLdVY0ejdTVHVUSU1GRUZxVUV6RHJn?oc=5",
+   "source": "시사매거진",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KNzRudE9ua01rc2c3d3FDcUFITm9IZWVsbUExM3prWU94a1NrNThLLVlMRnVEV0Z4akh2Nl9SUm5Id3V4M2RyODNxOHZLdVY0ejdTVHVUSU1GRUZxVUV6RHJn?oc=5"
+  },
+  {
+   "title": "인천환경공단 한국상하수도협, 하수도 전문인력 양성 위해 ‘맞손’",
+   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5",
+   "source": "중앙신문",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "인천환경공단, 한국상하수도협회와 하수도 전문인력 양성·현장 실무교육 강화 협약",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcHZKV3RpOGdkdjYyMDZtbWI2QXpxTjZ2SW1XNmlNSmhRTVBVc3o4WUdPb2RIdHBtc1FObkFPN2ZDd3hYYUJvQ1Y1TUpPRC1rR3dFTnlfR1B1cmJzaUVNYXlod1E1cms1?oc=5",
+   "source": "경인매일",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "인천환경공단, 한국상하수도협회와 하수도 전문인력 양성 ‘맞손’",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BdEVoUXVvTTRIdEdTNlROYTFVRWFYLXU4Z1g2bmI3R1dpTU5ITWpxZzFpVzE5dWZtTVFhd05Nd0RiSDhURzc2Q0lHZnlRZG91N3pyMFREQ1l1bF83UG5sZ1UyTnE1MjNHSW13?oc=5",
+   "source": "일간투데이",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "“하수도 안전·운영 역량 끌어올린다”… 인천환경공단·한국상하수도협회, 전문인력 양성 협약",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pcjRTUkFlR3I0bnloa2l1NWVhLWVtSGJfQWkxQnJ5aUVhcGlkYld6ZndZVmRqcXg3RUxCaVdHY0VyR2RxTFBrTVR2X3hKVWZsVnlUdnVKUl9rUWlpWGdOT2RYSDRhbkQwWGdMeA?oc=5",
+   "source": "복지투데이",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "인천환경공단, 한국상하수도협회와 전문인력 양성 업무협약 체결",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZDFIenJCeDFXbzVta0c1bVhTQ1c1SkRpVVVMcGRoSDlKX1FVZHZRaDVhbmRzZWE5RVQ0aXNaSlBVTXc3Y0poNi16X2lSQzVsWFhBdWlNbnhzTWZ0VDdKNlBrazVmS3V0dGc?oc=5",
+   "source": "경기도민일보 미디어",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "인천환경공단·한국상하수도협회, 전문인력 양성 MOU",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTTBzOWp5dms1RE9YY3NCMHJEQkxrN2RzOTY5eGtwSlMwdk9ZSTdjQTB1emVYajV5bEwtRlg1VEp3YktWODNnc1N2RmNVVG41Z1l5STJtRlVEUGdCRTZDRWxRTWFqVjU1cWdZS2pn?oc=5",
+   "source": "국제뉴스",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "장신상 횡성군수, 공공하수처리시설 중대재해 예방 특별점검",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MHlaOEhXUnBLTDJsd042Z09fN2VHbTdicmViRnpPeVo0V05DS0pFVVNJSjB0N0pKaTQwMGRnVmhQUVAzNlhWaTEydUlxRUtFeDZZTEpROFJwXzBheXU1LTRYQUJEdw?oc=5",
+   "source": "이로운넷",
+   "date": "2026-11-11",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MHlaOEhXUnBLTDJsd042Z09fN2VHbTdicmViRnpPeVo0V05DS0pFVVNJSjB0N0pKaTQwMGRnVmhQUVAzNlhWaTEydUlxRUtFeDZZTEpROFJwXzBheXU1LTRYQUJEdw?oc=5"
+  },
+  {
+   "title": "광주환경공단, 분뇨 수거·운반 종사자 노고 격려 행사",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WTE5wLVE0anNkdURfcmpwRmZMQ2pwWWI0ZXh1blh2M3EtOHNoY3FYcS1JWGxNVE90WC15Tmk3WUhXTTdvY3IxakZOSnFRaTIzX0d5T0tNeEI2ZFpCNTBHZEd6TnRLN2xBc1IzeXExWQ?oc=5",
+   "source": "진일보 | 전남일보",
+   "date": "2026-11-11",
+   "region": "광주",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WTE5wLVE0anNkdURfcmpwRmZMQ2pwWWI0ZXh1blh2M3EtOHNoY3FYcS1JWGxNVE90WC15Tmk3WUhXTTdvY3IxakZOSnFRaTIzX0d5T0tNeEI2ZFpCNTBHZEd6TnRLN2xBc1IzeXExWQ?oc=5"
+  },
+  {
+   "title": "광주환경공단, 분뇨 수거*운반 종사자 노고 격려",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1XUHRIc05HaFBmUDVqOTFnX1A0NDJPSy1PNHd3bmFYeVJyZDdvT3YxM2dEZ2dMdnkwZW9qMER1UFphMllZ?oc=5",
+   "source": "일등방송",
+   "date": "2026-11-11",
+   "region": "광주",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WTE5wLVE0anNkdURfcmpwRmZMQ2pwWWI0ZXh1blh2M3EtOHNoY3FYcS1JWGxNVE90WC15Tmk3WUhXTTdvY3IxakZOSnFRaTIzX0d5T0tNeEI2ZFpCNTBHZEd6TnRLN2xBc1IzeXExWQ?oc=5"
+  },
+  {
+   "title": "공주시, 불법 오수탱크 고발에 시 자산 반출 논란까지…최원철 시장은 왜 설명하지 않나",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wSmc0T3R0aUxMSmRXUWFWV1VyV01zdUlnOUcxQUNrTVpUeHZFS2ltVk5FdWFUYnplMDdVVHUtNkRvTHd1VU5zN0R2WjREVjRZV0V4bThWcjZ6Y2pwRlRGLWNFR2FBUzF1dUVITXRB?oc=5",
+   "source": "뉴스홈(newshome)",
+   "date": "2026-11-11",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "행정처분"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wSmc0T3R0aUxMSmRXUWFWV1VyV01zdUlnOUcxQUNrTVpUeHZFS2ltVk5FdWFUYnplMDdVVHUtNkRvTHd1VU5zN0R2WjREVjRZV0V4bThWcjZ6Y2pwRlRGLWNFR2FBUzF1dUVITXRB?oc=5"
+  },
+  {
+   "title": "구미하수처리장, 국제 수질분석 시험 6개 항목 모두 ‘만족’",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZYWN5TTZVMGJWRE5mT2lLMmxFWmwyN25URHVvNUNUeXBiZC02WE93dnpybkYySEQ5QXREVWtkUkxmbHNwN3ppT1Zma2JyWHprMDhzdlNvUXEtZkZOb1B0OERyZDVlYXp0bS1yUFk2VQ?oc=5",
+   "source": "경북일보",
+   "date": "2026-11-11",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZYWN5TTZVMGJWRE5mT2lLMmxFWmwyN25URHVvNUNUeXBiZC02WE93dnpybkYySEQ5QXREVWtkUkxmbHNwN3ppT1Zma2JyWHprMDhzdlNvUXEtZkZOb1B0OERyZDVlYXp0bS1yUFk2VQ?oc=5"
+  },
+  {
+   "title": "구미하수처리장, 국제 수질분석 능력 5년 연속 최우수...낙동강 수질관리 신뢰성 높인다",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VbnZ5UVY1YWhYcEVhTjNwazR4Q0dOSnNQcnJsMzlMenVLWlRIMXU3dkVHTDRuVTRXRlBTLVkzdnM5OW95M3JOdGVUVFV3MFBBdVJvb3U1bmFvS0VlWU1tZDdhUVFVRUVobXpn?oc=5",
+   "source": "프레시안",
+   "date": "2026-11-11",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VbnZ5UVY1YWhYcEVhTjNwazR4Q0dOSnNQcnJsMzlMenVLWlRIMXU3dkVHTDRuVTRXRlBTLVkzdnM5OW95M3JOdGVUVFV3MFBBdVJvb3U1bmFvS0VlWU1tZDdhUVFVRUVobXpn?oc=5"
+  },
+  {
+   "title": "하수처리장 침사지, 모래·자갈 제거해 설비 보호",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2N09qMXpLNEs2d1diLXpEcjlWaFpZRG5NdV9GbGJlbzEwcmxyV3FNV3U2bFhzc3U1VmMwRXVlMldzSVhfUU05T0hUT0lKYWpBSVlXQWIyWTlsbjZmYVBQOWdVbXBFdw?oc=5",
+   "source": "비건뉴스",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2N09qMXpLNEs2d1diLXpEcjlWaFpZRG5NdV9GbGJlbzEwcmxyV3FNV3U2bFhzc3U1VmMwRXVlMldzSVhfUU05T0hUT0lKYWpBSVlXQWIyWTlsbjZmYVBQOWdVbXBFdw?oc=5"
+  },
+  {
+   "title": "횡성군, 공공하수처리시설 중대재해 예방 특별점검",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RSWs5MmhOUGN6cS1iMjVxZk9nNnBnMms4bHpaVDc0THVpOHNjWXdrNmZ1YXJ0QS1TRWhpN0R6eEZnalRtenA0MlhuNjFfM0dXY1VsWjF2QVZYYnc?oc=5",
+   "source": "강원일보",
+   "date": "2026-11-11",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MHlaOEhXUnBLTDJsd042Z09fN2VHbTdicmViRnpPeVo0V05DS0pFVVNJSjB0N0pKaTQwMGRnVmhQUVAzNlhWaTEydUlxRUtFeDZZTEpROFJwXzBheXU1LTRYQUJEdw?oc=5"
+  },
+  {
+   "title": "가격평가 도입에도…수원시, 1300억 원 하수처리시설 깜깜이 재계약 논란",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LY2hXQ0JRMWxXaU9HZTk0NFJLQ1JpT1pVcDNEUFc2MGRmQlhoQjB2NkxuVXZqeTNZSmhXQ3FFUnNEU2VlazQ1d0kydjk2QzR5N2tiRGlZTnYtR3VvVDVjRFFR?oc=5",
+   "source": "경기신문",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LY2hXQ0JRMWxXaU9HZTk0NFJLQ1JpT1pVcDNEUFc2MGRmQlhoQjB2NkxuVXZqeTNZSmhXQ3FFUnNEU2VlazQ1d0kydjk2QzR5N2tiRGlZTnYtR3VvVDVjRFFR?oc=5"
+  },
+  {
+   "title": "횡성군, 공공하수처리시설 중대재해 예방 특별점검 실시",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rYkZxOHEyNkxTLUVSbmNQb1FrYjZXN3c2cWVWU0ZzUjMzbi1ZVi0xMUNMaDlaRDNiWFV4aExIb2wxQQ?oc=5",
+   "source": "브레이크뉴스",
+   "date": "2026-11-11",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MHlaOEhXUnBLTDJsd042Z09fN2VHbTdicmViRnpPeVo0V05DS0pFVVNJSjB0N0pKaTQwMGRnVmhQUVAzNlhWaTEydUlxRUtFeDZZTEpROFJwXzBheXU1LTRYQUJEdw?oc=5"
+  },
+  {
+   "title": "[강릉시] 옥계지역 하수관로 연막조사 안내",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TdGwtcVo0Sk90RWN2M1ZXd2NPdlg0YThLSGo2TGd5bFg1U1pEYmc2aUhwQUoycXNrbW1RTXY1OXRzYUlhX1h5TnBaamkyUVRqdjBZS2RzazZuZDk4M09qeklhXzFfSUNMLWdFcG96NVVGSF80S3fSAXZBVV95cUxNU3RsLXFaNEpPdEVjdjNWV3djT3ZYNGE4S0hqNkxneWxYNVNaRGJnNmlIcEFKMnFza21tUU12NTl0c2FJYV9YeU5wWmppMlFUanYwWUtkc2s2bmQ5ODNPanpJYV8xX0lDTC1nRXBvejVVRkhfNEt3?oc=5",
+   "source": "워터저널",
+   "date": "2026-11-11",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0Y0FDeUZQN3kycF9kb2JzMlA5UkdVb3ZNWG5ZOW5pd2tBajh2ZXFsTUhxQW5SX2c2Z3VZXzU5YzltVjl3ZmRCcnEySnM?oc=5"
+  },
+  {
+   "title": "대구 태평로 주유소서 경유 유출…일부 하수관로 유입",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCM9IBeEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCMw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCM9IBeEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCMw?oc=5"
+  },
+  {
+   "title": "\"기름 냄새 진동\"…대구 주유소 경유 유출, 하수관로까지 흘러",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93anBjWnAyUnZHc1A4WVJrR21nSGxOcDU5NExxYThRdjhJWDNZZ0NxV3RFdXU0Ym5jU2gzM2V2RWFFYVJFWklNV1A2cE4xTXFqN0xMc2FyYmdOZTN1SzAyTmEtRE9qTzRlc2lCVVNwONIBb0FVX3lxTE93anBjWnAyUnZHc1A4WVJrR21nSGxOcDU5NExxYThRdjhJWDNZZ0NxV3RFdXU0Ym5jU2gzM2V2RWFFYVJFWklNV1A2cE4xTXFqN0xMc2FyYmdOZTN1SzAyTmEtRE9qTzRlc2lCVVNwOA?oc=5",
+   "source": "머니투데이",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93anBjWnAyUnZHc1A4WVJrR21nSGxOcDU5NExxYThRdjhJWDNZZ0NxV3RFdXU0Ym5jU2gzM2V2RWFFYVJFWklNV1A2cE4xTXFqN0xMc2FyYmdOZTN1SzAyTmEtRE9qTzRlc2lCVVNwONIBb0FVX3lxTE93anBjWnAyUnZHc1A4WVJrR21nSGxOcDU5NExxYThRdjhJWDNZZ0NxV3RFdXU0Ym5jU2gzM2V2RWFFYVJFWklNV1A2cE4xTXFqN0xMc2FyYmdOZTN1SzAyTmEtRE9qTzRlc2lCVVNwOA?oc=5"
+  },
+  {
+   "title": "[단독] “20년간 1천억 넘게 지급”…포천 하수관로 BTL, 재정 부담 우려 확산",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wVEotSnBROUJjZUExRldqV2NaV3N5M2pRSWl5Ul9nTU1ud1FhOF9WNVFUUU5yZ3QtNGt6Wi1XWjhiRXZENmNtNFliT3NWTTVkR3R0XzIzU2tjWktGMWFPMzhhT0JKQnVlNm80RnlBbw?oc=5",
+   "source": "중부일보",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wVEotSnBROUJjZUExRldqV2NaV3N5M2pRSWl5Ul9nTU1ud1FhOF9WNVFUUU5yZ3QtNGt6Wi1XWjhiRXZENmNtNFliT3NWTTVkR3R0XzIzU2tjWktGMWFPMzhhT0JKQnVlNm80RnlBbw?oc=5"
+  },
+  {
+   "title": "\"기름 냄새 진동\"…대구 주유소 경유 유출, 하수관로까지(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95RTRYY3BELVJmTW1UUnN4OHZNSWQzUkNDcFBRamo1U0tIOWUtcTI2QTktTzRkMnFCdjQ0czBMSXJoVWtnWXFYU3ZMaHY4c2JfSktpREt3ZzBxUkNScU1R?oc=5",
+   "source": "뉴스1",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93anBjWnAyUnZHc1A4WVJrR21nSGxOcDU5NExxYThRdjhJWDNZZ0NxV3RFdXU0Ym5jU2gzM2V2RWFFYVJFWklNV1A2cE4xTXFqN0xMc2FyYmdOZTN1SzAyTmEtRE9qTzRlc2lCVVNwONIBb0FVX3lxTE93anBjWnAyUnZHc1A4WVJrR21nSGxOcDU5NExxYThRdjhJWDNZZ0NxV3RFdXU0Ym5jU2gzM2V2RWFFYVJFWklNV1A2cE4xTXFqN0xMc2FyYmdOZTN1SzAyTmEtRE9qTzRlc2lCVVNwOA?oc=5"
+  },
+  {
+   "title": "대구 태평로 주유소서 경유 100L 유출…하수관로 유입에 긴급 방제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TaDZPM2RBR2RzRlRSUlNsWmpyaElSeDRteGw5WUJwQmk0Q3oySzRVb0hmaEJBVVRSdVZYbjFockFRZllVeGVBSkZCUlR6RnRYWk9nRnNidFpUZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCM9IBeEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCMw?oc=5"
+  },
+  {
+   "title": "서울시의회 공우석 의원, 노후 하수관로 조사만으로는 부족… 위험구간 정비계획 구체화해야",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bzZvbUZqYk9SVTdPTFQwVHlmd25UcERjY3NCa0VqQzdOcFVsbmJSOTlfWXZvaTI5azZnZzZVT3lrRzJsNDhBSldqLU5DWFVoSmlPRXJlOFBhTl9URVlZSTZtSDl2d0ROdnc?oc=5",
+   "source": "청년투데이",
+   "date": "2026-11-11",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bzZvbUZqYk9SVTdPTFQwVHlmd25UcERjY3NCa0VqQzdOcFVsbmJSOTlfWXZvaTI5azZnZzZVT3lrRzJsNDhBSldqLU5DWFVoSmlPRXJlOFBhTl9URVlZSTZtSDl2d0ROdnc?oc=5"
+  },
+  {
+   "title": "대구 주유소서 경유 유출…하수관로까지 흘러들어",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rM3BHQXlQRmZiX0hzWnFfeWY3RGIyeWRPeDlhaEhBeWFPNnFYQkdBcGVfdzBhd2lSS2pISms5Y1FhZTk1X1BaV1hsWE5ZNzFWa3VsRGxSMlZzd2c3blpB?oc=5",
+   "source": "뉴스1",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCM9IBeEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCMw?oc=5"
+  },
+  {
+   "title": "공우석 시의원 \"추경 100억 하수관 정비, 아직도 공사 준비\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMEpremdrc193TEt5VTJsZUt0UlBEYnBJamNTZ3VwUE41d1RINkhTR2hHcERzbmtYb2gxaXVVVzdHS1lPWDdWQWVWTXV5WkdUNGdKbzFIQVFMSWNV?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMEpremdrc193TEt5VTJsZUt0UlBEYnBJamNTZ3VwUE41d1RINkhTR2hHcERzbmtYb2gxaXVVVzdHS1lPWDdWQWVWTXV5WkdUNGdKbzFIQVFMSWNV?oc=5"
+  },
+  {
+   "title": "대구 주유소서 경유 100ℓ 유출…하수관로까지 흘러들어(종합2보)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vbkVoQjFGRWxZTS1kMk05X0VsYU9kTUg0V2FNa19zNFpib0U2eEZPZUw3NUlCZ2F1aTItZGVFN0JyZ3VScnV2UWVsekM2NGdUYmZOOXJGWkJLMFdFMkY4?oc=5",
+   "source": "뉴스1",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "유출",
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCM9IBeEFVX3lxTE9wdUhzRHRLWUF2WnpsaXVJVUxFVFdVSklkVDk2ejYzbEw4RXVYd0pzcFl3UmlRNGYxdGtwU1VnX0ljZ2U2VUVGdkxMSE9NQ29DNGd6cHpEYTVQQlhIVmJ0dG1pNGpUb1pLUzJjS0JFd01qaGVzaUxCMw?oc=5"
+  },
+  {
+   "title": "서울시의회 공우석 의원, 노후 하수관로 정비계획 구체화 촉구",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWlpPUWRaUW1Yd01aMXZMZ3lZcmFhNlJwU25qd1RZeFNCZi1Lcnkwb1IzcGtjMzVFaXI4T3FBRXk1M2hDX2dUYmdxd1FxRTVqMFEzQUpJMnZqaEkwOHE0ZGhVRFFtZll6dnFUenB3b3FxQQ?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-11",
+   "region": "서울",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bzZvbUZqYk9SVTdPTFQwVHlmd25UcERjY3NCa0VqQzdOcFVsbmJSOTlfWXZvaTI5azZnZzZVT3lrRzJsNDhBSldqLU5DWFVoSmlPRXJlOFBhTl9URVlZSTZtSDl2d0ROdnc?oc=5"
+  },
+  {
+   "title": "고양시 매년 하수도 요금 10%씩 인상…하수도 계속비는 절반만 쓰고 이월",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tajV0azNKeEYyaDFzMXVLVThncm11WkQ1MGZjblRkUERjRTF1RFVKREliUzFWZHBJQ21OSzBYZ2RPLUxwZGJDc1dvcXd5WnQzVlppODQ2Mmd3bEk4TDhnMWNISGROcmRtdUM3VFR3OA?oc=5",
+   "source": "기호일보",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFNk0wakwtVmp3V2V2MElzWV8xOVBnTnVYNHlDNVBHeEdwNHlteEh2c2x4YlhTck12SFRiVWxrR3pNMUptRExIY2F0eWQzTnJyUXVSeW5vVVJXMzQ?oc=5"
+  },
+  {
+   "title": "하수도 요금은 해마다 10% 올랐다…고양시, 관로 공사는 언제 하나",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWI4OFJHOEtCZXd3TDlFck16QTV2cng0LWR2UThmSzk3ZjZ0UkhIR05mOWM5MnVnZ2RqVEtoa0lDWmI5SUR5T3hENlMxaEhLRThoaVhINEZneElMaUJTUkg1Ny1IYVBWVW56YktXNjVOdWxXWlY4OXUzUllqMWNFS0dDazloa2k5eFhJ?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWI4OFJHOEtCZXd3TDlFck16QTV2cng0LWR2UThmSzk3ZjZ0UkhIR05mOWM5MnVnZ2RqVEtoa0lDWmI5SUR5T3hENlMxaEhLRThoaVhINEZneElMaUJTUkg1Ny1IYVBWVW56YktXNjVOdWxXWlY4OXUzUllqMWNFS0dDazloa2k5eFhJ?oc=5"
+  },
+  {
+   "title": "고양특례시의회 전희정 의원. 하수도 요금은 해마다 10% 오르는데, 1,336억 원은 통장에",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GcEVaZWM0X25tdV9tdnFXZzZ1VGxvNzR0TGlRYUpJWDZOeWVnaDladWR4QmxrR3RsMmFhZnFpUmVpN3hEMW95WnBQZGVlRGVFR20tUEV4ZWtTSkN3eFVoUVZITFZUX2dnMVJUZ0xiaVk?oc=5",
+   "source": "파이낸셜경제",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TEx2cFVSWW5XUDR3dW02M2NjcE1mR2FxWGJLY2oteFlmQzhtOGk2dmFtMmZBandoanNNTHloc2owOURiWmhXWi1jcUpwck9BV21maG41VTJ1TmJRQ3dnbTNNZEQ2eEthd0VSYl9mdw?oc=5"
+  },
+  {
+   "title": "하수도요금 연 10% 오르는데…1336억은 통장에, 공사는 뒷전",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTm9lV25IeUxaVW9rVG5XOUl1U3RvY2hvLTh0MkZUWW9sRi1tLXVsaUl4QWQweDY5YTdWcUtISE5sY3RiV1o0M2d0TXdHeWpSSURROE55a2J1dUpqdW5keHZ1dmZtLVBJN2c?oc=5",
+   "source": "고양신문",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTm9lV25IeUxaVW9rVG5XOUl1U3RvY2hvLTh0MkZUWW9sRi1tLXVsaUl4QWQweDY5YTdWcUtISE5sY3RiV1o0M2d0TXdHeWpSSURROE55a2J1dUpqdW5keHZ1dmZtLVBJN2c?oc=5"
+  },
+  {
+   "title": "고양특례시 하수도 요금 인상에도 예산 집행 부진 지적",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10d0FhUTJFWVY4d1R3Zmh1NkRSOVY0TXNCV1NPTDJPNHdyeDFERUY2SjhNcHVKMGszSktoLUpoSHFUS2drQ3dnWVRlaTI2TnFXTmlidHd5S3FjLVdBbmlyREZYaWlGc1BJeWhsWS1lNWItdw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TEx2cFVSWW5XUDR3dW02M2NjcE1mR2FxWGJLY2oteFlmQzhtOGk2dmFtMmZBandoanNNTHloc2owOURiWmhXWi1jcUpwck9BV21maG41VTJ1TmJRQ3dnbTNNZEQ2eEthd0VSYl9mdw?oc=5"
+  },
+  {
+   "title": "[뉴질랜드] 워터케어, 오클랜드 하수도 개선사업 2건 추진",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTVdxVUFTVHBaVnVEb3k1eWNKbi1PMDBCV2VUTk9NSzFNZkYyb0Y4dkVpcDNGaC1MRkt6ekEwWFd4VmZjcFJTLWNnMHB3TFpKOGpTNmlzeGlDVGl3WFBSYnJKZGZpUW81SGpIOXVVNHBMMzBON2fSAXZBVV95cUxPaE1XcVVBU1RwWlZ1RG95NXljSm4tTzAwQldlVE5PTUsxTWZGMm9GOHZFaXAzRmgtTEZLenpBMFhXeFZmY3BSUy1jZzBwd0xaSjhqUzZpc3hpQ1Rpd1hQUmJySmRmaVFvNUhqSDl1VTRwTDMwTjdn?oc=5",
+   "source": "워터저널",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTVdxVUFTVHBaVnVEb3k1eWNKbi1PMDBCV2VUTk9NSzFNZkYyb0Y4dkVpcDNGaC1MRkt6ekEwWFd4VmZjcFJTLWNnMHB3TFpKOGpTNmlzeGlDVGl3WFBSYnJKZGZpUW81SGpIOXVVNHBMMzBON2fSAXZBVV95cUxPaE1XcVVBU1RwWlZ1RG95NXljSm4tTzAwQldlVE5PTUsxTWZGMm9GOHZFaXAzRmgtTEZLenpBMFhXeFZmY3BSUy1jZzBwd0xaSjhqUzZpc3hpQ1Rpd1hQUmJySmRmaVFvNUhqSDl1VTRwTDMwTjdn?oc=5"
+  },
+  {
+   "title": "“요금은 오르는데 1천336억 쌓여”…고양시 하수도 예산 도마",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLcnlEZE5pdk0wQ0p6VUpJRzRXcV91dENweEJuUVlqSXhwLURGanBIZ3M5aGRDaDdGZUlaaWNsQ1lmZDAyLWpxYU95VTl4Wkh0UVZpU0pJZmdxcGxyRURuLXNraWRJRmVmQzA1aGlaMA?oc=5",
+   "source": "중부일보",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TEx2cFVSWW5XUDR3dW02M2NjcE1mR2FxWGJLY2oteFlmQzhtOGk2dmFtMmZBandoanNNTHloc2owOURiWmhXWi1jcUpwck9BV21maG41VTJ1TmJRQ3dnbTNNZEQ2eEthd0VSYl9mdw?oc=5"
+  },
+  {
+   "title": "인천환경공단·한국상하수도협회, 하수도 전문인력 양성 위해 맞손",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11YldjWlU0X1Mxenl4TG1teW85R1k0YXZ5b3hTN0FQektiOUZsQWl6Y2l3X0wwcUxDb1hDN1Q3N0ZYMGFBMFZDWmxOWVh1RmpiMW9aQW0xU0pVQmstRm9kcHh1Z1lhY2JrOHZBcFFPZ0pkTTA?oc=5",
+   "source": "환경미디어",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWEJ4Sm1OMzNzS242WE1jOUNKSlZDUWQxaTVucWZhN2xwNTZDTXJHU0FOWk9jU3pRRFRvZDJaUGFkNEJrTXNyY3RReFJTdW1XcmZZUXlSTFRrVFBabmFTdmk5eDhwOW12YVRqUE1oQzZlZXZPWWRWdUhzUTlOMV9wLWhYd2NqMGQ5d2RVRzk3TXl6eDdJQTFxdkwycmRfRThyQlFvR1VXVlFVUEF0N0N5MDU4alNvdmxlOV9LakJvUjRPZXVMbjlXUmZzOWppYmF6TDB3dTA2UkJuNl9UcG1hWmVsX1JGaXpfVXhMTm9ZZ3dUSUM4UnlMSVoteHUyQkk1Sm84SzQ4UEhyV1hRbi1zTi1OZlp1MnF0NzlZeHljQkNDR040RHozaUlyMjQ2V0MxOENMTGI5NTNORTZTOUpQUmJGMFdTTG1sODNMS1RGd2dWTFRQTHUtVDdOeTgwWWlVcnM4Mkl2SFNiV1oyUWxBVXp6Nzg4dDRIcmM4M3Ziejg1Rnl6dzJISHE2RURMLWEtSzk4Qm9lcGU?oc=5"
+  },
+  {
+   "title": "전희정 고양시의원, 하수도 예산 집행 부진 지적",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kcEFFbmhDODA2Umhyc3ZmZndrTHZyeU4wRmJmdndFRHRSOHY0MGd2U0tZVzVIcXRUSFlsdjk4UThyQkZtcFVqcWlxU2VxNG1EekZzZHMtcmNzNS0tQjRaS3VKQ2VkSmx6UEZ4NE9R?oc=5",
+   "source": "전국매일신문",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TEx2cFVSWW5XUDR3dW02M2NjcE1mR2FxWGJLY2oteFlmQzhtOGk2dmFtMmZBandoanNNTHloc2owOURiWmhXWi1jcUpwck9BV21maG41VTJ1TmJRQ3dnbTNNZEQ2eEthd0VSYl9mdw?oc=5"
+  },
+  {
+   "title": "고양시의회 전희정 의원, 하수도 계속비 예산 집행 부진 지적",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5bDVzaWNNcnJaaVJsZXJSclpLalYyN1pBdFpVSDA1SnJOVFU3dlhlNm5OajRDWkxsYTBFbnNQZC0tTXc1a2M5RlhOUkVvY3o0MWJyakVYR3E2NU4tbVhDdmdXVjlqMnZPZFBUYdIBcEFVX3lxTE9JeURpdmhoWHBXTUdGcWEyejV0V1dtblRCOUVqLTlhZFBjZU56RHdCM1B4NXZ4V190VmNic0ZyVU5kWEVYU1d3NU9UNER0dWsyTEVqN3ZNUFBjWDlsX0VMUy1GQWFma3FHMzhWVDdpY0M?oc=5",
+   "source": "내외뉴스통신",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TEx2cFVSWW5XUDR3dW02M2NjcE1mR2FxWGJLY2oteFlmQzhtOGk2dmFtMmZBandoanNNTHloc2owOURiWmhXWi1jcUpwck9BV21maG41VTJ1TmJRQ3dnbTNNZEQ2eEthd0VSYl9mdw?oc=5"
+  },
+  {
+   "title": "인천환경공단-상하수도협회, 실무역량 강화 업무협약",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2YmJ0WlBlOHg4QTF1Vkl2Q2NlQWM5Z3hNV01PWFV2VXRuVzU1UWdscVVKV2xCcVU3ZXVwYktCQXlKZVlBTG5oTTUtcEZtZldUXzREN3g3cE9HZk9rWkY0ZDQyS1dCTUFudHc?oc=5",
+   "source": "미디어인천신문",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2YmJ0WlBlOHg4QTF1Vkl2Q2NlQWM5Z3hNV01PWFV2VXRuVzU1UWdscVVKV2xCcVU3ZXVwYktCQXlKZVlBTG5oTTUtcEZtZldUXzREN3g3cE9HZk9rWkY0ZDQyS1dCTUFudHc?oc=5"
+  },
+  {
+   "title": "서범수 의원, 울주 척과 상수도·도시가스 공급 간담회",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FQUFPU3hzQU80TUUyemo3dGxoSDZ0MmZPQldsdVZfY0JRdEhOTmFVWlhodW1vWmZLMVRPMFJlSzNjODg2OE9nWTktQzVEbkxld2dRb25zdkZFRlnSAWBBVV95cUxNZjMxcDh3ZjlibHpGQkV6NDA5NEdEV09EamVYal9IRXJYTUZzVUNySDJyR200SHNROGtESUtqT0hXQ3psSHV5UzJfRk9GSFFaZEpXWEFuVlgzZ1N3OFdkaVU?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FQUFPU3hzQU80TUUyemo3dGxoSDZ0MmZPQldsdVZfY0JRdEhOTmFVWlhodW1vWmZLMVRPMFJlSzNjODg2OE9nWTktQzVEbkxld2dRb25zdkZFRlnSAWBBVV95cUxNZjMxcDh3ZjlibHpGQkV6NDA5NEdEV09EamVYal9IRXJYTUZzVUNySDJyR200SHNROGtESUtqT0hXQ3psSHV5UzJfRk9GSFFaZEpXWEFuVlgzZ1N3OFdkaVU?oc=5"
+  },
+  {
+   "title": "[청주시] 동절기 상수도 급수공사 접수 중지… 20일부터",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByTUVrSVV5THl4cVp6M2hTSUwyNi1nREtHYXk2UHVHVFlmbGt4eTBTUF9vWmRzdlJZQUdkYU4zTUxhVnBQUE9qaTdZWlhNUEtVNk9hU3VBSEFESk8wX0JhWmtKNkxhNlRMWTVkaE1YY2xWMVJfYXfSAXZBVV95cUxQck1Fa0lVeUx5eHFaejNoU0lMMjYtZ0RLR2F5NlB1R1RZZmxreHkwU1Bfb1pkc3ZSWUFHZGFOM01MYVZwUFBPamk3WVpYTVBLVTZPYVN1QUhBREpPMF9CYVprSjZMYTZUTFk1ZGhNWGNsVjFSX2F3?oc=5",
+   "source": "워터저널",
+   "date": "2026-11-11",
+   "region": "충북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yckpUaVpIOVhudkhMbWlvZ2t3Ni1SYUhBQnZXLWxiUXJadkdGa1NsbmdWNlhlY1lyZF8zMjZ5V1I3SGVFUmQ0LTZKYm1HZjFubkI5d29KOHpJVm9H?oc=5"
+  },
+  {
+   "title": "[사설] 포스코, 지곡단지 상수도 공급 ‘내로남불·이중잣대’ 논란",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44MjVwZjBfTG1PVFptRHI5LXBhQlQ0aU5hYnBNNW03ZDJMX3llaUxTTS1ZV2F3N2k0R1VhTVd2WkU5Wi16NXZ3bjBVMUtpLVBfejBlNHdVekE0ZEgxYVJjNFI0dl9wVHM?oc=5",
+   "source": "영남경제",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기고",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44MjVwZjBfTG1PVFptRHI5LXBhQlQ0aU5hYnBNNW03ZDJMX3llaUxTTS1ZV2F3N2k0R1VhTVd2WkU5Wi16NXZ3bjBVMUtpLVBfejBlNHdVekE0ZEgxYVJjNFI0dl9wVHM?oc=5"
+  },
+  {
+   "title": "2035년 복합 파이프 시장 전망: 상수도 인프라 개선과 내식성 수요가 성장 견인 - 뉴스 및 통계",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaktfVzl2R3dKUVc5NzZXWGswamtjSzdSdFI4ak5xMEZ0ei1IcUthckluUUJBN0lWbV9pOTF1QnRrNk9qemhFWE9BTHRmMTYzSWpYci1aejVUcjBjb3ZDMHBzRHFuS2tweGdHMEdsTldBMTQ0VVZNREZwQW0tbDVYc3diR3AzcEY3d2tJMzI3TGFMZXpwZ0lMWERFWWl1dV9GMFhnSE93M3FRZW14V3o4RjV2NUpNS2NGMDA4QzdQYk0tVW94Q0FtV2tldC1pS1pUTTZ0bzkyQmdNVzQ?oc=5",
+   "source": "IndexBox",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaktfVzl2R3dKUVc5NzZXWGswamtjSzdSdFI4ak5xMEZ0ei1IcUthckluUUJBN0lWbV9pOTF1QnRrNk9qemhFWE9BTHRmMTYzSWpYci1aejVUcjBjb3ZDMHBzRHFuS2tweGdHMEdsTldBMTQ0VVZNREZwQW0tbDVYc3diR3AzcEY3d2tJMzI3TGFMZXpwZ0lMWERFWWl1dV9GMFhnSE93M3FRZW14V3o4RjV2NUpNS2NGMDA4QzdQYk0tVW94Q0FtV2tldC1pS1pUTTZ0bzkyQmdNVzQ?oc=5"
+  },
+  {
+   "title": "척과리 상수도·도시가스 우선 설치 논의",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UeDExSVB3elozSUxvMTZWRDR1Z0VZUGNyRmRUVUMtcGpSdkEzNGJoTnpISnE3UXdUeVljUVdmS2l1cVY2YVF5N0t1QUk3STJKMkE3aWdNd3FyRnNJalplLUZHSXFyZng4VllKbVlB0gFyQVVfeXFMT0ZkZmkxTVlINXBlT3BhNGM2NW1uc2YtcW9XQVJYU1VLVTkwVEdYbTJCaDVhcmQ4am10N2hhVVdHMkNuRlRwSmVSajdGamNjdnZzb3I3X19XSjBBdnVBLUZrdWRmOGRPZG1GaDFhSE1kRmRB?oc=5",
+   "source": "울산신문",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UeDExSVB3elozSUxvMTZWRDR1Z0VZUGNyRmRUVUMtcGpSdkEzNGJoTnpISnE3UXdUeVljUVdmS2l1cVY2YVF5N0t1QUk3STJKMkE3aWdNd3FyRnNJalplLUZHSXFyZng4VllKbVlB0gFyQVVfeXFMT0ZkZmkxTVlINXBlT3BhNGM2NW1uc2YtcW9XQVJYU1VLVTkwVEdYbTJCaDVhcmQ4am10N2hhVVdHMkNuRlRwSmVSajdGamNjdnZzb3I3X19XSjBBdnVBLUZrdWRmOGRPZG1GaDFhSE1kRmRB?oc=5"
+  },
+  {
+   "title": "서범수, 척과지역 상수도·도시가스 조기 공급 추진…\"기존 도로 활용\"",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DUHprb0FVVzZOVW9jbXB4QVl6aWpPdV9CdHlfNU1JaEZvYWJob1phWi1hbGthbVR2NDlSek9Nd25weHBkd0Fpd3daS2pMczFfZEE?oc=5",
+   "source": "뉴스1",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FQUFPU3hzQU80TUUyemo3dGxoSDZ0MmZPQldsdVZfY0JRdEhOTmFVWlhodW1vWmZLMVRPMFJlSzNjODg2OE9nWTktQzVEbkxld2dRb25zdkZFRlnSAWBBVV95cUxNZjMxcDh3ZjlibHpGQkV6NDA5NEdEV09EamVYal9IRXJYTUZzVUNySDJyR200SHNROGtESUtqT0hXQ3psSHV5UzJfRk9GSFFaZEpXWEFuVlgzZ1N3OFdkaVU?oc=5"
+  },
+  {
+   "title": "수돗물 이상 사태 공동 대응⋯광역 상수도권 시군 한자리",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pQkFNYnloS2tKeENlbXZTdDAtdV8zZnNONjNZM0ZLbmNfd0JyOUdQWEJpZ29XOU40RXAwdE5EUHRURDBsMnFXSDV1S0RDSFI4a2t6StIBWEFVX3lxTE80emM4cXRJcHZTSlBjZWxhSEp2eTUzTGdBd0pGazZIT3dYRTdMb2djTFdNajNkS2k2dFRvMlQtMnlyUzlXTm1qNE4zVnE4SGthSUVwNjA4dnk?oc=5",
+   "source": "전북일보 인터넷신문",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUxhS0N4S3h4UWl0S0VlbW1PYXFUMEhZNDh4WTZvMFRQR2xFY3BlNjRxcEFmNU0yY3pZc29SRTZGejI2R3lvWmM5bU1RU3hKdUcwck5zVU5meGs?oc=5"
+  },
+  {
+   "title": "김정원 부산시의원, “상수도본부 반복되는 안전비 누락·부실 감독 질타”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTmJOWEtKdmJxTXJESUp6dEt4WWh1NmlqbDVjb2IyT0RqZk1NVEVORVV3WjhhdVNwTDZSb0RYT1FyZDBic0phRlFuQU1VNjFMQU40MnhLel9ELV93RnVMNzdwTUUzSS1R?oc=5",
+   "source": "가야일보",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTmJOWEtKdmJxTXJESUp6dEt4WWh1NmlqbDVjb2IyT0RqZk1NVEVORVV3WjhhdVNwTDZSb0RYT1FyZDBic0phRlFuQU1VNjFMQU40MnhLel9ELV93RnVMNzdwTUUzSS1R?oc=5"
+  },
+  {
+   "title": "상주시, 상수도 검침원 교육 및 간담회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGY1dWTHlTYVhNUEZlYjlpQXh2R2VjNDUzV0JIYV9qNE9lYVNfWGhUUHV0eUVEX3Awdmp0UVdFX2dZRVlxLTZN?oc=5",
+   "source": "코리아투데이뉴스",
+   "date": "2026-11-11",
+   "region": "경북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ma21yWHI3OXZnajJ3TmlwNzJCTzI0TldabjF0WHJ3UnlnSGxsNGlsNDRQWkJmczZwUkc3YXhDU3lIOVBOM2RBbkdTdmVwSl9udWxqeDhkemNiTms2MmMyRQ?oc=5"
+  },
+  {
+   "title": "GH, 인덕원 광역상수도관 ‘통합 이설’…사회적 비용 193억 아낀다",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BVUNzZk5McWFVV2FzUHRValN0Q2JZQ1NCOGxyLUJ5N05BYWhIU0NnMWM2SzlLYnRUOG5LMGdzbHU4Q1JIcEtVMEQxWm9PRWdGMWZIVdIBVEFVX3lxTE5BVUNzZk5McWFVV2FzUHRValN0Q2JZQ1NCOGxyLUJ5N05BYWhIU0NnMWM2SzlLYnRUOG5LMGdzbHU4Q1JIcEtVMEQxWm9PRWdGMWZIVQ?oc=5",
+   "source": "세계일보",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QS2tIY1ZvYVpXYXl0OUxzXzlSQ3M3SWtQbUFMVW9YUDJFUFYwcVNhcWY4eXM2Ym9XUnZTdFNKSmVUWWY0cEFZazZ3aW4tWVY3ekdOa3JOLWZTYjZjWlRRNtIBeEFVX3lxTE5VLUZYUWJxdHhySEdVYjJMR2luZFc5SlhIWjEwV2FQeGVfejdXVW03bV9ZSkdoSmxoQzhJRE5FOTRRY0piaXMyRlhZTFpKem5WcFpINVJNMWtfOGozNl9yU3pFemZrX3h1bmtjYk9WaENINmVlbnNjYg?oc=5"
+  },
+  {
+   "title": "전주시 수돗물 필터 변색 재발 방지, 망간 관리 강화 추진",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19yMzlNcHR1MFBvUUQ0cFU4cGs3VHZUUFNYeEtEZExQQjZRZ21sVUQzd1NIWE5PVjdScDlRQm4ycmE5Q0RkNVlMLTU3QTcyR1FDX0tZQXN1RXdoRWJhSk90bXlwTkxaR0RXN2YtLVdLNE5EWGFGNkFCMEtoTEdKTUx1NU00Zw?oc=5",
+   "source": "전북도민일보",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZS1CMGVaWVNGVVVZZ0FSbEFnc1BZbXJkcnBSUzMwMzRXYkxtOHFUbENrbmhCdjNEZXVYanVyVUFOand6d0FNZDdDdm94MEVtbkRoR0R4X3ppUktwLXJDVU8tOVlLRHduMVE?oc=5"
+  },
+  {
+   "title": "인천시의회 조민경 의원 “수도요금 32% 올리고 노후관 교체는 33% 축소”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02b0VCZ2pVOE0yaGk0aUl2R05GS0RmbVc0SWE5UjhKNVViY0FSSldENGNIU2kzSzhfODhmMzVJYTdqVi1GUjFDQzZ0Ui02a2hWc21KbXdlb2xWY0Z6dm1sTk9KNmlGUmp5WVktRC03dw?oc=5",
+   "source": "인천뉴스",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MTm9RQ3lOU2xlLXM0dUpNV1VyNEdxeWRYZkE2WXQ3eXZwMU5MZ0tRbEpYUER1NmlMSlZRUVowa1hLX1RVUzFMM1BXVUdKTEZaZFBzeTlwelk2d0RWYkdkZGF1SXY1YWFl?oc=5"
+  },
+  {
+   "title": "광양시, 하반기 수돗물 수질평가위원회 개최…수질검사 결과·관리계획 점검",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UQ19qbmtEY2VEUTFMNkp3OXI1YVhXbUZJblY2WFh2MnFJMk5UbkFMSVNmNXc0OGN0R01jSnp0SnRRdlduaXFPV2k2dnlPTkJZQV9IU1J6QThKcUnSAVZBVV95cUxOQXFBeUZrNVhTbDgtQUk0TU5qbFlEUWVIR19GeW5FcVhmeDY5ZmhLSVRFMFFldHBSS0lSZHBLWkZ6enlrVVB5SkJxOFJCUUItNEtoQUY4Zw?oc=5",
+   "source": "더팩트",
+   "date": "2026-11-11",
+   "region": "전남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UQ19qbmtEY2VEUTFMNkp3OXI1YVhXbUZJblY2WFh2MnFJMk5UbkFMSVNmNXc0OGN0R01jSnp0SnRRdlduaXFPV2k2dnlPTkJZQV9IU1J6QThKcUnSAVZBVV95cUxOQXFBeUZrNVhTbDgtQUk0TU5qbFlEUWVIR19GeW5FcVhmeDY5ZmhLSVRFMFFldHBSS0lSZHBLWkZ6enlrVVB5SkJxOFJCUUItNEtoQUY4Zw?oc=5"
+  },
+  {
+   "title": "조민경 인천시의원, 수도요금 인상분 사용 내역과 재정개선 효과 공개 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YYVZ0bG55X09JLXJaakFYcXowaEJLbjcwMkRfWE54R1V6NDdXM1dLWW9IN2hyZFlFdXhicmdYZ2d5WjhTRDRveXBVRHYzTXppU3BEQktCOVJScm1qMTZyQ25Vdm8?oc=5",
+   "source": "매일일보",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "요금"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YYVZ0bG55X09JLXJaakFYcXowaEJLbjcwMkRfWE54R1V6NDdXM1dLWW9IN2hyZFlFdXhicmdYZ2d5WjhTRDRveXBVRHYzTXppU3BEQktCOVJScm1qMTZyQ25Vdm8?oc=5"
+  },
+  {
+   "title": "부산시의회 김정원 의원, 상수도본부 안전비 누락·감독 부실 지적",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94MVVpeS1lMjVFVXIwcWhNaHU3YzRMeW5mdzNEckpJSVFfSnRwWTlVRk5mVzJtVEtwUm96NDlmYVVjamVzMENucE9rc295SkdUeEhYakJLX0g4N0x2cXZvbWR4Zm93M0RFaU1jclN1dnlYdw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTmJOWEtKdmJxTXJESUp6dEt4WWh1NmlqbDVjb2IyT0RqZk1NVEVORVV3WjhhdVNwTDZSb0RYT1FyZDBic0phRlFuQU1VNjFMQU40MnhLel9ELV93RnVMNzdwTUUzSS1R?oc=5"
+  },
+  {
+   "title": "인천시의회 조민경 의원, 송도 상수관로 복선화 계획 부재 질타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TR3k0SDhIRHN6QlJrREJjMmcyYkhPcFhrT3pyRFY5MmV1ZDZaMHhyYVFVOURkMWNJZ0dQdk95TTNqNmtWMTZpVUNZZHQwWDlOd1dyVEQtWHlIbnctZXJTSHlEYmVCaEJt?oc=5",
+   "source": "뉴스피크",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yTDlUcGVGUUlBOGl4aVRISUJYaHRxdFc3ZTA2andoWnV0T2FZN1MzWTBEbS1DSHRFMEtTSF8xZ2NwVkJSQjBEamN6R1p2MmJZQUtrSS1oY0d2N01GWjk4ODJrUQ?oc=5"
+  },
+  {
+   "title": "김정원 시의원 \"상수도본부 반복된 안전관리비 누락·감독 부실 질타\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5teVhTeHQwZXVfVWdiRVhCemNYRk5ZbzVNakc1eVBTcVlYbFZqeVptcHFoanJkdXJkbkN2WVVBRUF6N2hxUlAtWXQxdjF1eWNIUzY4STNVSTRpRERCajE2SGFHTTNRamV3WEtSUkhR?oc=5",
+   "source": "국제뉴스",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5teVhTeHQwZXVfVWdiRVhCemNYRk5ZbzVNakc1eVBTcVlYbFZqeVptcHFoanJkdXJkbkN2WVVBRUF6N2hxUlAtWXQxdjF1eWNIUzY4STNVSTRpRERCajE2SGFHTTNRamV3WEtSUkhR?oc=5"
+  },
+  {
+   "title": "인천시의회 최병은 의원, 서북부 대규모 신도시 수돗물 공급에서 뒷북 행정 안 돼",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzNDFWY1hQTnBuRnJrSFdHSV9CNDVhUlpfcVNwV3BtWDNsYXk4MkFfMFNqYnhkd2JiOHZnb2ExV2prbHAwQXRDNnJ6T1l0bmgwMEl0NkRhSC1ZQ2R1Y09DOE4wbUdRSGtEUlpHeWt3?oc=5",
+   "source": "세정포커스",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSGdENFk4NVVVQ1M4V3hpSi1mVy11QUtmbmZlYzFIS1RmSXRtUTFiNUdiWGdJRTdyVlBTWm5odVlOUTVSMmZ6RHRYRzdOTnk0ZnVhb0Z1bEVwVVpvVGhLLTAzeUFUMllJRWdTTThwZ1VRQQ?oc=5"
+  },
+  {
+   "title": "[사설] 수돗물 불안, 전주시가 풀어야",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XdDR3bHR6LXVlMzVDR0xwNFFmeFJ1YjJqVnVCSy1uUmoyOVB2dlgwT1JLZFJ1U3d6eG5kdHU5VVVSajI4U0lEQW5DVU1vVUgzM2MtUdIBWEFVX3lxTE1TYjZTMkd1TkdvYTl4RnlHY0kyNGszbjFKaFlrNV9KdW5zaWMyaVR0R0JvV0RLWWowamIzNjAyLXR6ZV81eHE5Z2lHUlZESnpBME0zVnd6MS0?oc=5",
+   "source": "전북일보 인터넷신문",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기고",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JYzhESWdvbzdwWGRYakpITnB4MXhVTm1ybFZnUkNDaUNqZnh4RUN4Y3hmX3J5RkxJTWYyVjVRWGl2dXlTcXBvbUQwZ1Y4TDBjTFBkS2FxOWc5RUdSS2pGNnBkcGlxdDcyWm10cTdVdERrdGvSAXNBVV95cUxPSWM4RElnb283cFhkWGpKSE5weDF4VU5tcmxWZ1JDQ2lDamZ4eEVDeGN4Zl9yeUZMSU1mMlY1UVhpdnV5U3Fwb21EMGdWOEwwY0xQZEthcTlnOUVHUktqRjZwZHBpcXQ3MlptdHE3VXREa3Rr?oc=5"
+  },
+  {
+   "title": "부산시민의 생명수 수돗물, 소독제는 과연 안전한가?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bV9XU1M4elMzMDJ0TWVWSVNUT29qb3g0N2ZuaFF5UFcxWldOMU5zaTJET0dkeGkwVkg0YlVpMUx4YXRrSk95RWtfenBqSlphbnhTd3J4OFBHLW1vVHBEXzh3anNjN2tH?oc=5",
+   "source": "복지TV부울경방송",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bV9XU1M4elMzMDJ0TWVWSVNUT29qb3g0N2ZuaFF5UFcxWldOMU5zaTJET0dkeGkwVkg0YlVpMUx4YXRrSk95RWtfenBqSlphbnhTd3J4OFBHLW1vVHBEXzh3anNjN2tH?oc=5"
+  },
+  {
+   "title": "부산시의회 조용우 의원, 수돗물 과불화화합물 지속 검출에도 대응은 미흡… 부산 수돗물 안전관리 근본 대책 수립해야",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83TWxjZVNGWkQ5eFJETEdUSTViMUhONVJBYlBUblpjbVo4R2k3Y1JtZUtwX0QzcXJJUTd0d3dRM0pIX0F6LXYwS2VxWDBLNDNCYlNlQjRFRmY4MWNl?oc=5",
+   "source": "누리일보",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aU2h3LXFWNzRFY2lZQnNfRzFwU0k1WVNiWGY1WGR6Z2VwOE1va1hxNER4VTA1U0hkRldJYnJrenZjT2ZKWnhXd29jZUp2eFZGbENCd0FkNmk3QQ?oc=5"
+  },
+  {
+   "title": "인천시의회 조민경 의원, 송도 상수관로 복선화 구체적 계획 촉구",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyQXJua0YwMldvYnRZVGNDRDNILVN2WXBHRmpxNk5sNnNVeVo3NUVlMWN4eDBkdmZrNm5hNEJnRi1SN0txaTFpdkJVeDFaQjJyU0VUUV8zVU04enlFX0h5bFZZVV9oTUFJUUFiMXhR?oc=5",
+   "source": "국제뉴스",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yTDlUcGVGUUlBOGl4aVRISUJYaHRxdFc3ZTA2andoWnV0T2FZN1MzWTBEbS1DSHRFMEtTSF8xZ2NwVkJSQjBEamN6R1p2MmJZQUtrSS1oY0d2N01GWjk4ODJrUQ?oc=5"
+  },
+  {
+   "title": "인천시의회, 송도 상수관로 복선화 사업 조속 추진 촉구",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlOXQ1MkRlTG1scUJZN3k0VVNtcG01ODNoMS1LVzVzZ3lucG9TbUVLTm1qR1lsbFpEaVZTcTE5TUJDZHVZZ2xiNWRhR0lWRXViekxqQVJBTUMxR1NaXzlCNHhuaXV2NkNPbnVyWElWang?oc=5",
+   "source": "인천투데이",
+   "date": "2026-11-11",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlOXQ1MkRlTG1scUJZN3k0VVNtcG01ODNoMS1LVzVzZ3lucG9TbUVLTm1qR1lsbFpEaVZTcTE5TUJDZHVZZ2xiNWRhR0lWRXViekxqQVJBTUMxR1NaXzlCNHhuaXV2NkNPbnVyWElWang?oc=5"
+  },
+  {
+   "title": "수자원공사 “수돗물 냄새 물질 기준치 이하”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02aXQ3dTdIaHlTVFoxbWJuV1lXTWtTQlpkanBYTmFNYS1CSW9sMm9nWVN5Umx2OWhRU3NkQ19CQVJ1OHZrVW1CUmVjbGE4QlpOREQtWnkxWlVhVTg?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02aXQ3dTdIaHlTVFoxbWJuV1lXTWtTQlpkanBYTmFNYS1CSW9sMm9nWVN5Umx2OWhRU3NkQ19CQVJ1OHZrVW1CUmVjbGE4QlpOREQtWnkxWlVhVTg?oc=5"
+  },
+  {
+   "title": "청도 운문댐에 가뭄 ‘주의’ 단계…대구에선 수돗물 부족 우려도",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TdkY4UGVHWnhWaHVIbmJkUkM0RUctYWpDaUJRZGFpSlFLMzJMeTBCanhNeUlhcW4ySC1ubm55TG44WkZ0OEtLMjE3S05QVmQ2SHRQMA?oc=5",
+   "source": "JTBC",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도",
+    "가뭄"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TdkY4UGVHWnhWaHVIbmJkUkM0RUctYWpDaUJRZGFpSlFLMzJMeTBCanhNeUlhcW4ySC1ubm55TG44WkZ0OEtLMjE3S05QVmQ2SHRQMA?oc=5"
+  },
+  {
+   "title": "전주 수돗물 필터 변색에 전북 지자체 공동 대응",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tX1UweFVKQk8xQVI5aWtqbF9USlRpc1dtbmdxV2t3SXFJMnlScFhvdnJpNTQxUkhjYzNCTlpkRnN3VWVnaUVPcGR5V1JNZ3phMGdKOG5TUTBpQjBLZFpUTXRKd2RQaDgyaTJmY9IBcEFVX3lxTE9jTW1yTjZEalpHVjQzUnFLa2l5ZzRkem9rbFZhNzU5UVhXb2YzRWRMcHhiYzlZdEhLVTRGVXpCNGQtdDluWTU3Q3Vob3dwSF9KbC1Yd2pMZklMSktHSDY4QnBqeEVwRkhNeDRmejBPanE?oc=5",
+   "source": "전라일보",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tX1UweFVKQk8xQVI5aWtqbF9USlRpc1dtbmdxV2t3SXFJMnlScFhvdnJpNTQxUkhjYzNCTlpkRnN3VWVnaUVPcGR5V1JNZ3phMGdKOG5TUTBpQjBLZFpUTXRKd2RQaDgyaTJmY9IBcEFVX3lxTE9jTW1yTjZEalpHVjQzUnFLa2l5ZzRkem9rbFZhNzU5UVhXb2YzRWRMcHhiYzlZdEhLVTRGVXpCNGQtdDluWTU3Q3Vob3dwSF9KbC1Yd2pMZklMSktHSDY4QnBqeEVwRkhNeDRmejBPanE?oc=5"
+  },
+  {
+   "title": "[전주시] 수돗물 필터 변색 해결 위해 관계기관 공동 대응 추진",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZEZZdzF6T3gwN2tQRnIxd0k2TGtUQW9BVkJJYmVFcVA0blpxeHlyODRsLVNpY3JWZS1zaThyREViOUU0dzZPZzBiVlRqUk9zb0dFX292c2VnOGF4d01HVHFCQmoxODItZmc?oc=5",
+   "source": "투데이안",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jbDVQTWt5cmZ1TEZULXhzVnNQU1ZpZktDazNQMkRrUkd5aEZsQUpmdDA2akVnZlBRZUVNZ09XdmhxeTFxc1lCQmJXSEFLS0tWWjlKNnJybmtNQU1GcFJTZFA3dEpmQQ?oc=5"
+  },
+  {
+   "title": "전주·익산 등 전북 5개 시·군, 수돗물 필터 변색 공동 대응…망간 관리 강화 요구",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51QmFhTnVCbklrSm1PNWhWcHpCYzB0aHZNTWJxNjBJNkRwNmgyZmliQ0FjdlBuNHU2Um1KeTFkMUFMaVh4OG55bkQwbHpGbzFZZjhfdFNDV1BMMVNhdFNCSW9vNA?oc=5",
+   "source": "더펜뉴스",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldkNOaG8zVU9vWWVtVFFPRmZQdHJ4dEdjR2cyOUVGSXZtM0hBZTBwWHpxZHdRMHRaak83Q09FbGEyTmhyOTNYb2p0TUJEVl9tMG1ScEhIZXFlWkNRTnlB0gFfQVVfeXFMTWV2Q05obzNVT29ZZW1UUU9GZlB0cnh0R2NHZzI5RUZJdm0zSEFlMHBYenFkd1EwdFpqTzdDT0VsYTJOaHI5M1hvanRNQkRWX20wbVJwSEhlcWVaQ1FOeUE?oc=5"
+  },
+  {
+   "title": "전주시, 수돗물 필터 변색 해결 위해 관계기관 공동 대응 강화",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueGhCUDh6ZVZvZVFlWE1RUkhEWXJYb2x4WUc0TVVXVU42RVp2b2Z6ODdVOVgtOVRlWUZwNWNobEV5bGN1TnBMeXYyTlNWTWdNY3dvcXgtUW5fYjdwRjJ4cDdCM3h1ZDVoUEE?oc=5",
+   "source": "전북제일신문",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tX1UweFVKQk8xQVI5aWtqbF9USlRpc1dtbmdxV2t3SXFJMnlScFhvdnJpNTQxUkhjYzNCTlpkRnN3VWVnaUVPcGR5V1JNZ3phMGdKOG5TUTBpQjBLZFpUTXRKd2RQaDgyaTJmY9IBcEFVX3lxTE9jTW1yTjZEalpHVjQzUnFLa2l5ZzRkem9rbFZhNzU5UVhXb2YzRWRMcHhiYzlZdEhLVTRGVXpCNGQtdDluWTU3Q3Vob3dwSF9KbC1Yd2pMZklMSktHSDY4QnBqeEVwRkhNeDRmejBPanE?oc=5"
+  },
+  {
+   "title": "전주시, 망간 관리 강화·정보 공유 추진…수돗물 필터 변색 대응",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9seXl1U1lfZ2laNUNHc3FrYXp6b2VONG1TYjZqbFNtS1ZPVVZhWG5CaUREN0l3Nm5yQ0hHNkpiaUdUV1JzWnBVaA?oc=5",
+   "source": "미디어이슈",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9seXl1U1lfZ2laNUNHc3FrYXp6b2VONG1TYjZqbFNtS1ZPVVZhWG5CaUREN0l3Nm5yQ0hHNkpiaUdUV1JzWnBVaA?oc=5"
+  },
+  {
+   "title": "조용우 부산시의원 “낙동강 과불화화합물 지속 검출...수돗물 안전 대책 마련” 요구",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rS3dMMUVfdXlrM3lNUFBDYUF4Rnd2QkRyQVlMdG1FVDBIWElyaGp5ODRCMTZZUkw4NVpBdWtFdFRwZw?oc=5",
+   "source": "브레이크뉴스",
+   "date": "2026-11-11",
+   "region": "부산",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rS3dMMUVfdXlrM3lNUFBDYUF4Rnd2QkRyQVlMdG1FVDBIWElyaGp5ODRCMTZZUkw4NVpBdWtFdFRwZw?oc=5"
+  },
+  {
+   "title": "전주시, 수돗물 필터 변색 문제 재발방지 방안 모색",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01Zi1UajFaVUd5TGdiYWl1eFpMTTBmd01YWXp4TV82dkw5TTduX3htQjM2enlPaXlUSVNzUFRNLWtWd21QSjZxcEFNbmo?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10bkp0YnJSQzlzd3ZIck1jS2JLWFFfQV9BS1pwQWxaczhaUzJnZy1zOVBfOEhzRUIwcGhCU09OV1V2aEg1ZXFxVW9SMnZ6ZTN6OXRMdA?oc=5"
+  },
+  {
+   "title": "'필터 변색' 수돗물 사태 안정세…\"용담댐 장기 대책 세워야\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EY0w5c21wU1B4Y3FJbHRtNjZBT1RvTmJ3VFc1ejRqem4tT3NodnBFN0VDM2N1TVRWcTFVV0FIY2k4Vy1hZmp6VVdzSUxscll6eHRfdHk0TEQ3eDBwSjFqbjZXQjhQYl9lbmJGSFF2M1M?oc=5",
+   "source": "SK브로드밴드 회사소개",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUxhS0N4S3h4UWl0S0VlbW1PYXFUMEhZNDh4WTZvMFRQR2xFY3BlNjRxcEFmNU0yY3pZc29SRTZGejI2R3lvWmM5bU1RU3hKdUcwck5zVU5meGs?oc=5"
+  },
+  {
+   "title": "K-water 용담댐 수질 변화 선제 대응… 안정적 수돗물 공급 총력",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HS1R5WEwtNEpVVlg1SUtpTk9hU1d2Y0NKRTNBaFh6U3VjWFowaUh5Wlh4WjI4aW84SDBBMUdhOU1BNVNYc1NTSXpZZzF1V1k2UlVNY1dabXpVMjJKMS1FS0xRTWc?oc=5",
+   "source": "중도일보",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HS1R5WEwtNEpVVlg1SUtpTk9hU1d2Y0NKRTNBaFh6U3VjWFowaUh5Wlh4WjI4aW84SDBBMUdhOU1BNVNYc1NTSXpZZzF1V1k2UlVNY1dabXpVMjJKMS1FS0xRTWc?oc=5"
+  },
+  {
+   "title": "전주시, 수돗물 필터 변색 문제 해결 위해 관계기관과 긴급 간담회 개최",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WTVpQeTFlN24ySUdPc2YwQVlxM2cyTGVXM0FRWkJDM0VRclljYkZma0FxeGdmZUVNTkVzNDBsUEJJYnJ1OU02b25USXZhUlM0VVhZMVBKcmhSV00zUFpjblMxRGtQTzFKc3VQVnB1cXVXdw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WTVpQeTFlN24ySUdPc2YwQVlxM2cyTGVXM0FRWkJDM0VRclljYkZma0FxeGdmZUVNTkVzNDBsUEJJYnJ1OU02b25USXZhUlM0VVhZMVBKcmhSV00zUFpjblMxRGtQTzFKc3VQVnB1cXVXdw?oc=5"
+  },
+  {
+   "title": "전주시 수돗물 필터 변색 사태 수질검사 결과 47개 항목 모두 '적합'",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92R3hncDdDUU9KZ1l6Ujh2WXBxRUZ1ckNFWThlQy1ER01KTTVBUVVTTVZBX3VVUjVSTHFOak9rQUdLeEtUYjItOXlxZ2lFVkJ4S1Z6aWhfQUpGV3p6ZmdXby1RNHdjb1Q1T3pV?oc=5",
+   "source": "프레시안",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10bkp0YnJSQzlzd3ZIck1jS2JLWFFfQV9BS1pwQWxaczhaUzJnZy1zOVBfOEhzRUIwcGhCU09OV1V2aEg1ZXFxVW9SMnZ6ZTN6OXRMdA?oc=5"
+  },
+  {
+   "title": "가뭄에 취수 수심 바꿨더니 망간 유입…K-water 수질관리 강화",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRE5QY3ZfTDJrMmVabFhNWEV1eWNiN3NNSndGanBiazFnaUpUeXRWQmdIMUpjZncwT2U1MjJnMG9GRWpVMF9qbjRPS1VnMUpyckh5ZkxrSjA2NV9EZnNuaF9EWVdtekF3dzdEVURn?oc=5",
+   "source": "충청투데이",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "가뭄"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRE5QY3ZfTDJrMmVabFhNWEV1eWNiN3NNSndGanBiazFnaUpUeXRWQmdIMUpjZncwT2U1MjJnMG9GRWpVMF9qbjRPS1VnMUpyckh5ZkxrSjA2NV9EZnNuaF9EWVdtekF3dzdEVURn?oc=5"
+  },
+  {
+   "title": "단수 상황에서도 사용 가능한 샤워 시설…개발 기업, 일본 오카야마현과 협정 체결",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42N1JILXVNbC1SY0FCMElkWlRzeG1uLUdYNjFTaC1YYzlteDJhY2N1UnB5S2FyeEdBeU94elNJTVRLcWJsRUZWOEN5blgyUmlYMVotZVVrNElONWc2c3NDTUhVRDZ0cTcyR0hTcw?oc=5",
+   "source": "재팬코리아데일리",
+   "date": "2026-11-11",
+   "region": "해외",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42N1JILXVNbC1SY0FCMElkWlRzeG1uLUdYNjFTaC1YYzlteDJhY2N1UnB5S2FyeEdBeU94elNJTVRLcWJsRUZWOEN5blgyUmlYMVotZVVrNElONWc2c3NDTUhVRDZ0cTcyR0hTcw?oc=5"
+  },
+  {
+   "title": "[대구소식] 두류정수장서 김장 나눔·농특산물 직거래 행사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmM9IBYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmMw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmM9IBYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmMw?oc=5"
+  },
+  {
+   "title": "양산시, 44억 정수장 증설 '공법선정취소' 소송 패소",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81ZUkxeDJ3RzlSc25nWXJBTkFtSWVpZlR6UG5ySDdvcnctNjdLbFZPMThYZktBenJET0JaZExGamE5QkhPUk5qbkhHc0ZrSDNlWnFVdjRYZmk2YWNWdEIzMzN5WTg2ZlhPR0I4?oc=5",
+   "source": "양산뉴스파크",
+   "date": "2026-11-11",
+   "region": "경남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81ZUkxeDJ3RzlSc25nWXJBTkFtSWVpZlR6UG5ySDdvcnctNjdLbFZPMThYZktBenJET0JaZExGamE5QkhPUk5qbkhHc0ZrSDNlWnFVdjRYZmk2YWNWdEIzMzN5WTg2ZlhPR0I4?oc=5"
+  },
+  {
+   "title": "대구 두류정수장서 김장 나누고 농특산물 직거래",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZF9ISHlQSjMzVng0dU9nWG9vUWpqbjR0YU9zRU9oS05PSXdvWVhJVGN5WGpkR1hTSVY5S1pzMUdtZ1YzcGJ0Z3pQTERZbEJub1VsZHVtakljZw?oc=5",
+   "source": "경북매일",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmM9IBYEFVX3lxTFBPY2V3RFFObWR5NVVYdVBqckl3WjJYSjdRcWdMVHFxRXRBM1Ytdko2RXROcnFpVFFvNlBCRlkyUS1BZjZwZ2lEX0ttVlZRbmtxVGR5dlM5VDkxQmRXdEpmMw?oc=5"
+  },
+  {
+   "title": "정읍시 칠보면 이장단 정수장등 견학",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ek9zT3BjRTBIRTNKV3Y1blBHUGltYnNlRmItNTFTWVpWbUhaS3R1UWtFTmVnNWdoUGhNcVByY29CbGwwdXBOVVJocGE4RlNKRk1uSHk3VGVtaU1mSk9oMXJuU0oxSmvSAWtBVV95cUxNbE5ZQ0wzSWs3VjNnQWhDZ3ZTNFh0UlZGN1I2VWE1SWJBS0RCWUpaeWR3OUFwb0dsclNLTTFUZ2VLbUdVTE9fd1hRMlljOFZDR0loeDZJbkVRcFRiX2hYTXI4UzVHV1FnRlBYMA?oc=5",
+   "source": "전북중앙",
+   "date": "2026-11-11",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ek9zT3BjRTBIRTNKV3Y1blBHUGltYnNlRmItNTFTWVpWbUhaS3R1UWtFTmVnNWdoUGhNcVByY29CbGwwdXBOVVJocGE4RlNKRk1uSHk3VGVtaU1mSk9oMXJuU0oxSmvSAWtBVV95cUxNbE5ZQ0wzSWs3VjNnQWhDZ3ZTNFh0UlZGN1I2VWE1SWJBS0RCWUpaeWR3OUFwb0dsclNLTTFUZ2VLbUdVTE9fd1hRMlljOFZDR0loeDZJbkVRcFRiX2hYTXI4UzVHV1FnRlBYMA?oc=5"
+  },
+  {
+   "title": "“나만의 김장 직접 담가요”…대구시, 옛 두류정수장서 체험형 김장 축제 연다",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbDVvZUk4VzRxVElDYTBhYTNzQmp4YkNVNWgtNmJZMXBQVWhBd1FTNGFzLUxEZHdnNktaNl9uRHFMUXg0TDlmUlNndWlvSE90LWpfamFDZU93NmpuM1I2dENhZ2JrV1pQb0E?oc=5",
+   "source": "www.newstory24.com",
+   "date": "2026-11-11",
+   "region": "대구",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbDVvZUk4VzRxVElDYTBhYTNzQmp4YkNVNWgtNmJZMXBQVWhBd1FTNGFzLUxEZHdnNktaNl9uRHFMUXg0TDlmUlNndWlvSE90LWpfamFDZU93NmpuM1I2dENhZ2JrV1pQb0E?oc=5"
+  },
+  {
+   "title": "[춘천시] 2027년 상하수도 기반시설 확충에 304억 확보",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVzVoaTB2MzJnaUM4ZDZkai05cW14dWVYUzFfMEdsWU5wQXJTT2xhaXdOTFFuTVNqTUFNcHVfQWVXdURYYkVJWmpHZFBZNTNlYVVKNEl5bFJNMmZnQU43Z3N5NFFMYmZTTnBZc2xGLWJnSnE0N3fSAXZBVV95cUxQRlc1aGkwdjMyZ2lDOGQ2ZGotOXFteHVlWFMxXzBHbFlOcEFyU09sYWl3TkxRbk1Tak1BTXB1X0FlV3VEWGJFSVpqR2RQWTUzZWFVSjRJeWxSTTJmZ0FON2dzeTRRTGJmU05wWXNsRi1iZ0pxNDd3?oc=5",
+   "source": "워터저널",
+   "date": "2026-11-11",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QQkVIOVdqNmF5ZmRLRWtPWkhKMWZ5eGRwX3NCM3FobWQ1UzlSNFJQMmduVWtKOXREdVRZZ1lFZUdRWGt3M09RbGtUaVRjQnBNY3dHNk1OYV9BLW9URTVSY3lWYXZOUDVxVTJ3Mm5B?oc=5"
+  },
+  {
+   "title": "오늘 저녁(11월 11일)부터 호치민시 11개 구역에 단수가 실시됩니다.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0hrZWNUVU9XbjFReVNQY0pyLU5KWGNsT25TQVFfT29LWkJWSTdLajhuemxVSmtENzAxR0F0Q04xQWF2NHIyVVJ6UzdGYWFQSExWOVNER0VOZkFuMm12WGFQbzRiOVNid3pJMVlNZXNaTnlOa2dtUGduTDZzS0JteQ?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-11-11",
+   "region": "해외",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0hrZWNUVU9XbjFReVNQY0pyLU5KWGNsT25TQVFfT29LWkJWSTdLajhuemxVSmtENzAxR0F0Q04xQWF2NHIyVVJ6UzdGYWFQSExWOVNER0VOZkFuMm12WGFQbzRiOVNid3pJMVlNZXNaTnlOa2dtUGduTDZzS0JteQ?oc=5"
+  },
+  {
+   "title": "[사설] 누수에 발목잡힌 민주주의기록관, 개관은 하세월",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHlJdDdyMzBBdkpUVG1ybVdxN08xdUhldGd2UkpFc3dLYVA1N0dGTUdKa3ZLTXVGaTI1VXpyUVNldmN0Z09maDVHbDhGaFd1TFhzUmJCSVUtWUh4UWNMalRpT3dLWDNKTVBVMHVnRmtoVUdvdjFjd3ZpbkhFTHF6Z1luNFJwbmtSb2pLbmd4NTQwMjg?oc=5",
+   "source": "국제신문",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기고",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHlJdDdyMzBBdkpUVG1ybVdxN08xdUhldGd2UkpFc3dLYVA1N0dGTUdKa3ZLTXVGaTI1VXpyUVNldmN0Z09maDVHbDhGaFd1TFhzUmJCSVUtWUh4UWNMalRpT3dLWDNKTVBVMHVnRmtoVUdvdjFjd3ZpbkhFTHF6Z1luNFJwbmtSb2pLbmd4NTQwMjg?oc=5"
+  },
+  {
+   "title": "김영희 경기도의회 부위원장, 학교 누수·초등돌봄 운영 개선 촉구",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91SFQybVNaSW9JRkh1QVFRdnMtamVHeUhGTUwtZGRvU3dneUREbXJBR3NYSXBmQk40WmdoWnQ4eTNPU05PVEsxOEVxbURGcVdZWVNmMVVhRW5XSEo5RnFFOGN4S0dwSEVYUWhGZTJR?oc=5",
+   "source": "전국매일신문",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91SFQybVNaSW9JRkh1QVFRdnMtamVHeUhGTUwtZGRvU3dneUREbXJBR3NYSXBmQk40WmdoWnQ4eTNPU05PVEsxOEVxbURGcVdZWVNmMVVhRW5XSEo5RnFFOGN4S0dwSEVYUWhGZTJR?oc=5"
+  },
+  {
+   "title": "[데스크칼럼] 분양받은 것은 희망이었는데, 돌아온 것은 누수와 싸움뿐인가:설악타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Wi1KOUVIUXhPNDFDNVJZbUx3dGdrZHVJb3RjdnVST3o1MUFiVE5OMHBERzJNTmNrcjRlbFp6a3I3akpHZlNsT3d1cy1BX3dPSTVDWWc5a01QUFUzUmY5TTJERi3SAWRBVV95cUxNelotSjlFSFF4TzQxQzVSWW1Md3Rna2R1SW90Y3Z1Uk96NTFBYlROTjBwREcyTU5ja3I0ZWxaemtyN2pKR2ZTbE93dXMtQV93T0k1Q1lnOWtNUFBVM1JmOU0yREYt?oc=5",
+   "source": "설악타임즈",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기고",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Wi1KOUVIUXhPNDFDNVJZbUx3dGdrZHVJb3RjdnVST3o1MUFiVE5OMHBERzJNTmNrcjRlbFp6a3I3akpHZlNsT3d1cy1BX3dPSTVDWWc5a01QUFUzUmY5TTJERi3SAWRBVV95cUxNelotSjlFSFF4TzQxQzVSWW1Md3Rna2R1SW90Y3Z1Uk96NTFBYlROTjBwREcyTU5ja3I0ZWxaemtyN2pKR2ZTbE93dXMtQV93T0k1Q1lnOWtNUFBVM1JmOU0yREYt?oc=5"
+  },
+  {
+   "title": "경기도의회 김영희 부위원장, 학교 누수 대응 격차·초등돌봄 운영 실효성 점검",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42N0Z4QzBSWXkxb3ZjWWhTVTB2Z1J2dzNFT3ppOEFVd3d2b2Q3aFNPRWtsOWVjMzBwUEZ3RHNqZ2x1UTE1RTI2Q2lTdXJaODczUGpQcmhDN2hRZnlGUXNNMzlNRFRjb1kzclE?oc=5",
+   "source": "대한투데이",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91SFQybVNaSW9JRkh1QVFRdnMtamVHeUhGTUwtZGRvU3dneUREbXJBR3NYSXBmQk40WmdoWnQ4eTNPU05PVEsxOEVxbURGcVdZWVNmMVVhRW5XSEo5RnFFOGN4S0dwSEVYUWhGZTJR?oc=5"
+  },
+  {
+   "title": "경기도의회 김영희 부위원장, 학교 누수 관리와 초등돌봄 운영 실태 점검",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KdjVuNjFuVjQyUXVyZElsZXVYLVRsVGNWdDlldXVneGxVOWM1TktBY2lGSnlxNmk3M0Zmcl9hb0xMcUZDYTRnUVJnTHNoZFVXUnpxQmg3LTU2QU5rZVFSZ3BRa0tSSTZNZUdpUzRGZlFvZw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91SFQybVNaSW9JRkh1QVFRdnMtamVHeUhGTUwtZGRvU3dneUREbXJBR3NYSXBmQk40WmdoWnQ4eTNPU05PVEsxOEVxbURGcVdZWVNmMVVhRW5XSEo5RnFFOGN4S0dwSEVYUWhGZTJR?oc=5"
+  },
+  {
+   "title": "시흥물환경센터 분뇨처리장서 분뇨 유출…한 달 지나도 악취 진동",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb2RGWHlHU1N4dlZvU2VsX2JEMHZVNTctLXUyZFNLUEI3aXNZbURnN01lRngzbUtYcEFvS2RyRUxlOWlvNFIzdlNmYUtLWmw2aTNOLXgwN3ZPcmM?oc=5",
+   "source": "경기일보",
+   "date": "2026-11-11",
+   "region": "경기",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "유출",
+    "악취"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb2RGWHlHU1N4dlZvU2VsX2JEMHZVNTctLXUyZFNLUEI3aXNZbURnN01lRngzbUtYcEFvS2RyRUxlOWlvNFIzdlNmYUtLWmw2aTNOLXgwN3ZPcmM?oc=5"
+  },
+  {
+   "title": "하수·분뇨 따라 이동하는 약물 잔류…UNEP, 배출원 관리 제안",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SencyaHRGdzE5cEl2ZXE4MTl2SS1pb3dVX3NQNXktOV9EeVJON29UN3BoNWY2WEwzVkJtTEZWUXVwamozd25UdW9SUEZZc05WbWY2ZVRIb0I0UXY1Q2h4dFRTTmpwQQ?oc=5",
+   "source": "비건뉴스",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": true,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SencyaHRGdzE5cEl2ZXE4MTl2SS1pb3dVX3NQNXktOV9EeVJON29UN3BoNWY2WEwzVkJtTEZWUXVwamozd25UdW9SUEZZc05WbWY2ZVRIb0I0UXY1Q2h4dFRTTmpwQQ?oc=5"
+  },
+  {
+   "title": "가축분뇨 118만t 연료화 추진…상업화 앞두고 생산비·수요 확보 과제",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WU0RSTnJYQ2E1VnI1d183VHE1SkdrWjVnMGJJOC03czdDaXI0U1gwZXVLZjQzbWJFWEJLNFAtNEJWWGdLaktMMGltSUtwUFlCXzdFYXFwaXo?oc=5",
+   "source": "국민일보",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "분뇨"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WU0RSTnJYQ2E1VnI1d183VHE1SkdrWjVnMGJJOC03czdDaXI0U1gwZXVLZjQzbWJFWEJLNFAtNEJWWGdLaktMMGltSUtwUFlCXzdFYXFwaXo?oc=5"
+  },
+  {
+   "title": "삼성·SK 호남 반도체 용수 가뭄엔?…대통령 직속위 검증 착수",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WWWp5dm5hSEhYelI1eXpUODJucXpXVmpNZllybGpSdFZUQ3ppM1MzOXdidUtGZ2s2ZUY1OE11YVR2ZDgxTWQwRzNBUmliSVRuRVdxVFJCd2HSAVhBVV95cUxNVllqeXZuYUhIWHpSNXl6VDgybnF6V1ZqTWZZcmxqUnRWVEN6aTNTMzl3YnVLRmdrNmVGNThNdWFUdmQ4MU1kMEczQVJpYklUbkVXcVRSQndh?oc=5",
+   "source": "SBS Biz",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "가뭄"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WWWp5dm5hSEhYelI1eXpUODJucXpXVmpNZllybGpSdFZUQ3ppM1MzOXdidUtGZ2s2ZUY1OE11YVR2ZDgxTWQwRzNBUmliSVRuRVdxVFJCd2HSAVhBVV95cUxNVllqeXZuYUhIWHpSNXl6VDgybnF6V1ZqTWZZcmxqUnRWVEN6aTNTMzl3YnVLRmdrNmVGNThNdWFUdmQ4MU1kMEczQVJpYklUbkVXcVRSQndh?oc=5"
+  },
+  {
+   "title": "용수·전력 해법 속속…호남 반도체 산단 조성 ‘속도’",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SmdIdUVXaV94d0J3NXczdnJfVVNOWUJxUjJpdUIwREFmUXJCUVpaYjhUNEpIQ2xqWjFnMjlON1pMZmZzT0VValBGWmpndERHUGlmNDBKTkdlOTAyaW5vVXRvUG1nbHZwMmduVllFTGHSAXBBVV95cUxPNUpnSHVFV2lfeHdCdzV3M3ZyX1VTTllCcVIyaXVCMERBZlFyQlFaWmI4VDRKSENsaloxZzI5TjdaTGZmc09FVWpQRlpqZ3RER1BpZjQwSk5HZTkwMmlub1V0b1BtZ2x2cDJnblZZRUxh?oc=5",
+   "source": "남도일보",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SmdIdUVXaV94d0J3NXczdnJfVVNOWUJxUjJpdUIwREFmUXJCUVpaYjhUNEpIQ2xqWjFnMjlON1pMZmZzT0VValBGWmpndERHUGlmNDBKTkdlOTAyaW5vVXRvUG1nbHZwMmduVllFTGHSAXBBVV95cUxPNUpnSHVFV2lfeHdCdzV3M3ZyX1VTTllCcVIyaXVCMERBZlFyQlFaWmI4VDRKSENsaloxZzI5TjdaTGZmc09FVWpQRlpqZ3RER1BpZjQwSk5HZTkwMmlub1V0b1BtZ2x2cDJnblZZRUxh?oc=5"
+  },
+  {
+   "title": "기후부, 호남권 반도체 산단 전력·용수 공급 현장점검",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZ0x4Mk4yZHMtYjNwdVByN0tjeUluN0xiVFhJTmJyeC1YNl9DYk9qVXYxSV9WV3FRNzNDQ1pDUHNibmthQ3czbVVTNExGdGhYODJqQ2NlUUtoeXp5bWhJQ2pzYmNjTlXSAWtBVV95cUxNTTRpaGd1ODlVTkJUVFZTdU9nclJMMUV3RWE1SjNLUTF4UnBqOENkZzFCaFB3Z0Rta1BSWGphY3hlVE1PX1E4SVRSX0xFQ1hHamtFVFJaX1ZITWNFMzMyUWRNZTlFZ3NIQUNncw?oc=5",
+   "source": "인사이트에너지뉴스",
+   "date": "2026-11-11",
+   "region": "전국",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnMV9rVDIzVmM5aDM0LTE1R1hCU0JDSk9GdHlIWW44WFMyZGs0Sk5hTXFVUFdGaUp3UGdhOWpFeHJMZ0lIX25pb1pYZ2IzY0gtMk9RT2UzTXhfN1VkY3p1aXR0WXUydDBEaDkwa0hB?oc=5"
+  },
+  {
+   "title": "\"버리는 하수로 300만 가구 난방 가능\"...17일부터 재생에너지 인정",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KN3pNV2NhSkRLbWxUQ2dNOF9QeGtsQ3FQb3VhVE55NlpGVU41MWIzb3RRWThIaUUtcVU0ODd3VENjWlA3Q0MxZjJRQ1pmbUZtSVpISHByeGJRU2Z2Q3lqdTUtXzQ?oc=5",
+   "source": "www.ppss.kr",
+   "date": "2026-11-11",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KN3pNV2NhSkRLbWxUQ2dNOF9QeGtsQ3FQb3VhVE55NlpGVU41MWIzb3RRWThIaUUtcVU0ODd3VENjWlA3Q0MxZjJRQ1pmbUZtSVpISHByeGJRU2Z2Q3lqdTUtXzQ?oc=5"
+  },
+  {
+   "title": "김덕홍 의원 “가뭄 때마다 급수차·물백 반복”…제주 농업용수 확보 근본 대책 촉구",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2amNOVG0zZzRnQUlReU1RME5oZ1h0RjlrYjdjVUF6dzV1bnhEZHlhNkhRdVpCdXRRMGgxLUhVeV8wVGRJWHFGRDNVZ0F3eXZOMjJEZV9udVk2Mk1rR19zcWJlZTJIVzBRbUZWYg?oc=5",
+   "source": "뉴스N제주",
+   "date": "2026-11-11",
+   "region": "제주",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도",
+    "가뭄"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2amNOVG0zZzRnQUlReU1RME5oZ1h0RjlrYjdjVUF6dzV1bnhEZHlhNkhRdVpCdXRRMGgxLUhVeV8wVGRJWHFGRDNVZ0F3eXZOMjJEZV9udVk2Mk1rR19zcWJlZTJIVzBRbUZWYg?oc=5"
+  },
+  {
    "title": "인천환경공단, AI 활용 하수처리·수질분석 연구성과 2건 발표",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jUUNZU1pBVW81WG5FQXB0eFhCRVZYalltMkhabjFPOVFJRUIzNHNuWnB5MkhpTEVoejlfWlcxTDN4dUFJNk5VeGRMWDlZYXhuRkJaVk5ULWhrX1pxRmhYWUREcFVHUC0xTUVKRmpkNVQ?oc=5",
    "source": "신아일보",
@@ -689,7 +2600,7 @@
    "tags": [],
    "summary": "",
    "figures": [],
-   "group": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OTGJsT2xRX2NBTjliekw3WWNDZTY2VE9LcHZ0bVhuUjdIdHZpUjlEaVFaRmtFWndGQTMzZ2tQQmh0cnJLU2VjNG9GYmdqS3JTS084c2NaOU5QUVpNQllKS0ZOQkZvNk50bHhycU5teXB1Zw?oc=5"
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jd0pDbkctaWxVR3NWal9SX3N0UnkxcWlGTU15SWJGZ2VnZWJRWHZHd0tuZ2x4cVBBb082WkJ2TFpvd2EwV2lxc0tIcE82TkYwM3AxSWZudUFad3Jra0lTQUlmYWlvRVNQY3Nr?oc=5"
   },
   {
    "title": "강릉시, 옥계면 1.6km 하수관로 연막시험…24개 맨홀 점검",
@@ -2432,7 +4343,7 @@
    "tags": [],
    "summary": "",
    "figures": [],
-   "group": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OTGJsT2xRX2NBTjliekw3WWNDZTY2VE9LcHZ0bVhuUjdIdHZpUjlEaVFaRmtFWndGQTMzZ2tQQmh0cnJLU2VjNG9GYmdqS3JTS084c2NaOU5QUVpNQllKS0ZOQkZvNk50bHhycU5teXB1Zw?oc=5"
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jd0pDbkctaWxVR3NWal9SX3N0UnkxcWlGTU15SWJGZ2VnZWJRWHZHd0tuZ2x4cVBBb082WkJ2TFpvd2EwV2lxc0tIcE82TkYwM3AxSWZudUFad3Jra0lTQUlmYWlvRVNQY3Nr?oc=5"
   },
   {
    "title": "춘천 용산정수장 내년 2월 완성…농촌까지 깨끗한 수돗물 확 뚫린다",
@@ -2685,7 +4596,7 @@
    "tags": [],
    "summary": "",
    "figures": [],
-   "group": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OTGJsT2xRX2NBTjliekw3WWNDZTY2VE9LcHZ0bVhuUjdIdHZpUjlEaVFaRmtFWndGQTMzZ2tQQmh0cnJLU2VjNG9GYmdqS3JTS084c2NaOU5QUVpNQllKS0ZOQkZvNk50bHhycU5teXB1Zw?oc=5"
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jd0pDbkctaWxVR3NWal9SX3N0UnkxcWlGTU15SWJGZ2VnZWJRWHZHd0tuZ2x4cVBBb082WkJ2TFpvd2EwV2lxc0tIcE82TkYwM3AxSWZudUFad3Jra0lTQUlmYWlvRVNQY3Nr?oc=5"
   },
   {
    "title": "[인천시의회 행감] “송도국제도시에 90도 상수도 수직관 17곳, 대형 누수 우려…대책 시급”",
@@ -3897,6 +5808,119 @@
    "summary": "",
    "figures": [],
    "group": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1FeWZ5QXR4N2Z4SVpqd2o1V09nUWZrZTM2dV9XeTNOSzdvZWowVm8xb1VDWURidTY3UUpPb19qTkItT05V?oc=5"
+  },
+  {
+   "title": "익산 공공하수처리장 쾌적한 시민 공간으로",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTFMwbXlWWG1CaUExTWR2SW05NmN0RV81N0J5UVhkRVI5NDlucjdOY3JqTVBrX091YXlLbXJsS2VaXzVodExwMXQwTVNTbXVlQlNUVnA0Q2pZTGE3d1lKVHpQbkU4cEN6cWZJ?oc=5",
+   "source": "전주일보",
+   "date": "2026-11-10",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수처리장"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTFMwbXlWWG1CaUExTWR2SW05NmN0RV81N0J5UVhkRVI5NDlucjdOY3JqTVBrX091YXlLbXJsS2VaXzVodExwMXQwTVNTbXVlQlNUVnA0Q2pZTGE3d1lKVHpQbkU4cEN6cWZJ?oc=5"
+  },
+  {
+   "title": "인천시의회 조민경 의원, 상수도본부 누적 재정적자 지적",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hVklIRmI5ZE9VaHA2STZsaDlYSWRfR2t6UkZ6bjMyeXhVdnI5UTNoeW1BUDJaLW0tMXRERXVlWC11VWxFc2NZa2ZNcnRxbGt1ZDk1SWRPM1BMQlBPdnJLdVJnLVBac1FyNWxn?oc=5",
+   "source": "일간투데이",
+   "date": "2026-11-10",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hVklIRmI5ZE9VaHA2STZsaDlYSWRfR2t6UkZ6bjMyeXhVdnI5UTNoeW1BUDJaLW0tMXRERXVlWC11VWxFc2NZa2ZNcnRxbGt1ZDk1SWRPM1BMQlBPdnJLdVJnLVBac1FyNWxn?oc=5"
+  },
+  {
+   "title": "속초시, 노후 상수관 누수 확인 시험…일부 지역 단수",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KZ1BRajE4VlpqNGItZUppSDVGV2lrTmp6a05mUUt4QnZkcUlkNVllcHFoNlRVZm95akJHME5fZmRzTjJsRlRHbE9SR3lmMTNzdnd4aGVSVmpyeFU?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-11-10",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41ei1pTFNIV0hYaXVJY0ZCZ3I3ajdBTF9sR2l4U1A0Ml9HejRjekN2N1JOWjRJZ0NhUTFSajFHNnhJS0prZU9kY1llVVJVZ1hrTXJCblJwQUItOENqdXFRR1lTNW4xd1NpQjA4OE5HdTA?oc=5"
+  },
+  {
+   "title": "조민경·인천의회, 송도 상수관로 송도서 두 번 터졌는데 복선화는 언제?",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wbG1Zd3paN1pTU0FnMGFiRGxwbnFuY0ZUb3ZCaFMtV1MzcTd1WmN1d0hpcGIxODBJT1pubEotY05hb3p4NmNNYVFGVVl5VFJVMDM1VEZhcXdiZWtDN21rbjZWMVZFM0gzVFNUZ05fUQ?oc=5",
+   "source": "오토투데이",
+   "date": "2026-11-10",
+   "region": "인천",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wbG1Zd3paN1pTU0FnMGFiRGxwbnFuY0ZUb3ZCaFMtV1MzcTd1WmN1d0hpcGIxODBJT1pubEotY05hb3p4NmNNYVFGVVl5VFJVMDM1VEZhcXdiZWtDN21rbjZWMVZFM0gzVFNUZ05fUQ?oc=5"
+  },
+  {
+   "title": "전북자치도, 전주 수돗물 흙냄새·필터 변색 현장점검…수질관리 강화",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00VmtmUEl0dnJOSWlPejEzdDNoSUtreGs4Yzc2NzJjd090S2dlY3BxUmtXaUF6LWdETTdLdVRCQ1F5Qm83RmVTZXdDYzVZODRxbktHbVhNV05uVjFQcF9Vb0ttcE8yVXRT?oc=5",
+   "source": "투데이안",
+   "date": "2026-11-10",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "점검",
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://www.gukjenews.com/news/articleView.html?idxno=3742697"
+  },
+  {
+   "title": "경남, 가축분뇨 처리에 53억 투입…김해·창녕·합천 선정, 축산악취 개선 효과가 관건",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90WXg4bmZOU0lsQUt1QVJ2MHlWalJnQTh2MDgtNDZDTGtuQXIzckdzcmpYT1lJeE1jZmliWXNsWF9DS0J3ZXdseS1GemdwdUZUUFNYRkc1SXRZa2g2VU5JdXpBd08zOTNUQ2lnc0tKT1ZFT3V3ektn?oc=5",
+   "source": "진주인터넷뉴스",
+   "date": "2026-11-10",
+   "region": "경남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "분뇨",
+    "악취"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90WXg4bmZOU0lsQUt1QVJ2MHlWalJnQTh2MDgtNDZDTGtuQXIzckdzcmpYT1lJeE1jZmliWXNsWF9DS0J3ZXdseS1GemdwdUZUUFNYRkc1SXRZa2g2VU5JdXpBd08zOTNUQ2lnc0tKT1ZFT3V3ektn?oc=5"
+  },
+  {
+   "title": "춘천, 상하수도 시설 확충·노후시설 정비 추진",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wWWtuY29HNnNRR0dYRXR6OHpfUEcwQ1ZCV2Z0S2p2bFJBVVFSQTJ0Q2pYUzhLS0toZ2hNbVJscUdVejhRV2c4aFowZXkzaHRhRGh1TnZSTmowbkM4QTRDTkRhM01BelQxczI00gFvQVVfeXFMT1RoWlFfTHlYOWFyX1lmUWlrTHNGY3ZFZ2w5cFdwd20zTGdHTHBQSWdEcE5Ta1JZNnVBV1I2M0x3MHpfaW1rMXpiM2hPel93ZXlhU05wMjZuWHpHdV9hQWFOWlVBeUNCNTVvUWNOTVdv?oc=5",
+   "source": "서울일보",
+   "date": "2026-11-10",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wWWtuY29HNnNRR0dYRXR6OHpfUEcwQ1ZCV2Z0S2p2bFJBVVFSQTJ0Q2pYUzhLS0toZ2hNbVJscUdVejhRV2c4aFowZXkzaHRhRGh1TnZSTmowbkM4QTRDTkRhM01BelQxczI00gFvQVVfeXFMT1RoWlFfTHlYOWFyX1lmUWlrTHNGY3ZFZ2w5cFdwd20zTGdHTHBQSWdEcE5Ta1JZNnVBV1I2M0x3MHpfaW1rMXpiM2hPel93ZXlhU05wMjZuWHpHdV9hQWFOWlVBeUNCNTVvUWNOTVdv?oc=5"
   },
   {
    "city": "서산시",
@@ -6166,6 +8190,68 @@
    "summary": "",
    "figures": [],
    "group": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ram1fU0MzcWk4WEZ3Y21udXctRU9Kd0w4WkVkQWlaZEpTZzRua1lKY3QzakJWQjducXRTOTF5d2JVMWJIS0hEUG9RMUV1UTZUMUU3bldhNjlQTnRrZFlqdDAtemVRazdFdzdTbGlYbTU?oc=5"
+  },
+  {
+   "title": "춘천시, 내년 상하수도 기반시설 확충·정비 박차",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jd0pDbkctaWxVR3NWal9SX3N0UnkxcWlGTU15SWJGZ2VnZWJRWHZHd0tuZ2x4cVBBb082WkJ2TFpvd2EwV2lxc0tIcE82TkYwM3AxSWZudUFad3Jra0lTQUlmYWlvRVNQY3Nr?oc=5",
+   "source": "일간투데이",
+   "date": "2026-11-09",
+   "region": "강원",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jd0pDbkctaWxVR3NWal9SX3N0UnkxcWlGTU15SWJGZ2VnZWJRWHZHd0tuZ2x4cVBBb082WkJ2TFpvd2EwV2lxc0tIcE82TkYwM3AxSWZudUFad3Jra0lTQUlmYWlvRVNQY3Nr?oc=5"
+  },
+  {
+   "title": "서산시, 운산면 일대 노후 하수관 정비 착수… 쾌적한 주거 환경 조성",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yNzdqUlBERk1TVGNzYjBueUVrT1dBcEh1WWNtamNJQTFfWF9Ib3FKYTBtZ0ZmWVQ3aXRiVzBFMDRidEUtS1drbmE2Mkh3Tlo1by1pRnlGMkpOT0E4YUYyczRQSWk?oc=5",
+   "source": "충청탑뉴스",
+   "date": "2026-11-09",
+   "region": "충남",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "하수관로"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://www.megaccnews.com/news/articleView.html?idxno=13831"
+  },
+  {
+   "title": "GH, 안양 인덕원사거리 상수도관 공사 '통합시행' 결정… 도로 차단 기간 58% 단축",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZZXFZTk1JWkNaUm5rcjdaWjZDbzVRdDNXT3I3bElyTVg1N0NST1pyZGFhZ19GdTJjVzMtSGlvZl9HRi1BUnNWMmJWMlNEQmxaYTk1NXVkaGVmYmxtOGxpOFU2REJ5ZlBiYnVUaGc3TQ?oc=5",
+   "source": "굿타임즈",
+   "date": "2026-11-09",
+   "region": "경기",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qUnY2b2hwQWtoQjRnQzRNeU5TWkV1YV8zU0NOaXRObmlDbFJCSEF6WWJiREgxTzU4bWJoTkZnNHFPZTF4eFNLaXB1S3Rud1JwSTh3YmVOcXBBSFNfRTBlZ2U0VQ?oc=5"
+  },
+  {
+   "title": "전주시의회, ‘수돗물 필터 변색’ 원인 규명·조속한 수습 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTHVWZl9MSHh6eU4yWE1hc3A2Z1ZXYWp1Ri05bWQ3LW9wOGg4eW1qMmVzVzU2NUN0SXM2YUF6TWVXUDVYSkpRLXE0WjhBZlkwaGZwQWZTOFo0WmJDd0xHaWE0UmExQjVNQUE?oc=5",
+   "source": "전북도민일보",
+   "date": "2026-11-09",
+   "region": "전북",
+   "city": "",
+   "focus": false,
+   "kind": "기사",
+   "tags": [
+    "상수도"
+   ],
+   "summary": "",
+   "figures": [],
+   "group": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZS1CMGVaWVNGVVVZZ0FSbEFnc1BZbXJkcnBSUzMwMzRXYkxtOHFUbENrbmhCdjNEZXVYanVyVUFOand6d0FNZDdDdm94MEVtbkRoR0R4X3ppUktwLXJDVU8tOVlLRHduMVE?oc=5"
   },
   {
    "city": "속초시",
@@ -9218,26 +11304,6 @@
    "group": "https://www.newsnjeju.com/news/articleView.html?idxno=301876"
   },
   {
-   "city": "파주시",
-   "date": "2026-10-12",
-   "figures": [
-    "60곳",
-    "50㎥/일 미만",
-    "10.12~11.20"
-   ],
-   "focus": true,
-   "region": "경기",
-   "source": "아시아뉴스통신",
-   "summary": "파주시가 약 40일간 하수처리구역 밖 소규모 시설 60곳을 점검한다. 무단방류, 전원 차단 등 관리기준 위반, 방류수 수질을 확인해 위반 시 고발·과태료를 부과한다.",
-   "tags": [
-    "점검"
-   ],
-   "title": "파주시, '소규모 개인하수처리시설' 집중 지도 점검 실시",
-   "url": "https://www.anewsa.com/detail.php?number=3206574",
-   "id": "anewsa-3206574",
-   "group": "https://www.anewsa.com/detail.php?number=3206574"
-  },
-  {
    "city": "제주시",
    "date": "2026-10-12",
    "figures": [
@@ -9558,172 +11624,115 @@
  ],
  "reports": [
   {
-   "id": "충남",
-   "region": "충남",
-   "count": 34,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "충남 상하수도 기사 34건 · 개인하수처리시설 0건",
+   "id": "인천",
+   "region": "인천",
+   "count": 52,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "인천 상하수도 기사 52건 · 개인하수처리시설 1건",
    "focus": [
-    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+    "최근 개인하수처리시설 기사: [단독] 송도 아파트 지하주차장에 오수 역류...차량 피해·정전까지 (경인방송, 2026-10-31)"
    ],
    "body": [
-    "많이 나온 주제: 하수관로(21), 침수(5), 하수처리장(4), 점검(2), 상수도(2).",
-    "최신 기사: [저널25방송 팩트체크 결론] 보령시 배수설비 행정관리 어디까지 했나… 신고·검사는 비공개, 사후 점검은 기록 부존재 (2026-11-11) / [저널25방송 팩트체크 2] 보령시 배수설비 사후 점검·위반 기록 '부존재'… 실제 관리 여부 밝혀야 (2026-11-10) / 모정환 전남광주통합특별시의원, 제2하수처리장 설계용역 반복 중단에 따른 예산 낭비 질타 (2026-11-10)."
+    "많이 나온 주제: 상수도(29), 하수관로(9), 요금(4), 지원사업(3), 점검(1).",
+    "최신 기사: 인천환경공단, 한국상하수도협회와 손잡고 하수도 전문인력 키운다 (2026-11-12) / 최병은 인천시의회 의원, 서북부 신도시 상수도 인프라 선제 확충 촉구 (2026-11-11) / \"인천시, 물값 32% 올려놓고 수도관 교체는 33% 축소\" (2026-11-11)."
    ],
    "keyPoints": [
-    "전체 34건",
-    "개인하수처리시설 0건",
-    "기고·칼럼 0건"
-   ]
-  },
-  {
-   "id": "전국",
-   "region": "전국",
-   "count": 122,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "전국 상하수도 기사 122건 · 개인하수처리시설 0건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
-   ],
-   "body": [
-    "많이 나온 주제: 상수도(48), 지하수(11), 하수관로(7), 점검(7), 유출(5).",
-    "최신 기사: ‘턴키’ 새만금 하수처리시설, 또 유찰… 수의계약 유력 (2026-11-11) / 하수·유출지하수·공업용수도 '재생에너지'…수열원 7종 추가, 실효성은 후속 규정에 (2026-11-11) / 공우석 시의원 “노후 하수관로 조사 넘어 위험구간 정비 서둘러야” (2026-11-11)."
-   ],
-   "keyPoints": [
-    "전체 122건",
-    "개인하수처리시설 0건",
-    "기고·칼럼 1건"
-   ]
-  },
-  {
-   "id": "서울",
-   "region": "서울",
-   "count": 25,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "서울 상하수도 기사 25건 · 개인하수처리시설 2건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 관악구 개인하수처리시설의 청소 및 분뇨처리 관련 조례안 ‘찬·반 격돌’ (관악신문, 2026-11-06) / 서초구, '자치구 하수악취저감 추진실적 평가' 2년 연속 1위 달성 (내외일보, 2026-11-05)"
-   ],
-   "body": [
-    "많이 나온 주제: 상수도(15), 제도(6), 수질(3), 점검(2), 하수처리장(2).",
-    "최신 기사: 서울시의회 도시안전건설위, 하수처리시설 및 시설현대화 사업 점검 (2026-11-11) / 김병진 서울시의원 “하수관로 공사 매몰 사망 반복… 서울시, 시정조치 이행까지 확인해야” (2026-11-11) / 강신욱 시의원, 서울 하수도사업 조례 불일치 지적…상위법령 준수 촉구 (2026-11-10)."
-   ],
-   "keyPoints": [
-    "전체 25건",
-    "개인하수처리시설 2건",
-    "기고·칼럼 0건"
-   ]
-  },
-  {
-   "id": "경기",
-   "region": "경기",
-   "count": 59,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "경기 상하수도 기사 59건 · 개인하수처리시설 1건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 파주시, '소규모 개인하수처리시설' 집중 지도 점검 실시 (아시아뉴스통신, 2026-10-12)"
-   ],
-   "body": [
-    "많이 나온 주제: 상수도(14), 하수처리장(4), 지하수(4), 요금(3), 점검(2).",
-    "최신 기사: 안성시 하수처리시설 재이용사업 성공 마무리 (2026-11-11) / 안성시, 공공하수도시설 하수처리수 재이용사업 준공 (2026-11-11) / 고양시의회 전희정 의원 “하수도 요금은 오르는데 1,336억 원 쌓여”…계속비 예산 집행 부진 지적 (2026-11-11)."
-   ],
-   "keyPoints": [
-    "전체 59건",
+    "전체 52건",
     "개인하수처리시설 1건",
-    "기고·칼럼 0건"
-   ]
-  },
-  {
-   "id": "강원",
-   "region": "강원",
-   "count": 49,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "강원 상하수도 기사 49건 · 개인하수처리시설 0건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
-   ],
-   "body": [
-    "많이 나온 주제: 상수도(26), 하수관로(8), 점검(4), 하수처리장(2), 누수(1).",
-    "최신 기사: “사고 나기 전에 막는다”… 횡성군수 직접 하수처리시설 긴급 점검 (2026-11-11) / 강릉 옥계 하수관로 연막조사 12~13일…흰 연기 발생 (2026-11-11) / [속초소식] 동절기 상수도 급수공사 일시 중지…27일 신청 마감 (2026-11-11)."
-   ],
-   "keyPoints": [
-    "전체 49건",
-    "개인하수처리시설 0건",
     "기고·칼럼 0건"
    ]
   },
   {
    "id": "경북",
    "region": "경북",
-   "count": 29,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "경북 상하수도 기사 29건 · 개인하수처리시설 1건",
+   "count": 34,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "경북 상하수도 기사 34건 · 개인하수처리시설 1건",
    "focus": [
     "최근 개인하수처리시설 기사: 빗물만 나간다던 우수관서 또 ‘검은 물’…포항시 “몰래 연결된 오수관 탓” (경북매일, 2026-10-26)"
    ],
    "body": [
-    "많이 나온 주제: 상수도(15), 분뇨(4), 하수관로(3), 오수(2), 지원사업(1).",
-    "최신 기사: 상주시, 2026년 상수도 민간검침원 간담회 개최 (2026-11-11) / 상주시농업기술센터, 가축분뇨 퇴비 품질 향상 위한 기술지도 지속 추진 (2026-11-10) / 상주시농업기술센터, 가축분뇨 퇴비 품질 향상 위한 기술지도 추진 (2026-11-10)."
+    "많이 나온 주제: 상수도(17), 하수처리장(4), 분뇨(4), 하수관로(3), 요금(2).",
+    "최신 기사: 구미하수처리장, 수질분석 국제숙련도 5년 연속 최우수 (2026-11-12) / 김천시, 경로당 상수도 요금 감면 시행 (2026-11-12) / 상주시, 2026년 상수도 민간검침원 간담회 개최 (2026-11-11)."
    ],
    "keyPoints": [
-    "전체 29건",
+    "전체 34건",
     "개인하수처리시설 1건",
     "기고·칼럼 1건"
    ]
   },
   {
-   "id": "부산",
-   "region": "부산",
-   "count": 8,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "부산 상하수도 기사 8건 · 개인하수처리시설 0건",
+   "id": "서울",
+   "region": "서울",
+   "count": 29,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "서울 상하수도 기사 29건 · 개인하수처리시설 2건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 관악구 개인하수처리시설의 청소 및 분뇨처리 관련 조례안 ‘찬·반 격돌’ (관악신문, 2026-11-06) / 서초구, '자치구 하수악취저감 추진실적 평가' 2년 연속 1위 달성 (내외일보, 2026-11-05)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(15), 제도(6), 점검(4), 하수처리장(4), 하수관로(4).",
+    "최신 기사: 서울특별시의회 도시안전건설위원회, 행감 중 서남물재생센터 현장방문 실시, 하수처리시설 및 시설현대화 사업 점검 (2026-11-12) / 서울시의회 도시안전건설위, 하수처리시설 및 시설현대화 사업 점검 (2026-11-11) / 김병진 서울시의원 “하수관로 공사 매몰 사망 반복… 서울시, 시정조치 이행까지 확인해야” (2026-11-11)."
+   ],
+   "keyPoints": [
+    "전체 29건",
+    "개인하수처리시설 2건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "전국",
+   "region": "전국",
+   "count": 148,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "전국 상하수도 기사 148건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 하수·분뇨 따라 이동하는 약물 잔류…UNEP, 배출원 관리 제안 (비건뉴스, 2026-11-11)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(59), 지하수(11), 하수관로(10), 점검(8), 분뇨(6).",
+    "최신 기사: 공우석 시의원 \"노후 하수관로 정비 기준안…정비 시점 미정으로 우려\" (2026-11-12) / 대기압 차로 오수를 옮기는 진공 하수관 (2026-11-12) / “시내버스 준공영제 연 1천억 투입… 혈세 누수 없애야” (2026-11-12)."
+   ],
+   "keyPoints": [
+    "전체 148건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 4건"
+   ]
+  },
+  {
+   "id": "강원",
+   "region": "강원",
+   "count": 61,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "강원 상하수도 기사 61건 · 개인하수처리시설 0건",
    "focus": [
     "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
    ],
    "body": [
-    "많이 나온 주제: 상수도(3), 지원사업(1), 분뇨(1).",
-    "최신 기사: \"부산 상수도본부 안전관리비 누락 반복…관리개선해야\" (2026-11-11) / [뭐라노] 부산 민주주의기록관 2년째 누수…개관 또 연기 (2026-11-11) / 최은영 부산시의원, 기록관 누수·나루공원 훼손 대책 촉구 (2026-11-10)."
+    "많이 나온 주제: 상수도(28), 하수관로(9), 점검(7), 하수처리장(5), 누수(1).",
+    "최신 기사: 원주시, 맨홀 관리기관 협업 체계 강화로 시민 불편 즉각 해소 (2026-11-12) / 원주시, 도로·인도 맨홀 불편 해소 총력… 신속 연계·정비 체계 가동 (2026-11-12) / 원주시, 도로·인도 맨홀 불편 해소 총력…신속 정비 체계 가동 (2026-11-12)."
    ],
    "keyPoints": [
-    "전체 8건",
+    "전체 61건",
     "개인하수처리시설 0건",
     "기고·칼럼 0건"
    ]
   },
   {
-   "id": "인천",
-   "region": "인천",
-   "count": 35,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "인천 상하수도 기사 35건 · 개인하수처리시설 1건",
+   "id": "경기",
+   "region": "경기",
+   "count": 77,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "경기 상하수도 기사 77건 · 개인하수처리시설 1건",
    "focus": [
-    "최근 개인하수처리시설 기사: [단독] 송도 아파트 지하주차장에 오수 역류...차량 피해·정전까지 (경인방송, 2026-10-31)"
+    "최근 개인하수처리시설 기사: 시흥물환경센터 분뇨처리장서 분뇨 유출…한 달 지나도 악취 진동 (경기일보, 2026-11-11)"
    ],
    "body": [
-    "많이 나온 주제: 상수도(23), 하수관로(5), 지원사업(3), 요금(2), 점검(1).",
-    "최신 기사: 최병은 인천시의회 의원, 서북부 신도시 상수도 인프라 선제 확충 촉구 (2026-11-11) / \"인천시, 물값 32% 올려놓고 수도관 교체는 33% 축소\" (2026-11-11) / “송도 상수관로 누수 2년 지나도록 복선화 ‘캄캄’” (2026-11-11)."
+    "많이 나온 주제: 상수도(16), 요금(9), 하수관로(5), 하수처리장(5), 분뇨(4).",
+    "최신 기사: 고양시 매년 하수도 요금 인상만 낡은 관로 고칠 돈, 통장서 ‘쿨쿨’ (2026-11-12) / 백영현 포천시장, 효신산업 찾아 기업 애로 청취…노후 상수도관 교체 검토 (2026-11-12) / 포천시, 덴마크서 가축분뇨 자원화 기술 살핀다 (2026-11-12)."
    ],
    "keyPoints": [
-    "전체 35건",
-    "개인하수처리시설 1건",
-    "기고·칼럼 0건"
-   ]
-  },
-  {
-   "id": "전남",
-   "region": "전남",
-   "count": 16,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "전남 상하수도 기사 16건 · 개인하수처리시설 1건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 목포시, 17년 동결 분뇨 수집·운반 수수료 현실화…시민 부담 고려 ‘단계적 인상’ (CBC뉴스, 2026-10-13)"
-   ],
-   "body": [
-    "많이 나온 주제: 상수도(10), 점검(1), 가뭄(1), 하수도계획(1), 마을하수도(1).",
-    "최신 기사: 전남광주시의회, 도로공사 안전 점검…이석주 의원, 상수도 원격검침기 부실 관리 지적 (2026-11-11) / 전남광주통합특별시의회 이석주 의원, 상수도 원격검침기 고장에 특정감사·수사의뢰 촉구 (2026-11-10) / 강광석 전남광주통합특별시의원, 상수도사업본부 5년간 총 9건 소송 패소, 패소 소송가액만 35억 3,900만 원, 손실 우려 (2026-11-10)."
-   ],
-   "keyPoints": [
-    "전체 16건",
+    "전체 77건",
     "개인하수처리시설 1건",
     "기고·칼럼 0건"
    ]
@@ -9731,37 +11740,113 @@
   {
    "id": "전북",
    "region": "전북",
-   "count": 69,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "전북 상하수도 기사 69건 · 개인하수처리시설 1건",
+   "count": 85,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "전북 상하수도 기사 85건 · 개인하수처리시설 1건",
    "focus": [
     "최근 개인하수처리시설 기사: “쓰레기·분뇨·하수시설도 있는데 왜 또 덕천인가”…주민들, 정읍시에 ‘공론화’ 요구 (전북도민일보, 2026-11-06)"
    ],
    "body": [
-    "많이 나온 주제: 상수도(52), 하수처리장(7), 악취(7), 하수관로(6), 점검(5).",
-    "최신 기사: 전주시 수돗물 필터 변색 논란… 시민 건강 최우선, 근본적인 원인 규명과 강력한 대책 촉구 (2026-11-11) / 전주시, 수돗물 수질검사 '적합'… 시민 불편 해소 조치 지속 (2026-11-11) / 익산 공공하수처리장, 악취 저감·환경교육 공간 '탈바꿈' (2026-11-10)."
+    "많이 나온 주제: 상수도(67), 하수처리장(8), 악취(7), 점검(6), 하수관로(6).",
+    "최신 기사: 전북도 \"'전주 망간 수돗물' 피해 보상, 수공과 협의\" (2026-11-12) / 전주시, 수돗물 필터 변색 공동대응…10개 배수지 망간 ‘불검출’ (2026-11-12) / 전주시 수돗물 필터 변색 논란… 시민 건강 최우선, 근본적인 원인 규명과 강력한 대책 촉구 (2026-11-11)."
    ],
    "keyPoints": [
-    "전체 69건",
+    "전체 85건",
     "개인하수처리시설 1건",
-    "기고·칼럼 1건"
+    "기고·칼럼 2건"
+   ]
+  },
+  {
+   "id": "부산",
+   "region": "부산",
+   "count": 16,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "부산 상하수도 기사 16건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(11), 지원사업(1), 분뇨(1).",
+    "최신 기사: 부산시의회 조용우 의원, 수돗물 과불화화합물 지속 검출 지적…근본 대책 촉구 (2026-11-12) / \"부산 상수도본부 안전관리비 누락 반복…관리개선해야\" (2026-11-11) / [뭐라노] 부산 민주주의기록관 2년째 누수…개관 또 연기 (2026-11-11)."
+   ],
+   "keyPoints": [
+    "전체 16건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
    ]
   },
   {
    "id": "대구",
    "region": "대구",
-   "count": 15,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "대구 상하수도 기사 15건 · 개인하수처리시설 0건",
+   "count": 26,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "대구 상하수도 기사 26건 · 개인하수처리시설 0건",
    "focus": [
     "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
    ],
    "body": [
-    "많이 나온 주제: 상수도(11), 하수관로(4), 가뭄(4), 수질(3), 점검(2).",
-    "최신 기사: 대구상수도사업본부, 흐린 물 출수 예상 안내 (2026-11-11) / 대구시의회 경제환경위, 노후 하수관·SRF 재정 부담 집중 점검 (2026-11-10) / 대구 상수도, 운문댐 가뭄에 수계 조정… 12일 밤 일부 지역 흐린 물 주의 (2026-11-10)."
+    "많이 나온 주제: 상수도(16), 하수관로(10), 유출(6), 가뭄(5), 수질(3).",
+    "최신 기사: ‘온기 가득한 김장 나눔’···대구 옛 두류정수장서 13~15일 ‘농·특산물 직거래 행사’도 (2026-11-12) / 대구상수도사업본부, 흐린 물 출수 예상 안내 (2026-11-11) / 대구 태평로 주유소서 경유 유출…일부 하수관로 유입 (2026-11-11)."
    ],
    "keyPoints": [
-    "전체 15건",
+    "전체 26건",
+    "개인하수처리시설 0건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "전남",
+   "region": "전남",
+   "count": 18,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "전남 상하수도 기사 18건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 목포시, 17년 동결 분뇨 수집·운반 수수료 현실화…시민 부담 고려 ‘단계적 인상’ (CBC뉴스, 2026-10-13)"
+   ],
+   "body": [
+    "많이 나온 주제: 상수도(11), 분뇨(2), 점검(2), 가뭄(1), 하수도계획(1).",
+    "최신 기사: 무안군, 가축분뇨 퇴비화 발효시스템 시연·평가회 개최 (2026-11-12) / 전남광주시의회, 도로공사 안전 점검…이석주 의원, 상수도 원격검침기 부실 관리 지적 (2026-11-11) / 광양시, 하반기 수돗물 수질평가위원회 개최…수질검사 결과·관리계획 점검 (2026-11-11)."
+   ],
+   "keyPoints": [
+    "전체 18건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "제주",
+   "region": "제주",
+   "count": 42,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "제주 상하수도 기사 42건 · 개인하수처리시설 9건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 제주도의회 양홍식 의원 “기설치된 개인하수처리시설의 기술관리인 선임 유예” (뉴스줌, 2026-11-10) / 제주, 개인하수처리시설 규제 강화 유명무실 (한라일보, 2026-11-06) / 중산간 지하수 관리구역 개발 논란 ‘애월포레스트’ 운명은? (제주의소리, 2026-10-19)"
+   ],
+   "body": [
+    "많이 나온 주제: 지하수(14), 상수도(13), 개인오수처리시설(6), 제도(6), 인허가(6).",
+    "최신 기사: [5부작기획, 제2부] 제주 상수도 적자 눈덩이…2030년 적자 382억 전망…5년 새 134억 증가 (2026-11-12) / [5부작기획, 제1부] 제주 상수도 보급률 100%의 그늘…수돗물 원가 회수율 58.5%…쌓이는 재정부담 (2026-11-11) / \"버리는 하수로 300만 가구 난방 가능\"...17일부터 재생에너지 인정 (2026-11-11)."
+   ],
+   "keyPoints": [
+    "전체 42건",
+    "개인하수처리시설 9건",
+    "기고·칼럼 2건"
+   ]
+  },
+  {
+   "id": "충남",
+   "region": "충남",
+   "count": 36,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "충남 상하수도 기사 36건 · 개인하수처리시설 0건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
+   ],
+   "body": [
+    "많이 나온 주제: 하수관로(22), 침수(5), 하수처리장(4), 점검(2), 상수도(2).",
+    "최신 기사: [저널25방송 팩트체크 결론] 보령시 배수설비 행정관리 어디까지 했나… 신고·검사는 비공개, 사후 점검은 기록 부존재 (2026-11-11) / 공주시, 불법 오수탱크 고발에 시 자산 반출 논란까지…최원철 시장은 왜 설명하지 않나 (2026-11-11) / [저널25방송 팩트체크 2] 보령시 배수설비 사후 점검·위반 기록 '부존재'… 실제 관리 여부 밝혀야 (2026-11-10)."
+   ],
+   "keyPoints": [
+    "전체 36건",
     "개인하수처리시설 0건",
     "기고·칼럼 0건"
    ]
@@ -9769,75 +11854,75 @@
   {
    "id": "해외",
    "region": "해외",
-   "count": 17,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "해외 상하수도 기사 17건 · 개인하수처리시설 6건",
+   "count": 19,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "해외 상하수도 기사 19건 · 개인하수처리시설 6건",
    "focus": [
     "최근 개인하수처리시설 기사: \"탕롱 대로변의 끔찍한 정화조 폐기물 투기 현장\" 기사에 이어서: 폐기물은 이제 치워졌습니다. (Vietnam.vn, 2026-11-11) / 하노이시는 하루 280톤 이상의 처리 용량을 가진 정화조 슬러지 처리 시설을 가동하기 시작했습니다. (Vietnam.vn, 2026-11-11) / 하노이에 하루 287톤 용량의 정화조 슬러지 처리장 준공 (Laodong.vn, 2026-11-10)"
    ],
    "body": [
     "많이 나온 주제: 정화조(6), 상수도(5), 하수처리장(1).",
-    "최신 기사: \"탕롱 대로변의 끔찍한 정화조 폐기물 투기 현장\" 기사에 이어서: 폐기물은 이제 치워졌습니다. (2026-11-11) / 하노이시는 하루 280톤 이상의 처리 용량을 가진 정화조 슬러지 처리 시설을 가동하기 시작했습니다. (2026-11-11) / 소외된 크메르족을 위한 상수도 공급 사업 준공식. (2026-11-10)."
+    "최신 기사: \"탕롱 대로변의 끔찍한 정화조 폐기물 투기 현장\" 기사에 이어서: 폐기물은 이제 치워졌습니다. (2026-11-11) / 하노이시는 하루 280톤 이상의 처리 용량을 가진 정화조 슬러지 처리 시설을 가동하기 시작했습니다. (2026-11-11) / 단수 상황에서도 사용 가능한 샤워 시설…개발 기업, 일본 오카야마현과 협정 체결 (2026-11-11)."
    ],
    "keyPoints": [
-    "전체 17건",
+    "전체 19건",
     "개인하수처리시설 6건",
-    "기고·칼럼 0건"
-   ]
-  },
-  {
-   "id": "제주",
-   "region": "제주",
-   "count": 39,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "제주 상하수도 기사 39건 · 개인하수처리시설 9건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 제주도의회 양홍식 의원 “기설치된 개인하수처리시설의 기술관리인 선임 유예” (뉴스줌, 2026-11-10) / 제주, 개인하수처리시설 규제 강화 유명무실 (한라일보, 2026-11-06) / 중산간 지하수 관리구역 개발 논란 ‘애월포레스트’ 운명은? (제주의소리, 2026-10-19)"
-   ],
-   "body": [
-    "많이 나온 주제: 지하수(14), 상수도(11), 개인오수처리시설(6), 제도(6), 인허가(6).",
-    "최신 기사: [5부작기획, 제1부] 제주 상수도 보급률 100%의 그늘…수돗물 원가 회수율 58.5%…쌓이는 재정부담 (2026-11-11) / 제주 첫 시설관리공단 수장에 양병우 내정… 하수·환경시설 42곳 맡는다 (2026-11-10) / 제주 하수슬러지 처리업체... 불법 매립의혹 공소청 송치 (2026-11-10)."
-   ],
-   "keyPoints": [
-    "전체 39건",
-    "개인하수처리시설 9건",
-    "기고·칼럼 2건"
-   ]
-  },
-  {
-   "id": "충북",
-   "region": "충북",
-   "count": 35,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "충북 상하수도 기사 35건 · 개인하수처리시설 1건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 청주시의회 김진석 의원, “정화조 폐쇄 비용, 시민에게만 부담시켜서는 안 됩니다.” (시민행정신문, 2026-10-23)"
-   ],
-   "body": [
-    "많이 나온 주제: 하수관로(14), 상수도(11), 분뇨(8), 싱크홀(7), 지원사업(6).",
-    "최신 기사: 청주시, 노후 하수관로 8.8㎞ 정비…지반침하 예방 (2026-11-10) / 청주시, 노후 하수관로 8.8㎞ 정비…2030년까지 264억 투입 (2026-11-10) / 청주시, 노후하수관로 8.8㎞ 정비…263억원 투입 (2026-11-10)."
-   ],
-   "keyPoints": [
-    "전체 35건",
-    "개인하수처리시설 1건",
     "기고·칼럼 0건"
    ]
   },
   {
    "id": "광주",
    "region": "광주",
-   "count": 4,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "광주 상하수도 기사 4건 · 개인하수처리시설 0건",
+   "count": 6,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "광주 상하수도 기사 6건 · 개인하수처리시설 2건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 광주환경공단, 분뇨 수거·운반 종사자 노고 격려 행사 (진일보 | 전남일보, 2026-11-11) / 광주환경공단, 분뇨 수거*운반 종사자 노고 격려 (일등방송, 2026-11-11)"
+   ],
+   "body": [
+    "많이 나온 주제: 분뇨(2), 하수관로(2), 상수도(2), 싱크홀(1), 수질(1).",
+    "최신 기사: 광주환경공단, 분뇨 수거·운반 종사자 노고 격려 행사 (2026-11-11) / 광주환경공단, 분뇨 수거*운반 종사자 노고 격려 (2026-11-11) / 광주 3대 하천 오수관로 76.3㎞ 정비···반도체 클러스터 뒷받침 (2026-11-10)."
+   ],
+   "keyPoints": [
+    "전체 6건",
+    "개인하수처리시설 2건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "충북",
+   "region": "충북",
+   "count": 36,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "충북 상하수도 기사 36건 · 개인하수처리시설 1건",
+   "focus": [
+    "최근 개인하수처리시설 기사: 청주시의회 김진석 의원, “정화조 폐쇄 비용, 시민에게만 부담시켜서는 안 됩니다.” (시민행정신문, 2026-10-23)"
+   ],
+   "body": [
+    "많이 나온 주제: 하수관로(14), 상수도(12), 분뇨(8), 싱크홀(7), 지원사업(6).",
+    "최신 기사: [청주시] 동절기 상수도 급수공사 접수 중지… 20일부터 (2026-11-11) / 청주시, 노후 하수관로 8.8㎞ 정비…지반침하 예방 (2026-11-10) / 청주시, 노후 하수관로 8.8㎞ 정비…2030년까지 264억 투입 (2026-11-10)."
+   ],
+   "keyPoints": [
+    "전체 36건",
+    "개인하수처리시설 1건",
+    "기고·칼럼 0건"
+   ]
+  },
+  {
+   "id": "경남",
+   "region": "경남",
+   "count": 9,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "경남 상하수도 기사 9건 · 개인하수처리시설 0건",
    "focus": [
     "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
    ],
    "body": [
-    "많이 나온 주제: 하수관로(2), 상수도(2), 싱크홀(1), 수질(1), 침수(1).",
-    "최신 기사: 광주 3대 하천 오수관로 76.3㎞ 정비···반도체 클러스터 뒷받침 (2026-11-10) / 광주 상수도관 노후관 정비 ‘과제’ (2026-11-05) / 광주 수돗물 음용률 1.9%…인식 개선 나선다 (2026-11-05)."
+    "많이 나온 주제: 상수도(6), 분뇨(1), 악취(1), 수질(1).",
+    "최신 기사: 양산시, 44억 정수장 증설 '공법선정취소' 소송 패소 (2026-11-11) / [함양군] 정수시설 운영 전문 인력 확충으로 수돗물 관리 역량 강화 (2026-11-10) / 덕유중 수돗물에 이물질… 거창군 대응은 마을까지 살폈다 (2026-11-10)."
    ],
    "keyPoints": [
-    "전체 4건",
+    "전체 9건",
     "개인하수처리시설 0건",
     "기고·칼럼 0건"
    ]
@@ -9846,7 +11931,7 @@
    "id": "울산",
    "region": "울산",
    "count": 7,
-   "updatedText": "2026.11.11 자동 집계",
+   "updatedText": "2026.11.12 자동 집계",
    "headline": "울산 상하수도 기사 7건 · 개인하수처리시설 1건",
    "focus": [
     "최근 개인하수처리시설 기사: 양홍식 의원 “기설치된 개인하수처리시설의 기술관리인 선임 유예” (뉴스N제주, 2026-11-10)"
@@ -9862,29 +11947,10 @@
    ]
   },
   {
-   "id": "경남",
-   "region": "경남",
-   "count": 7,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "경남 상하수도 기사 7건 · 개인하수처리시설 0건",
-   "focus": [
-    "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
-   ],
-   "body": [
-    "많이 나온 주제: 상수도(5), 수질(1).",
-    "최신 기사: [함양군] 정수시설 운영 전문 인력 확충으로 수돗물 관리 역량 강화 (2026-11-10) / 덕유중 수돗물에 이물질… 거창군 대응은 마을까지 살폈다 (2026-11-10) / 함양군, 정수시설 운영 전문인력 확충 (2026-11-08)."
-   ],
-   "keyPoints": [
-    "전체 7건",
-    "개인하수처리시설 0건",
-    "기고·칼럼 0건"
-   ]
-  },
-  {
    "id": "세종",
    "region": "세종",
    "count": 2,
-   "updatedText": "2026.11.11 자동 집계",
+   "updatedText": "2026.11.12 자동 집계",
    "headline": "세종 상하수도 기사 2건 · 개인하수처리시설 0건",
    "focus": [
     "최근 개인하수처리시설 기사: 최근 개인하수처리시설 기사가 없습니다."
@@ -9902,28 +11968,28 @@
   {
    "id": "전국",
    "region": "전국",
-   "count": 572,
-   "updatedText": "2026.11.11 자동 집계",
-   "headline": "전국 상하수도 기사 572건 · 개인하수처리시설 24건",
+   "count": 703,
+   "updatedText": "2026.11.12 자동 집계",
+   "headline": "전국 상하수도 기사 703건 · 개인하수처리시설 27건",
    "focus": [
-    "최근 개인하수처리시설 기사: \"탕롱 대로변의 끔찍한 정화조 폐기물 투기 현장\" 기사에 이어서: 폐기물은 이제 치워졌습니다. (Vietnam.vn, 2026-11-11) / 하노이시는 하루 280톤 이상의 처리 용량을 가진 정화조 슬러지 처리 시설을 가동하기 시작했습니다. (Vietnam.vn, 2026-11-11) / 제주도의회 양홍식 의원 “기설치된 개인하수처리시설의 기술관리인 선임 유예” (뉴스줌, 2026-11-10)"
+    "최근 개인하수처리시설 기사: \"탕롱 대로변의 끔찍한 정화조 폐기물 투기 현장\" 기사에 이어서: 폐기물은 이제 치워졌습니다. (Vietnam.vn, 2026-11-11) / 하노이시는 하루 280톤 이상의 처리 용량을 가진 정화조 슬러지 처리 시설을 가동하기 시작했습니다. (Vietnam.vn, 2026-11-11) / 광주환경공단, 분뇨 수거·운반 종사자 노고 격려 행사 (진일보 | 전남일보, 2026-11-11)"
    ],
    "body": [
-    "많이 나온 주제: 상수도(259), 하수관로(79), 지하수(31), 점검(29), 하수처리장(29).",
-    "최신 기사: [저널25방송 팩트체크 결론] 보령시 배수설비 행정관리 어디까지 했나… 신고·검사는 비공개, 사후 점검은 기록 부존재 (2026-11-11) / ‘턴키’ 새만금 하수처리시설, 또 유찰… 수의계약 유력 (2026-11-11) / 서울시의회 도시안전건설위, 하수처리시설 및 시설현대화 사업 점검 (2026-11-11)."
+    "많이 나온 주제: 상수도(315), 하수관로(99), 하수처리장(40), 점검(38), 지하수(31).",
+    "최신 기사: 인천환경공단, 한국상하수도협회와 손잡고 하수도 전문인력 키운다 (2026-11-12) / 구미하수처리장, 수질분석 국제숙련도 5년 연속 최우수 (2026-11-12) / 서울특별시의회 도시안전건설위원회, 행감 중 서남물재생센터 현장방문 실시, 하수처리시설 및 시설현대화 사업 점검 (2026-11-12)."
    ],
    "keyPoints": [
-    "전체 572건",
-    "개인하수처리시설 24건",
-    "기고·칼럼 5건"
+    "전체 703건",
+    "개인하수처리시설 27건",
+    "기고·칼럼 9건"
    ]
   }
  ],
  "meta": {
-  "lastRun": "2026-11-11",
-  "lastRunText": "2026.11.11 11:15 갱신 · 신규 176건",
+  "lastRun": "2026-11-12",
+  "lastRunText": "2026.11.12 12:21 갱신 · 신규 132건",
   "overall": [
-   "상하수도 기사 572건(같은 내용 묶음 기준 370건, 개인하수처리시설 24건, 기고 5건)을 서울(25)·부산(8)·대구(15)·인천(35)·광주(4)·울산(7)·세종(2)·경기(59)·강원(49)·충북(35)·충남(34)·전북(69)·전남(16)·경북(29)·경남(7)·제주(39)·전국(122)·해외(17)에서 모았습니다. 제주는 최근 6개월, 그 밖의 지역은 최근 30일 기사를 남깁니다.",
+   "상하수도 기사 703건(같은 내용 묶음 기준 438건, 개인하수처리시설 27건, 기고 9건)을 서울(29)·부산(16)·대구(26)·인천(52)·광주(6)·울산(7)·세종(2)·경기(77)·강원(61)·충북(36)·충남(36)·전북(85)·전남(18)·경북(34)·경남(9)·제주(42)·전국(148)·해외(19)에서 모았습니다. 제주는 최근 6개월, 그 밖의 지역은 최근 30일 기사를 남깁니다.",
    "구글 뉴스 검색 결과를 매일 자동으로 모은 목록입니다. 여러 매체가 같은 보도자료를 실은 기사는 한 묶음으로 보여 주며, 해외 상하수도 소식은 [해외]로 따로 모읍니다. 제목의 지역명과 검색어로 분류했으므로 일부 분류가 다를 수 있고, 정확한 내용은 원문 링크로 확인하세요."
   ]
  }
